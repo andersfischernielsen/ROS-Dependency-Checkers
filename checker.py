@@ -1,6 +1,9 @@
+from pprint import pprint
+
 import bashlex
 import untangle
 import os
+import sys
 import default_ros_binaries
 
 
@@ -42,5 +45,10 @@ def validate(scripts, run_deps):
     return errors
 
 
-scripts, run_deps = setup('Examples/MWE')
-validate(scripts, run_deps)
+if len(sys.argv) < 2:
+    sys.exit('Please run the script with a path to a valid ROS package.')
+
+scripts, run_deps = setup(sys.argv[1])
+
+print('Errors found:')
+pprint(validate(scripts, run_deps))

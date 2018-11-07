@@ -1,6 +1,8 @@
 # ROS Dependency Checker
 
-A proof-of-concept static dependency checker for ROS packages.
+A proof-of-concept static dependency checker for [ROS](http://www.ros.org) packages.
+
+Checks for undeclared runtime dependendencies in the shell scripts found in a package. 
 
 ---
 

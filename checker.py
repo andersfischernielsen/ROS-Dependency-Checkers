@@ -62,6 +62,6 @@ if len(sys.argv) < 2:
 
 scripts, run_deps = setup(sys.argv[1])
 
-print('Missing run_depend(s) found: ')
+print('Missing run_depend(s): ')
 res = validate(scripts, run_deps)
 print_result(res)

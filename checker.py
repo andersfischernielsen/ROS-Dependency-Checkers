@@ -4,7 +4,7 @@ import bashlex
 import untangle
 import os
 import sys
-import default_ros_binaries
+import melodic_default
 
 
 def setup(path):
@@ -15,7 +15,7 @@ def setup(path):
     packages_file = os.popen(packages_pattern).readlines()[0].strip()
     parsed = untangle.parse(packages_file)
     run_deps = set(map(lambda e: e.cdata, parsed.package.run_depend))
-    all_deps = default_ros_binaries.all_binaries.union(run_deps)
+    all_deps = melodic_default.all_binaries.union(run_deps)
     return (scripts, all_deps)
 
 

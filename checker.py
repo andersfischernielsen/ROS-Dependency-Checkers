@@ -1,4 +1,4 @@
-from pprint import pprint
+#!/usr/bin/env python3
 
 import bashlex
 import untangle

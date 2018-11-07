@@ -20,6 +20,11 @@ def setup(path):
 
 
 def validate(scripts, run_deps):
+    def list_or_none(l):
+        if not l:
+            return None
+        return l
+
     def dep_exists(s):
         if s and s.kind and s.kind is 'command' and s.parts[0].word not in run_deps:
             return s.parts[0].word
@@ -29,26 +34,34 @@ def validate(scripts, run_deps):
         ast = bashlex.parse(line.strip())
         errors = map(lambda a: dep_exists(a), ast)
         filtered = list(filter(lambda e: e is not None, errors))
-        if len(filtered) is 0:
-            return None
-        return list(filtered)
+        return list_or_none(filtered)
 
     def validate_script(script):
         with open(script) as f:
             lines = f.readlines()
-            if len(lines) > 0 and '/bin/bash' in lines[0]:
-                return list(map(lambda l: validate_line(l), lines[1:]))
+            if lines and '/bin/bash' in lines[0]:
+                map_filter = filter(lambda o: o is not None,
+                                    map(lambda l: validate_line(l), lines[1:]))
+                return list_or_none(list(map_filter))
             return None
 
-    missing = map(lambda s: (s, validate_script(s)), scripts)
-    errors = dict(missing)
-    return errors
+    def flatten(llist):
+        return [item for sublist in llist for item in sublist]
+
+    missing = dict(map(lambda s: (s, flatten(validate_script(s))), scripts))
+    return missing
+
+
+def print_result(res):
+    for (k, v) in res.items():
+        print('%s: %s' % (k, ', '.join(v)))
 
 
 if len(sys.argv) < 2:
-    sys.exit('Please run the script with a path to a valid ROS package.')
+    sys.exit('Please run the script with a path to a valid ROS package src.')
 
 scripts, run_deps = setup(sys.argv[1])
 
-print('Errors found:')
-pprint(validate(scripts, run_deps))
+print('Missing run_depend(s) found: ')
+res = validate(scripts, run_deps)
+print_result(res)

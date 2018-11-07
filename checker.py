@@ -53,8 +53,13 @@ def validate(scripts, run_deps):
 
 
 def print_result(res):
-    for (k, v) in res.items():
-        print('%s: %s' % (k, ', '.join(v)))
+    if not res:
+        print('None')
+    else:
+        for (k, v) in res.items():
+            print('%s' % k)
+            for e in v:
+                print('    %s' % e)
 
 
 if len(sys.argv) < 2:

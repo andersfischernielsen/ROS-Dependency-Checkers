@@ -61,19 +61,25 @@ def validate(scripts, shebangs, deps):
             return (script, errors)
 
     def validate_shebang(shebang):
-        with open(shebang) as f:
-            first = f.readlines()[:1][0].strip()
-            regexp = re.compile('((/| )([a-z])+)')
-            command, _, _ = regexp.findall(first)[-1:][0]
-            command = command[1:]
-            if command not in deps:
-                return (shebang, [MissingDependency(command, (first.rfind(command), len(first)), 1)])
+        try:
+            with open(shebang) as f:
+                first = f.readlines()[:1][0].strip()
+                regexp = re.compile('(#!)+([/ ][a-z]+)+')
+                command = regexp.findall(first)[0]
+                command = command[1:][0][1:]
+                if command not in deps:
+                    return (shebang, [MissingDependency(command, (first.rfind(command), len(first)), 1)])
+                return None
+        except Exception as e:
             return None
 
     def validate_line(line):
-        ast = bashlex.parsesingle(line.strip())
-        error = dependency_exists(ast)
-        return error
+        try:
+            ast = bashlex.parsesingle(line.strip())
+            error = dependency_exists(ast)
+            return error
+        except Exception as e:
+            return None
 
     def dependency_exists(ast):
         if not ast or not ast.parts:
@@ -88,8 +94,9 @@ def validate(scripts, shebangs, deps):
         filter(lambda r: r is not None,
                map(lambda s: validate_script(s), scripts)))
 
-    shebang_missing = dict(filter(lambda r: r is not None, map(
-        lambda s: validate_shebang(s), shebangs)))
+    shebang_missing = dict(
+        filter(lambda r: r is not None,
+               map(lambda s: validate_shebang(s), shebangs)))
 
     return (bash_missing, shebang_missing)
 

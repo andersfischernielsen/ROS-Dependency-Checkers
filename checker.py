@@ -20,26 +20,29 @@ def setup(path):
     grep_shebang = 'grep -rl ' + path + \
         r' -e "#\(\!\)\{0,1\}/bin\|usr\|sbin\|bash"'
     packages_pattern = 'find ' + path + r' -type f -name "package.xml"'
-    scripts = list(
-        map(lambda l: l.strip(), os.popen(grep_scripts).readlines()))
-    shebangs = list(
-        map(lambda l: l.strip(), os.popen(grep_shebang).readlines()))
-    packages_file = os.popen(packages_pattern).readlines()[0].strip()
-    parsed = untangle.parse(packages_file)
-    if not hasattr(parsed, 'package') or (not hasattr(parsed.package, 'run_depend') and not hasattr(parsed.package, 'exec_depend')):
-        return (scripts, melodic_default)
+    try:
+        scripts = list(
+            map(lambda l: l.strip(), os.popen(grep_scripts).readlines()))
+        shebangs = list(
+            map(lambda l: l.strip(), os.popen(grep_shebang).readlines()))
+        packages_file = os.popen(packages_pattern).readlines()[0].strip()
+        parsed = untangle.parse(packages_file)
 
-    run_deps = set()
-    exec_deps = set()
+        if not hasattr(parsed, 'package') or (not hasattr(parsed.package, 'run_depend') and not hasattr(parsed.package, 'exec_depend')):
+            return (scripts, melodic_default)
 
-    if hasattr(parsed.package, 'run_depend'):
-        run_deps = set(map(lambda e: e.cdata, parsed.package.run_depend))
+        run_deps = set()
+        exec_deps = set()
+        if hasattr(parsed.package, 'run_depend'):
+            run_deps = set(map(lambda e: e.cdata, parsed.package.run_depend))
+        if hasattr(parsed.package, 'exec_depend'):
+            exec_deps = set(map(lambda e: e.cdata, parsed.package.exec_depend))
 
-    if hasattr(parsed.package, 'exec_depend'):
-        exec_deps = set(map(lambda e: e.cdata, parsed.package.exec_depend))
-
-    all_deps = melodic_default.all_binaries.union(run_deps).union(exec_deps)
-    return (scripts, shebangs, all_deps)
+        all_deps = melodic_default.all_binaries.union(
+            run_deps).union(exec_deps)
+        return (scripts, shebangs, all_deps)
+    except Exception as e:
+        return ([], [], [])
 
 
 def validate(scripts, shebangs, deps):

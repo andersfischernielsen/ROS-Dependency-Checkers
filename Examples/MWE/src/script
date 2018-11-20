@@ -1,2 +1,2 @@
 #/bin/bash
-ipython -i non_exsistent.py
+ipython -i non_existent.py

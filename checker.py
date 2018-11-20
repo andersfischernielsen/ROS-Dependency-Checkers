@@ -7,6 +7,13 @@ import sys
 import melodic_default
 
 
+class MissingDependency:
+    def __init__(self, dependency, position):
+        self.dependency = dependency
+        self.position = position
+        self.line_number = None
+
+
 def setup(path):
     script_pattern = 'grep -rl ' + path + r' -e "#\(\!\)\{0,1\}/bin/bash"'
     packages_pattern = r'find . -type f -name "package.xml"'
@@ -20,46 +27,49 @@ def setup(path):
 
 
 def validate(scripts, run_deps):
-    def list_or_none(l):
-        if not l:
+    def dependency_exists(ast):
+        if not ast or not ast.parts:
             return None
-        return l
 
-    def dep_exists(s):
-        if s and s.kind and s.kind is 'command' and s.parts[0].word not in run_deps:
-            return s.parts[0].word
+        command = ast.parts[:1][0]
+        if command and command.kind is 'word' and command.word not in run_deps:
+            return MissingDependency(command.word, command.pos)
         return None
 
     def validate_line(line):
-        ast = bashlex.parse(line.strip())
-        errors = map(lambda a: dep_exists(a), ast)
-        filtered = list(filter(lambda e: e is not None, errors))
-        return list_or_none(filtered)
+        ast = bashlex.parsesingle(line.strip())
+        error = dependency_exists(ast)
+        return error
 
     def validate_script(script):
         with open(script) as f:
             lines = f.readlines()
-            if lines and '/bin/bash' in lines[0]:
-                map_filter = filter(lambda o: o is not None,
-                                    map(lambda l: validate_line(l), lines[1:]))
-                return list_or_none(list(map_filter))
-            return None
+            if not lines or not '/bin/bash' in lines[0]:
+                return None
 
-    def flatten(llist):
-        return [item for sublist in llist for item in sublist]
+            errors = []
+            for i, line in enumerate(lines):
+                result = validate_line(line)
+                if not result:
+                    continue
+                result.line_number = i
+                errors.append(result)
+            return errors
 
-    missing = dict(map(lambda s: (s, flatten(validate_script(s))), scripts))
+    missing = dict(map(lambda s: (s, validate_script(s)), scripts))
     return missing
 
 
-def print_result(res):
-    if not res:
-        print('None')
+def print_result(result):
+    if res:
+        print()
+        for script, errors in result.items():
+            print('in \'{}\''.format(script))
+            for e in errors:
+                print('    ln: {} {} \t\t\t{}'.format(
+                    e.line_number, e.position, e.dependency))
     else:
-        for (k, v) in res.items():
-            print('%s' % k)
-            for e in v:
-                print('    %s' % e)
+        print('None')
 
 
 if len(sys.argv) < 2:

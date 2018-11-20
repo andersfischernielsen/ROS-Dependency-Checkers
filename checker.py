@@ -27,20 +27,6 @@ def setup(path):
 
 
 def validate(scripts, run_deps):
-    def dependency_exists(ast):
-        if not ast or not ast.parts:
-            return None
-
-        command = ast.parts[:1][0]
-        if command and command.kind is 'word' and command.word not in run_deps:
-            return MissingDependency(command.word, command.pos)
-        return None
-
-    def validate_line(line):
-        ast = bashlex.parsesingle(line.strip())
-        error = dependency_exists(ast)
-        return error
-
     def validate_script(script):
         with open(script) as f:
             lines = f.readlines()
@@ -58,6 +44,20 @@ def validate(scripts, run_deps):
                 return None
             return (script, errors)
 
+    def validate_line(line):
+        ast = bashlex.parsesingle(line.strip())
+        error = dependency_exists(ast)
+        return error
+
+    def dependency_exists(ast):
+        if not ast or not ast.parts:
+            return None
+
+        command = ast.parts[:1][0]
+        if command and command.kind is 'word' and command.word not in run_deps:
+            return MissingDependency(command.word, command.pos)
+        return None
+
     missing = dict(
         filter(lambda r: r is not None,
                map(lambda s: validate_script(s), scripts)))
@@ -66,7 +66,7 @@ def validate(scripts, run_deps):
 
 def print_result(result):
     if result:
-        print('Missing dependencies: \n')
+        print('Missing dependencies')
         for script, errors in result.items():
             print('in \'{}\''.format(script))
             if not errors:

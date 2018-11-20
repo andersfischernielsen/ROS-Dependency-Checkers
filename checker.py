@@ -16,7 +16,7 @@ class MissingDependency:
 
 def setup(path):
     script_pattern = 'grep -rl ' + path + r' -e "#\(\!\)\{0,1\}/bin/bash"'
-    packages_pattern = r'find . -type f -name "package.xml"'
+    packages_pattern = 'find ' + path + r' -type f -name "package.xml"'
     scripts = list(
         map(lambda l: l.strip(), os.popen(script_pattern).readlines()))
     packages_file = os.popen(packages_pattern).readlines()[0].strip()
@@ -54,29 +54,34 @@ def validate(scripts, run_deps):
                     continue
                 result.line_number = i
                 errors.append(result)
-            return errors
+            if not errors:
+                return None
+            return (script, errors)
 
-    missing = dict(map(lambda s: (s, validate_script(s)), scripts))
+    missing = dict(
+        filter(lambda r: r is not None,
+               map(lambda s: validate_script(s), scripts)))
     return missing
 
 
 def print_result(result):
-    if res:
-        print()
+    if result:
+        print('Missing dependencies: \n')
         for script, errors in result.items():
             print('in \'{}\''.format(script))
-            for e in errors:
-                print('    ln: {} {} \t\t\t{}'.format(
-                    e.line_number, e.position, e.dependency))
+            if not errors:
+                print('    \t\t\t\tNone')
+            if (errors):
+                for e in errors:
+                    print('    ln: {} {} \t\t\t{}'.format(
+                        e.line_number, e.position, e.dependency))
     else:
-        print('None')
+        print('No missing dependencies found.')
 
 
 if len(sys.argv) < 2:
     sys.exit('Please run the script with a path to a valid ROS package src.')
 
 scripts, run_deps = setup(sys.argv[1])
-
-print('Missing run_depend(s): ')
 res = validate(scripts, run_deps)
 print_result(res)

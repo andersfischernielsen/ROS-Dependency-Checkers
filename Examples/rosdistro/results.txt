@@ -1,0 +1,2098 @@
+Checking DynamixelSDK
+Found 0 bash scripts.
+Found 57 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking PlotJuggler
+Found 0 bash scripts.
+Found 20 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking abseil-cpp
+Found 0 bash scripts.
+Found 19 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ackermann_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking actionlib
+Found 0 bash scripts.
+Found 32 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking adi_driver
+Found 1 bash scripts.
+Found 20 files containing shebangs (#!).
+Found 1 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'adi_driver/.github_release.sh'
+    ln: 9 (0, 3) 			hub
+    ln: 22 (0, 3) 			hub
+Checking agni_tf_tools
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking angles
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking app_manager
+Found 0 bash scripts.
+Found 19 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ar_track_alvar
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking arbotix_ros
+Found 0 bash scripts.
+Found 35 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking astuff_sensor_msgs
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking async_comm
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking audio_common
+Found 0 bash scripts.
+Found 25 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking automotive_autonomy_msgs
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking bond_core
+Found 0 bash scripts.
+Found 18 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking cartesian_msgs
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking catch_ros
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking catkin
+Found 0 bash scripts.
+Found 59 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking catkin_grpc
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking catkin_virtualenv
+Found 0 bash scripts.
+Found 42 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking class_loader
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking cmake_modules
+Found 0 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking code_coverage
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking collada_urdf
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking common_msgs
+Found 0 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking control_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking control_toolbox
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking costmap_converter
+Found 0 bash scripts.
+Found 17 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking diagnostics
+Found 0 bash scripts.
+Found 45 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking dynamic_reconfigure
+Found 0 bash scripts.
+Found 23 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking dynamixel-workbench
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking dynamixel-workbench-msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ecl_core
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ecl_lite
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ecl_manipulation
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ecl_navigation
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking eigen_stl_containers
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ethercat_grant
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ethzasl_xsens_driver
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking executive_smach
+Found 0 bash scripts.
+Found 21 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking fawkes_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking fetch_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking fetch_open_auto_dock
+Found 0 bash scripts.
+Found 16 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking fetch_tools
+Found 0 bash scripts.
+Found 27 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking filters
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking find-object
+Found 0 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking fmi_adapter
+Found 2 bash scripts.
+Found 16 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking four_wheel_steering_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking franka_ros
+Found 0 bash scripts.
+Found 19 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking gazebo_ros_pkgs
+Found 1 bash scripts.
+Found 39 files containing shebangs (#!).
+Found 1 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'gazebo_ros_pkgs/gazebo_ros/scripts/gdbrun'
+    ln: 18 (0, 13) 			${extra_text}
+    ln: 19 (0, 11) 			${run_text}
+    ln: 20 (0, 3) 			EOF
+    ln: 22 (0, 3) 			gdb
+Checking gencpp
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking generic_control_toolbox
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking geneus
+Found 1 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 1 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'geneus/.travis.sh'
+    ln: 41 (0, 10) 			${BUILDER}
+    ln: 58 (0, 10) 			${BUILDER}
+    ln: 76 (0, 10) 			${BUILDER}
+Checking genlisp
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking genmsg
+Found 0 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking gennodejs
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking genpy
+Found 0 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking geographic_info
+Found 0 bash scripts.
+Found 16 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking geometric_shapes
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking geometry
+Found 0 bash scripts.
+Found 19 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking geometry2
+Found 0 bash scripts.
+Found 28 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking geometry_tutorials
+Found 0 bash scripts.
+Found 23 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking gl_dependency
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking gps_umd
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking graph_msgs
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking grasping_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking hls_lfcd_lds_driver
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ibeo_core
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ibeo_lux
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ifopt
+Found 0 bash scripts.
+Found 17 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking image_common
+Found 0 bash scripts.
+Found 16 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking image_pipeline
+Found 0 bash scripts.
+Found 36 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking image_transport_plugins
+Found 0 bash scripts.
+Found 20 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking imagezero_transport
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking imu_tools
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking interactive_markers
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking joint_state_publisher
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking joystick_drivers
+Found 0 bash scripts.
+Found 26 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking jsk_roseus
+Found 5 bash scripts.
+Found 104 files containing shebangs (#!).
+Found 3 possible bash script errors.
+Found 60 possible shebang (#!) errors.
+in 'jsk_roseus/setup_upstream.sh'
+    ln: 12 (0, 5) 			usage
+    ln: 20 (0, 5) 			usage
+    ln: 48 (0, 1) 			-
+    ln: 49 (0, 4) 			uri:
+    ln: 50 (0, 11) 			local-name:
+    ln: 51 (0, 8) 			version:
+    ln: 52 (0, 3) 			EOF
+    ln: 67 (0, 4) 			wget
+    ln: 70 (0, 4) 			wget
+    ln: 75 (0, 4) 			wget
+    ln: 77 (0, 4) 			wget
+in 'jsk_roseus/roseus/test/test-genmsg.sh'
+    ln: 59 (0, 41) 			GENEUS_DEP1=${CATKIN_DIR}/src/geneus_dep1
+    ln: 60 (0, 41) 			GENEUS_DEP2=${CATKIN_DIR}/src/geneus_dep2
+    ln: 61 (0, 41) 			ROSEUS_DEP1=${CATKIN_DIR}/src/roseus_dep1
+    ln: 62 (0, 41) 			ROSEUS_DEP2=${CATKIN_DIR}/src/roseus_dep2
+    ln: 63 (0, 41) 			ROSEUS_DEP3=${CATKIN_DIR}/src/roseus_dep3
+    ln: 64 (0, 41) 			ROSEUS_DEP4=${CATKIN_DIR}/src/roseus_dep4
+    ln: 106 (0, 3) 			EOF
+    ln: 131 (0, 3) 			EOF
+    ln: 150 (0, 5) 			FILES
+    ln: 153 (0, 5) 			FILES
+    ln: 156 (0, 5) 			FILES
+    ln: 159 (0, 12) 			DEPENDENCIES
+    ln: 166 (0, 14) 			CATKIN_DEPENDS
+    ln: 179 (0, 3) 			EOF
+    ln: 197 (0, 5) 			FILES
+    ln: 200 (0, 12) 			DEPENDENCIES
+    ln: 207 (0, 14) 			CATKIN_DEPENDS
+    ln: 215 (0, 3) 			EOF
+    ln: 257 (0, 3) 			EOF
+    ln: 293 (0, 3) 			EOF
+    ln: 321 (0, 3) 			EOF
+    ln: 328 (0, 6) 			Header
+    ln: 329 (0, 6) 			string
+    ln: 330 (0, 18) 			$parent_pkg/String
+    ln: 331 (0, 3) 			EOF
+    ln: 333 (0, 6) 			Header
+    ln: 334 (0, 6) 			string
+    ln: 335 (0, 18) 			$parent_pkg/String
+    ln: 336 (0, 3) 			EOF
+    ln: 344 (0, 6) 			Header
+    ln: 345 (0, 6) 			string
+    ln: 346 (0, 18) 			$parent_pkg/String
+    ln: 347 (0, 3) 			---
+    ln: 349 (0, 3) 			---
+    ln: 352 (0, 3) 			EOF
+    ln: 358 (0, 3) 			EOF
+    ln: 362 (0, 15) 			add_${MANIFEST}
+    ln: 363 (0, 15) 			add_${MANIFEST}
+    ln: 364 (0, 15) 			add_${MANIFEST}
+    ln: 365 (0, 15) 			add_${MANIFEST}
+    ln: 366 (0, 15) 			add_${MANIFEST}
+    ln: 367 (0, 15) 			add_${MANIFEST}
+    ln: 370 (0, 9) 			add_cmake
+    ln: 371 (0, 9) 			add_cmake
+    ln: 372 (0, 9) 			add_cmake
+    ln: 373 (0, 9) 			add_cmake
+    ln: 374 (0, 9) 			add_cmake
+    ln: 375 (0, 21) 			add_cmake_only_action
+    ln: 377 (0, 7) 			add_cpp
+    ln: 378 (0, 7) 			add_cpp
+    ln: 379 (0, 7) 			add_cpp
+    ln: 380 (0, 7) 			add_cpp
+    ln: 381 (0, 7) 			add_cpp
+    ln: 383 (0, 8) 			add_lisp
+    ln: 384 (0, 8) 			add_lisp
+    ln: 385 (0, 8) 			add_lisp
+    ln: 386 (0, 8) 			add_lisp
+    ln: 387 (0, 8) 			add_lisp
+    ln: 388 (0, 8) 			add_lisp
+    ln: 389 (0, 20) 			add_lisp_only_action
+    ln: 391 (0, 7) 			add_msg
+    ln: 392 (0, 7) 			add_msg
+    ln: 393 (0, 7) 			add_msg
+    ln: 394 (0, 7) 			add_msg
+    ln: 395 (0, 7) 			add_msg
+    ln: 397 (0, 10) 			add_action
+    ln: 398 (0, 10) 			add_action
+    ln: 399 (0, 10) 			add_action
+    ln: 400 (0, 10) 			add_action
+    ln: 401 (0, 10) 			add_action
+    ln: 402 (0, 10) 			add_action
+    ln: 404 (0, 7) 			add_srv
+    ln: 405 (0, 7) 			add_srv
+    ln: 406 (0, 7) 			add_srv
+    ln: 407 (0, 7) 			add_srv
+    ln: 408 (0, 7) 			add_srv
+    ln: 469 (0, 13) 			${ROSEUS_EXE}
+    ln: 470 (0, 13) 			${ROSEUS_EXE}
+    ln: 471 (0, 13) 			${ROSEUS_EXE}
+    ln: 472 (0, 13) 			${ROSEUS_EXE}
+    ln: 473 (0, 13) 			${ROSEUS_EXE}
+    ln: 474 (0, 13) 			${ROSEUS_EXE}
+    ln: 477 (0, 13) 			${ROSEUS_EXE}
+    ln: 478 (0, 13) 			${ROSEUS_EXE}
+    ln: 479 (0, 13) 			${ROSEUS_EXE}
+    ln: 480 (0, 13) 			${ROSEUS_EXE}
+    ln: 481 (0, 13) 			${ROSEUS_EXE}
+    ln: 482 (0, 13) 			${ROSEUS_EXE}
+    ln: 484 (0, 14) 			${EUSLISP_EXE}
+    ln: 487 (0, 14) 			${EUSLISP_EXE}
+    ln: 496 (0, 3) 			EOF
+in 'jsk_roseus/roseus/scripts/generate-all-msg-srv.sh'
+    ln: 17 (0, 45) 			err_list[${#err_list[*]}]=${pkg_list[$pkg_i]}
+    ln: 23 (0, 47) 			warn_list[${#warn_list[*]}]=${pkg_list[$pkg_i]}
+    ln: 62 (0, 39) 			pkg_list[${#pkg_list[*]}]=$fullpath_pkg
+    ln: 89 (0, 11) 			check-error
+    ln: 96 (0, 11) 			check-error
+    ln: 102 (0, 11) 			check-error
+    ln: 105 (0, 11) 			check-error
+in 'jsk_roseus/roseus_tutorials/src/openni-swipe.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/checkerboard-detector.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/saliency-tracking.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/kinect-model-viewer.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/roi-reconfigure-call.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/eus-pointcloud-example.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/subscribe-pointcloud.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/point-pose-extraction.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/template-track.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/vision-action-example3.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/publish-marker.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/ar-pose.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/face-detector-mono.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/camshiftdemo.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/aques-talk.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/openni-pointer.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/vision-action-example2.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/tabletop-object-detector.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/checkerboard-pose.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/vision-action-example1.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/cmvision.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_tutorials/src/wiimote.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_smach/test/smach-action-client-state-in-server.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_smach/test/test-action-client-state-in-server.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_smach/test/test-roseus-smach-utils.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_smach/test/test-action-server.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_smach/sample/state-machine-ros-sample.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_smach/sample/parallel-state-machine-sample.l'
+    ln: 1 (15, 23) 			irteusgl
+in 'jsk_roseus/roseus_smach/sample/fibonacci-server.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus_smach/sample/state-machine-sample.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/talker-private-topic.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-nodename.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/simple-client-cancel-test.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-name-sub.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/say.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/talker.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/add-two-ints-server.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-disconnect.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-name-pub.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-namespace.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-timer.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/view-frame.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/fibonacci-client.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-actionlib.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-roseus.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/param-test.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/joy.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/fibonacci-server.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-tf.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-geneus.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-add-two-ints-server.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-add-two-ints.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/listener.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-compile-message.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/add-two-ints-client.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-talker-listener.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-mark-lock.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/simple-client-test.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/simple-client-wait-test.l'
+    ln: 1 (15, 21) 			roseus
+in 'jsk_roseus/roseus/test/test-multi-queue.l'
+    ln: 1 (15, 21) 			roseus
+Checking kdl_parser
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking kobuki_core
+Found 4 bash scripts.
+Found 21 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking laser_assembler
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking laser_filtering
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking laser_filters
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking laser_geometry
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking laser_pipeline
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking laser_proc
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking leap_motion
+Found 0 bash scripts.
+Found 17 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking libuvc
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking libuvc_ros
+Found 2 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking map-merge
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking mapviz
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking marker_rviz_plugin
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking marti_common
+Found 5 bash scripts.
+Found 28 files containing shebangs (#!).
+Found 2 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'marti_common/swri_prefix_tools/xterm_prefix_hold'
+    ln: 5 (0, 2) 			$@
+in 'marti_common/swri_prefix_tools/xterm_prefix_normal'
+    ln: 4 (0, 2) 			$@
+Checking marti_messages
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking mav_comm
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking mavlink-gbp-release
+Found 5 bash scripts.
+Found 101 files containing shebangs (#!).
+Found 5 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'mavlink-gbp-release/pymavlink/test_generator.sh'
+    ln: 15 (0, 9) 			mavgen.py
+    ln: 16 (0, 9) 			mavgen.py
+    ln: 18 (0, 9) 			mavgen.py
+    ln: 22 (0, 19) 			./testmav1.0_common
+    ln: 23 (0, 19) 			./testmav2.0_common
+    ln: 24 (0, 26) 			./testmav1.0_ardupilotmega
+    ln: 25 (0, 26) 			./testmav2.0_ardupilotmega
+in 'mavlink-gbp-release/scripts/format_xml.sh'
+    ln: 12 (0, 9) 			show_help
+    ln: 24 (0, 7) 			xmllint
+in 'mavlink-gbp-release/scripts/travis_update_generated_repos.sh'
+    ln: 38 (0, 29) 			./scripts/update_c_library.sh
+    ln: 45 (0, 29) 			./scripts/update_c_library.sh
+in 'mavlink-gbp-release/scripts/update_c_library.sh'
+    ln: 30 (0, 8) 			--output
+    ln: 31 (0, 6) 			--lang
+    ln: 32 (0, 15) 			--wire-protocol
+    ln: 33 (0, 31) 			message_definitions/v1.0/$1.xml
+    ln: 62 (0, 16) 			generate_headers
+    ln: 63 (0, 16) 			generate_headers
+    ln: 64 (0, 16) 			generate_headers
+    ln: 65 (0, 16) 			generate_headers
+    ln: 66 (0, 16) 			generate_headers
+    ln: 67 (0, 16) 			generate_headers
+    ln: 68 (0, 16) 			generate_headers
+    ln: 69 (0, 16) 			generate_headers
+in 'mavlink-gbp-release/scripts/test.sh'
+    ln: 17 (0, 23) 			./scripts/format_xml.sh
+    ln: 31 (0, 3) 			pip
+    ln: 38 (0, 44) 			protocol:${wire_protocol} language:${lang}
+    ln: 42 (0, 9) 			mavgen.py
+    ln: 43 (0, 15) 			--wire-protocol
+    ln: 44 (0, 14) 			--strict-units
+    ln: 45 (0, 20) 			--output=${outdir}
+    ln: 56 (0, 16) 			generate_mavlink
+    ln: 61 (0, 16) 			generate_mavlink
+    ln: 85 (0, 34) 			pymavlink/tests/test_quaternion.py
+    ln: 88 (0, 30) 			pymavlink/tests/test_rotmat.py
+Checking mavros
+Found 1 bash scripts.
+Found 31 files containing shebangs (#!).
+Found 1 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'mavros/mavros/scripts/install_geographiclib_datasets.sh'
+    ln: 22 (0, 23) 			geographiclib-get-$tool
+    ln: 27 (0, 7) 			run_get
+    ln: 28 (0, 7) 			run_get
+    ln: 29 (0, 7) 			run_get
+Checking mcl_3dl
+Found 4 bash scripts.
+Found 16 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking mcl_3dl_msgs
+Found 1 bash scripts.
+Found 16 files containing shebangs (#!).
+Found 1 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'mcl_3dl_msgs/.travis/test.sh'
+    ln: 5 (0, 3) 			pip
+    ln: 13 (0, 11) 			catkin_lint
+    ln: 17 (0, 6) 			```
+    ln: 18 (0, 24) 			`catkin_lint $pkgs 2>&1`
+    ln: 19 (0, 6) 			```
+    ln: 24 (0, 56) 			/opt/ros/${ROS_DISTRO}/share/catkin/cmake/toplevel.cmake
+    ln: 26 (0, 56) 			/opt/ros/${ROS_DISTRO}/share/catkin/cmake/toplevel.cmake
+    ln: 40 (0, 6) 			```
+    ln: 41 (0, 54) 			`catkin_test_results --all | grep -v Skipping || true`
+    ln: 42 (0, 6) 			```
+    ln: 46 (0, 6) 			```
+    ln: 47 (0, 54) 			`catkin_test_results --all | grep -v Skipping || true`
+    ln: 48 (0, 6) 			```
+Checking media_export
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking message_generation
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking message_runtime
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking metapackages
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking move_base_flex
+Found 0 bash scripts.
+Found 16 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking moveit
+Found 1 bash scripts.
+Found 44 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking moveit_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking moveit_python
+Found 0 bash scripts.
+Found 18 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking moveit_resources
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking moveit_sim_controller
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking moveit_visual_tools
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking mrpt
+Found 15 bash scripts.
+Found 139 files containing shebangs (#!).
+Found 8 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'mrpt/scripts/prepare_release.sh'
+    ln: 79 (0, 4) 			wget
+    ln: 97 (0, 3) 			zip
+in 'mrpt/scripts/add_doxygen_groups_all_files.sh'
+    ln: 16 (0, 57) 			add-doxygen-grouping-headers/add-doxygen-grouping-headers
+    ln: 17 (0, 7) 			fromdos
+in 'mrpt/scripts/replace_post_pre_iterators.sh'
+    ln: 6 (0, 28) 			LST1=$(find . -name '*.cpp')
+    ln: 7 (0, 28) 			LST2=$(find . -name '*.cxx')
+    ln: 8 (0, 26) 			LST3=$(find . -name '*.h')
+    ln: 9 (0, 28) 			LST4=$(find . -name '*.hpp')
+in 'mrpt/scripts/prepare_ubuntu_pkgs_for_ppa_no_SSE3.sh'
+    ln: 8 (0, 9) 			/bin/bash
+in 'mrpt/scripts/recompile_mrpt_for_all_distributions.sh'
+    ln: 47 (0, 8) 			pbuilder
+in 'mrpt/scripts/coveralls_submit.sh'
+    ln: 6 (0, 4) 			lcov
+    ln: 7 (0, 4) 			lcov
+    ln: 8 (0, 4) 			lcov
+    ln: 11 (0, 14) 			coveralls-lcov
+in 'mrpt/scripts/prepare_ubuntu_pkgs_for_ppa.sh'
+    ln: 40 (0, 79) 			EMAIL4DEB=Jose Luis Blanco (University of Malaga) <joseluisblancoc@gmail.com>
+    ln: 87 (0, 7) 			debuild
+in 'mrpt/scripts/update_copyright_note_all_files.sh'
+    ln: 6 (0, 32) 			F1=$(find ../src/ -name '*.cpp')
+    ln: 7 (0, 60) 			F2=$(find ../include/mrpt/ -name '*.h' | grep -v  otherlibs)
+    ln: 8 (0, 33) 			F3=$(find ../apps/ -name '*.cpp')
+    ln: 9 (0, 31) 			F4=$(find ../apps/ -name '*.h')
+    ln: 10 (0, 36) 			F5=$(find ../samples/ -name '*.cpp')
+    ln: 15 (0, 29) 			replace-header/replace-header
+    ln: 16 (0, 8) 			dos2unix
+Checking mrpt_bridge
+Found 1 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking mrpt_msgs
+Found 1 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking mrpt_navigation
+Found 1 bash scripts.
+Found 19 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking mrpt_sensors
+Found 1 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking mrpt_slam
+Found 1 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking multimaster_fkie
+Found 1 bash scripts.
+Found 41 files containing shebangs (#!).
+Found 1 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'multimaster_fkie/node_manager_fkie/scripts/respawn'
+    ln: 13 (0, 4) 			$@
+Checking mvsim
+Found 1 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking navigation
+Found 0 bash scripts.
+Found 29 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking navigation_experimental
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking navigation_layers
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking navigation_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking neonavigation_msgs
+Found 1 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 1 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'neonavigation_msgs/.travis/test.sh'
+    ln: 5 (0, 3) 			pip
+    ln: 16 (0, 11) 			catkin_lint
+    ln: 20 (0, 6) 			```
+    ln: 21 (0, 24) 			`catkin_lint $pkgs 2>&1`
+    ln: 22 (0, 6) 			```
+    ln: 26 (0, 56) 			/opt/ros/${ROS_DISTRO}/share/catkin/cmake/toplevel.cmake
+    ln: 28 (0, 56) 			/opt/ros/${ROS_DISTRO}/share/catkin/cmake/toplevel.cmake
+    ln: 42 (0, 6) 			```
+    ln: 43 (0, 54) 			`catkin_test_results --all | grep -v Skipping || true`
+    ln: 44 (0, 6) 			```
+    ln: 48 (0, 6) 			```
+    ln: 49 (0, 54) 			`catkin_test_results --all | grep -v Skipping || true`
+    ln: 50 (0, 6) 			```
+Checking nerian_stereo
+Found 4 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 4 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'nerian_stereo/scripts/config_device_passthru.sh'
+    ln: 6 (0, 4) 			curl
+in 'nerian_stereo/scripts/config_device_stereo.sh'
+    ln: 6 (0, 4) 			curl
+in 'nerian_stereo/scripts/config_device_rectify.sh'
+    ln: 6 (0, 4) 			curl
+in 'nerian_stereo/scripts/download_calibration.sh'
+    ln: 6 (0, 4) 			curl
+Checking network_interface
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking nmea_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking nmea_navsat_driver
+Found 0 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking nodelet_core
+Found 0 bash scripts.
+Found 23 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking novatel_gps_driver
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking novatel_span_driver
+Found 0 bash scripts.
+Found 23 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking object_recognition_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking octomap
+Found 1 bash scripts.
+Found 18 files containing shebangs (#!).
+Found 1 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'octomap/scripts/travis_build_jobs.sh'
+    ln: 17 (0, 5) 			build
+    ln: 22 (0, 5) 			build
+    ln: 26 (0, 5) 			build
+    ln: 28 (0, 5) 			build
+Checking octomap_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking octomap_ros
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking odva_ethernetip
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking open_karto
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking opencv_apps
+Found 1 bash scripts.
+Found 43 files containing shebangs (#!).
+Found 1 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'opencv_apps/.travis.sh'
+    ln: 26 (0, 17) 			travis_time_start
+    ln: 38 (0, 15) 			travis_time_end
+    ln: 40 (0, 17) 			travis_time_start
+    ln: 50 (0, 15) 			travis_time_end
+    ln: 52 (0, 17) 			travis_time_start
+    ln: 70 (0, 15) 			travis_time_end
+    ln: 74 (0, 17) 			travis_time_start
+    ln: 77 (0, 6) 			catkin
+    ln: 78 (0, 6) 			catkin
+    ln: 81 (0, 6) 			catkin
+    ln: 82 (0, 6) 			catkin
+    ln: 83 (0, 15) 			travis_time_end
+Checking openni2_camera
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking openni_camera
+Found 0 bash scripts.
+Found 16 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking orb_slam_2_ros
+Found 0 bash scripts.
+Found 16 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking orocos_kinematics_dynamics
+Found 0 bash scripts.
+Found 24 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking p2os
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking pacmod3
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking pacmod_game_control
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking panda_moveit_config
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking parrot_arsdk
+Found 0 bash scripts.
+Found 28 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking pcl_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking people
+Found 0 bash scripts.
+Found 16 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking pepperl_fuchs
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking perception_pcl
+Found 1 bash scripts.
+Found 29 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking phidgets_drivers
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking pid
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking pilz_industrial_motion
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking pilz_robots
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking pluginlib
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking pointcloud_to_laserscan
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking pose_cov_ops
+Found 1 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking pr2_kinematics
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking prbt_grippers
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking py_trees
+Found 2 bash scripts.
+Found 68 files containing shebangs (#!).
+Found 2 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'py_trees/virtualenv.bash'
+    ln: 5 (0, 6) 			workon
+    ln: 7 (0, 12) 			mkvirtualenv
+    ln: 12 (0, 3) 			pip
+    ln: 13 (0, 3) 			pip
+in 'py_trees/virtualenv3.bash'
+    ln: 9 (0, 6) 			workon
+    ln: 11 (0, 12) 			mkvirtualenv
+    ln: 16 (0, 3) 			pip
+    ln: 17 (0, 3) 			pip
+Checking py_trees_ros
+Found 0 bash scripts.
+Found 57 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking python_qt_binding
+Found 0 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking qbchain-ros
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking qbdevice-ros
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking qbhand-ros
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking qbmove-ros
+Found 0 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking qt_gui_core
+Found 0 bash scripts.
+Found 21 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking qwt_dependency
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rail_manipulation_msgs
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking random_numbers
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking raspimouse_sim
+Found 3 bash scripts.
+Found 20 files containing shebangs (#!).
+Found 2 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'raspimouse_sim/raspimouse_control/scripts/clean_dev_file.sh'
+    ln: 3 (0, 6) 			rtled0
+    ln: 4 (0, 6) 			rtled1
+    ln: 5 (0, 6) 			rtled2
+    ln: 6 (0, 6) 			rtled3
+    ln: 7 (0, 9) 			rtswitch0
+    ln: 8 (0, 9) 			rtswitch1
+    ln: 9 (0, 9) 			rtswitch2
+    ln: 10 (0, 9) 			rtbuzzer0
+    ln: 11 (0, 14) 			rtlightsensor0
+    ln: 12 (0, 10) 			rtmotoren0
+    ln: 13 (0, 14) 			rtmotor_raw_r0
+    ln: 14 (0, 14) 			rtmotor_raw_l0
+    ln: 15 (0, 8) 			rtmotor0
+    ln: 16 (0, 10) 			rtcounter0
+    ln: 17 (0, 12) 			rtcounter_r0
+    ln: 18 (0, 12) 			rtcounter_l0
+in 'raspimouse_sim/raspimouse_control/scripts/gen_dev_file.sh'
+    ln: 3 (0, 6) 			rtled0
+    ln: 4 (0, 6) 			rtled1
+    ln: 5 (0, 6) 			rtled2
+    ln: 6 (0, 6) 			rtled3
+    ln: 7 (0, 9) 			rtswitch0
+    ln: 8 (0, 9) 			rtswitch1
+    ln: 9 (0, 9) 			rtswitch2
+    ln: 10 (0, 9) 			rtbuzzer0
+    ln: 11 (0, 14) 			rtlightsensor0
+    ln: 12 (0, 10) 			rtmotoren0
+    ln: 13 (0, 14) 			rtmotor_raw_r0
+    ln: 14 (0, 14) 			rtmotor_raw_l0
+    ln: 15 (0, 8) 			rtmotor0
+    ln: 16 (0, 10) 			rtcounter0
+    ln: 17 (0, 12) 			rtcounter_r0
+    ln: 18 (0, 12) 			rtcounter_l0
+Checking rc_cloud_accumulator
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rc_dynamics_api
+Found 0 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rc_genicam_api
+Found 1 bash scripts.
+Found 25 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rc_visard_ros
+Found 0 bash scripts.
+Found 17 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking realtime_tools
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking resource_retriever
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rgbd_launch
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking robot_activity
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking robot_calibration
+Found 0 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking robot_controllers
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking robot_localization
+Found 2 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 1 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'robot_localization/test/record_all_stats.sh'
+    ln: 2 (0, 18) 			./stat_recorder.sh
+    ln: 3 (0, 18) 			./stat_recorder.sh
+    ln: 4 (0, 18) 			./stat_recorder.sh
+    ln: 6 (0, 18) 			./stat_recorder.sh
+    ln: 7 (0, 18) 			./stat_recorder.sh
+    ln: 8 (0, 18) 			./stat_recorder.sh
+Checking robot_state_publisher
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking robot_upstart
+Found 5 bash scripts.
+Found 29 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ros
+Found 0 bash scripts.
+Found 72 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ros_canopen
+Found 1 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 1 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'ros_canopen/socketcan_bridge/test/initialize_vcan.sh'
+    ln: 13 (0, 8) 			ifconfig
+    ln: 25 (0, 8) 			ifconfig
+Checking ros_comm
+Found 7 bash scripts.
+Found 225 files containing shebangs (#!).
+Found 5 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'ros_comm/tools/topic_tools/demos/test_mux'
+    ln: 7 (0, 5) 			./mux
+in 'ros_comm/tools/topic_tools/demos/test_throttle'
+    ln: 5 (0, 8) 			valgrind
+in 'ros_comm/tools/topic_tools/demos/test_relay'
+    ln: 5 (0, 7) 			./relay
+in 'ros_comm/test/test_rosbag/bag_migration_tests/scripts/generate_rules'
+    ln: 48 (0, 8) 			save_msg
+    ln: 100 (0, 16) 			build_generation
+    ln: 113 (0, 15) 			save_generation
+    ln: 126 (0, 16) 			build_generation
+    ln: 139 (0, 10) 			make_rules
+in 'ros_comm/test/test_rosbag/bag_migration_tests/scripts/generate_data'
+    ln: 42 (0, 16) 			build_generation
+    ln: 63 (0, 16) 			build_generation
+Checking ros_comm_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ros_control
+Found 0 bash scripts.
+Found 31 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ros_control_boilerplate
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ros_controllers
+Found 0 bash scripts.
+Found 18 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ros_driver
+Found 0 bash scripts.
+Found 23 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ros_emacs_utils
+Found 0 bash scripts.
+Found 24 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ros_environment
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ros_pytest
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ros_tutorials
+Found 0 bash scripts.
+Found 37 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ros_type_introspection
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rosauth
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rosbridge_suite
+Found 0 bash scripts.
+Found 46 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking roscompile
+Found 0 bash scripts.
+Found 23 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rosconsole
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rosconsole_bridge
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking roscpp_core
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rosdoc_lite
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking roslint
+Found 1 bash scripts.
+Found 17 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking roslisp
+Found 0 bash scripts.
+Found 20 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking roslisp_common
+Found 0 bash scripts.
+Found 20 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rosmon
+Found 0 bash scripts.
+Found 18 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rospack
+Found 0 bash scripts.
+Found 16 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rosparam_shortcuts
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rospilot
+Found 1 bash scripts.
+Found 19 files containing shebangs (#!).
+Found 1 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'rospilot/scripts/first_time_setup.sh'
+    ln: 32 (0, 4) 			wget
+Checking rosserial
+Found 0 bash scripts.
+Found 48 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rplidar_ros
+Found 2 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt
+Found 0 bash scripts.
+Found 28 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_action
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_bag
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_common_plugins
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_console
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_dep
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_graph
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_image_view
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_launch
+Found 0 bash scripts.
+Found 16 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_logger_level
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_moveit
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_msg
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_nav_view
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_plot
+Found 0 bash scripts.
+Found 20 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_pose_view
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_publisher
+Found 0 bash scripts.
+Found 17 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_py_console
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_py_trees
+Found 0 bash scripts.
+Found 18 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_reconfigure
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_robot_dashboard
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_robot_monitor
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_robot_plugins
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_robot_steering
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_runtime_monitor
+Found 0 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_rviz
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_service_caller
+Found 0 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_shell
+Found 0 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_srv
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_tf_tree
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_top
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_topic
+Found 0 bash scripts.
+Found 16 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rqt_web
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rtabmap
+Found 12 bash scripts.
+Found 35 files containing shebangs (#!).
+Found 12 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'rtabmap/docker/bionic/hooks/post_push'
+    ln: 1 (0, 6) 			docker
+in 'rtabmap/docker/bionic/hooks/build'
+    ln: 1 (0, 6) 			docker
+in 'rtabmap/docker/artful/hooks/post_push'
+    ln: 1 (0, 6) 			docker
+in 'rtabmap/docker/artful/hooks/build'
+    ln: 1 (0, 6) 			docker
+in 'rtabmap/docker/zesty/hooks/post_push'
+    ln: 1 (0, 6) 			docker
+in 'rtabmap/docker/zesty/hooks/build'
+    ln: 1 (0, 6) 			docker
+in 'rtabmap/docker/xenial/hooks/post_push'
+    ln: 1 (0, 6) 			docker
+    ln: 2 (0, 6) 			docker
+in 'rtabmap/docker/xenial/hooks/build'
+    ln: 1 (0, 6) 			docker
+in 'rtabmap/docker/xenial/android/setup_android_env.bash'
+    ln: 11 (0, 4) 			wget
+    ln: 12 (0, 5) 			unzip
+    ln: 21 (0, 4) 			wget
+    ln: 22 (0, 5) 			unzip
+in 'rtabmap/docker/xenial/android/install_deps_host.bash'
+    ln: 17 (0, 4) 			wget
+    ln: 20 (0, 4) 			wget
+    ln: 21 (0, 4) 			wget
+    ln: 32 (0, 4) 			wget
+    ln: 45 (0, 4) 			wget
+    ln: 46 (0, 5) 			unzip
+    ln: 61 (0, 4) 			wget
+    ln: 100 (0, 4) 			wget
+in 'rtabmap/docker/xenial/android/tango/build.bash'
+    ln: 13 (0, 4) 			wget
+    ln: 14 (0, 5) 			unzip
+    ln: 21 (0, 4) 			wget
+    ln: 22 (0, 5) 			unzip
+    ln: 30 (0, 4) 			wget
+in 'rtabmap/docker/xenial/android/install_deps.bash'
+    ln: 9 (0, 4) 			wget
+    ln: 17 (0, 4) 			wget
+    ln: 20 (0, 4) 			wget
+    ln: 21 (0, 4) 			wget
+    ln: 36 (0, 4) 			wget
+    ln: 53 (0, 4) 			wget
+    ln: 54 (0, 5) 			unzip
+    ln: 73 (0, 4) 			wget
+    ln: 106 (0, 4) 			wget
+    ln: 116 (0, 39) 			$pwd/cmake-3.7.2-Linux-x86_64/bin/cmake
+    ln: 120 (0, 39) 			$pwd/cmake-3.7.2-Linux-x86_64/bin/cmake
+    ln: 131 (0, 4) 			wget
+Checking rtabmap_ros
+Found 2 bash scripts.
+Found 23 files containing shebangs (#!).
+Found 2 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'rtabmap_ros/eclipse-launch.sh'
+    ln: 10 (0, 17) 			~/eclipse/eclipse
+in 'rtabmap_ros/eclipse-launch/eclipse-launch.sh'
+    ln: 9 (0, 16) 			/usr/bin/eclipse
+Checking rviz
+Found 0 bash scripts.
+Found 36 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking rviz_visual_tools
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking sbg_ros_driver
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking schunk_modular_robotics
+Found 0 bash scripts.
+Found 19 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking sick_tim
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking simple_grasping
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking slam_karto
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking sparse_bundle_adjustment
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking srdfdom
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking stage-release
+Found 5 bash scripts.
+Found 25 files containing shebangs (#!).
+Found 1 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'stage-release/docsrc/sourcedocs.sh'
+    ln: 3 (0, 13) 			./Markdown.pl
+    ln: 7 (0, 13) 			./Markdown.pl
+    ln: 11 (0, 13) 			./Markdown.pl
+    ln: 15 (0, 13) 			./Markdown.pl
+Checking stage_ros
+Found 1 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking static_tf
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking std_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking swri_console
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking teb_local_planner
+Found 0 bash scripts.
+Found 22 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking teb_local_planner_tutorials
+Found 0 bash scripts.
+Found 21 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking teleop_tools
+Found 0 bash scripts.
+Found 15 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking teleop_twist_keyboard
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking teleop_twist_keyboard_cpp
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking tensorflow_ros_cpp
+Found 1 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking tf2_web_republisher
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking towr
+Found 3 bash scripts.
+Found 17 files containing shebangs (#!).
+Found 2 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'towr/towr_ros/bash/play_all.sh'
+    ln: 16 (0, 7) 			--quiet
+    ln: 17 (0, 8) 			--topics
+    ln: 18 (0, 10) 			xpp/params
+    ln: 23 (0, 8) 			--topics
+    ln: 24 (0, 2) 			-r
+in 'towr/towr_ros/bash/playbag.sh'
+    ln: 18 (0, 7) 			--quiet
+    ln: 19 (0, 8) 			--topics
+    ln: 20 (0, 17) 			iter1:=/xpp/state
+    ln: 22 (0, 2) 			-r
+    ln: 25 (0, 8) 			--topics
+    ln: 26 (0, 2) 			-d
+    ln: 27 (0, 18) 			iter10:=/xpp/state
+    ln: 28 (0, 2) 			-r
+    ln: 31 (0, 8) 			--topics
+    ln: 32 (0, 2) 			-d
+    ln: 33 (0, 18) 			iter20:=/xpp/state
+    ln: 34 (0, 2) 			-r
+Checking trac_ik
+Found 0 bash scripts.
+Found 16 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking tracetools
+Found 0 bash scripts.
+Found 17 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking turtlebot3_applications_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking turtlebot3_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking turtlebot3_simulations
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking tuw_control
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking tuw_geometry
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking tuw_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking tuw_multi_robot
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking tuw_rviz
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking twist_mux
+Found 0 bash scripts.
+Found 14 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking twist_mux_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking unique_identifier
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking urdf
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking urdf_geometry_parser
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking urdf_parser_py
+Found 3 bash scripts.
+Found 16 files containing shebangs (#!).
+Found 3 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'urdf_parser_py/test/calvin/test.sh'
+    ln: 10 (0, 21) 			$scripts/display_urdf
+in 'urdf_parser_py/test/romeo/test_bad.sh'
+    ln: 10 (0, 21) 			$scripts/display_urdf
+in 'urdf_parser_py/test/romeo/test.sh'
+    ln: 10 (0, 21) 			$scripts/display_urdf
+Checking urdf_sim_tutorial
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking urdf_tutorial
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking urg_c
+Found 0 bash scripts.
+Found 21 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking urg_node
+Found 0 bash scripts.
+Found 13 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking urg_stamped
+Found 1 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking usb_cam
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking velodyne
+Found 1 bash scripts.
+Found 17 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking velodyne_simulator
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking video_stream_opencv
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking vision_msgs
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking vision_opencv
+Found 1 bash scripts.
+Found 21 files containing shebangs (#!).
+Found 1 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+in 'vision_opencv/.travis.sh'
+    ln: 26 (0, 17) 			travis_time_start
+    ln: 39 (0, 15) 			travis_time_end
+    ln: 41 (0, 17) 			travis_time_start
+    ln: 49 (0, 15) 			travis_time_end
+    ln: 51 (0, 17) 			travis_time_start
+    ln: 63 (0, 15) 			travis_time_end
+    ln: 65 (0, 17) 			travis_time_start
+    ln: 70 (0, 6) 			catkin
+    ln: 71 (0, 6) 			catkin
+    ln: 73 (0, 6) 			catkin
+    ln: 74 (0, 6) 			catkin
+    ln: 75 (0, 6) 			catkin
+    ln: 76 (0, 15) 			travis_time_end
+Checking visualization_tutorials
+Found 0 bash scripts.
+Found 17 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking vrpn
+Found 1 bash scripts.
+Found 52 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking vrpn_client_ros
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking warehouse_ros
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking webkit_dependency
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking willow_maps
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking wu_ros_tools
+Found 0 bash scripts.
+Found 18 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking xacro
+Found 1 bash scripts.
+Found 20 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking xpp
+Found 0 bash scripts.
+Found 12 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking xv_11_laser_driver
+Found 0 bash scripts.
+Found 11 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking yp-spur
+Found 1 bash scripts.
+Found 19 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.
+Checking ypspur_ros
+Found 5 bash scripts.
+Found 20 files containing shebangs (#!).
+Found 0 possible bash script errors.
+Found 0 possible shebang (#!) errors.

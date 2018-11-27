@@ -2,6 +2,7 @@
 
 all_binaries = set(
     [
+        'sudo',
         'egrep',
         'fgrep',
         'grep',

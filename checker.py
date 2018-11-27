@@ -25,11 +25,14 @@ def setup(path):
             map(lambda l: l.strip(), os.popen(grep_scripts).readlines()))
         shebangs = list(
             map(lambda l: l.strip(), os.popen(grep_shebang).readlines()))
+
+        print(f'Found {len(scripts)} bash scripts.')
+        print(f'Found {len(shebangs)} files containing shebangs (#!).')
         packages_file = os.popen(packages_pattern).readlines()[0].strip()
         parsed = untangle.parse(packages_file)
 
         if not hasattr(parsed, 'package') or (not hasattr(parsed.package, 'run_depend') and not hasattr(parsed.package, 'exec_depend')):
-            return (scripts, melodic_default)
+            return (scripts, shebangs, melodic_default)
 
         run_deps = set()
         exec_deps = set()
@@ -41,7 +44,7 @@ def setup(path):
         all_deps = melodic_default.all_binaries.union(
             run_deps).union(exec_deps)
         return (scripts, shebangs, all_deps)
-    except Exception as e:
+    except Exception:
         return ([], [], [])
 
 
@@ -73,7 +76,7 @@ def validate(scripts, shebangs, deps):
                 if command not in deps:
                     return (shebang, [MissingDependency(command, (first.rfind(command), len(first)), 1)])
                 return None
-        except Exception as e:
+        except Exception:
             return None
 
     def validate_line(line):
@@ -81,7 +84,7 @@ def validate(scripts, shebangs, deps):
             ast = bashlex.parsesingle(line.strip())
             error = dependency_exists(ast)
             return error
-        except Exception as e:
+        except Exception:
             return None
 
     def dependency_exists(ast):
@@ -121,5 +124,7 @@ if len(sys.argv) < 2:
 
 scripts, shebangs, run_deps = setup(sys.argv[1])
 bash_scripts, shebang_scripts = validate(scripts, shebangs, run_deps)
+print(f'Found {len(bash_scripts)} possible bash script errors.')
+print(f'Found {len(shebang_scripts)} possible shebang (#!) errors.')
 print_result(bash_scripts)
 print_result(shebang_scripts)

@@ -92,7 +92,9 @@ def validate(scripts, shebangs, deps):
             return None
 
         command = ast.parts[:1][0]
-        if command and command.kind is 'word' and command.word not in deps:
+        if (command and command.kind is 'word' and command.word not in deps
+            and '$' not in command.word and '--' not in command.word and '-' not in command.word
+                and '=' not in command.word and './' not in command.word):
             return MissingDependency(command.word, command.pos)
         return None
 

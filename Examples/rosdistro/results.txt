@@ -257,8 +257,6 @@ Found 39 files containing shebangs (#!).
 Found 1 possible bash script errors.
 Found 0 possible shebang (#!) errors.
 in 'gazebo_ros_pkgs/gazebo_ros/scripts/gdbrun'
-    ln: 18 (0, 13) 			${extra_text}
-    ln: 19 (0, 11) 			${run_text}
     ln: 20 (0, 3) 			EOF
     ln: 22 (0, 3) 			gdb
 Checking gencpp
@@ -277,9 +275,14 @@ Found 15 files containing shebangs (#!).
 Found 1 possible bash script errors.
 Found 0 possible shebang (#!) errors.
 in 'geneus/.travis.sh'
-    ln: 41 (0, 10) 			${BUILDER}
-    ln: 58 (0, 10) 			${BUILDER}
-    ln: 76 (0, 10) 			${BUILDER}
+    ln: 18 (0, 4) 			sudo
+    ln: 20 (0, 4) 			sudo
+    ln: 21 (0, 4) 			sudo
+    ln: 22 (0, 4) 			sudo
+    ln: 43 (0, 4) 			sudo
+    ln: 44 (0, 4) 			sudo
+    ln: 70 (0, 4) 			sudo
+    ln: 72 (0, 4) 			sudo
 Checking genlisp
 Found 0 bash scripts.
 Found 13 files containing shebangs (#!).
@@ -408,14 +411,12 @@ Found 0 possible shebang (#!) errors.
 Checking jsk_roseus
 Found 5 bash scripts.
 Found 104 files containing shebangs (#!).
-Found 3 possible bash script errors.
+Found 2 possible bash script errors.
 Found 60 possible shebang (#!) errors.
 in 'jsk_roseus/setup_upstream.sh'
     ln: 12 (0, 5) 			usage
     ln: 20 (0, 5) 			usage
-    ln: 48 (0, 1) 			-
     ln: 49 (0, 4) 			uri:
-    ln: 50 (0, 11) 			local-name:
     ln: 51 (0, 8) 			version:
     ln: 52 (0, 3) 			EOF
     ln: 67 (0, 4) 			wget
@@ -423,12 +424,6 @@ in 'jsk_roseus/setup_upstream.sh'
     ln: 75 (0, 4) 			wget
     ln: 77 (0, 4) 			wget
 in 'jsk_roseus/roseus/test/test-genmsg.sh'
-    ln: 59 (0, 41) 			GENEUS_DEP1=${CATKIN_DIR}/src/geneus_dep1
-    ln: 60 (0, 41) 			GENEUS_DEP2=${CATKIN_DIR}/src/geneus_dep2
-    ln: 61 (0, 41) 			ROSEUS_DEP1=${CATKIN_DIR}/src/roseus_dep1
-    ln: 62 (0, 41) 			ROSEUS_DEP2=${CATKIN_DIR}/src/roseus_dep2
-    ln: 63 (0, 41) 			ROSEUS_DEP3=${CATKIN_DIR}/src/roseus_dep3
-    ln: 64 (0, 41) 			ROSEUS_DEP4=${CATKIN_DIR}/src/roseus_dep4
     ln: 106 (0, 3) 			EOF
     ln: 131 (0, 3) 			EOF
     ln: 150 (0, 5) 			FILES
@@ -446,25 +441,14 @@ in 'jsk_roseus/roseus/test/test-genmsg.sh'
     ln: 321 (0, 3) 			EOF
     ln: 328 (0, 6) 			Header
     ln: 329 (0, 6) 			string
-    ln: 330 (0, 18) 			$parent_pkg/String
     ln: 331 (0, 3) 			EOF
     ln: 333 (0, 6) 			Header
     ln: 334 (0, 6) 			string
-    ln: 335 (0, 18) 			$parent_pkg/String
     ln: 336 (0, 3) 			EOF
     ln: 344 (0, 6) 			Header
     ln: 345 (0, 6) 			string
-    ln: 346 (0, 18) 			$parent_pkg/String
-    ln: 347 (0, 3) 			---
-    ln: 349 (0, 3) 			---
     ln: 352 (0, 3) 			EOF
     ln: 358 (0, 3) 			EOF
-    ln: 362 (0, 15) 			add_${MANIFEST}
-    ln: 363 (0, 15) 			add_${MANIFEST}
-    ln: 364 (0, 15) 			add_${MANIFEST}
-    ln: 365 (0, 15) 			add_${MANIFEST}
-    ln: 366 (0, 15) 			add_${MANIFEST}
-    ln: 367 (0, 15) 			add_${MANIFEST}
     ln: 370 (0, 9) 			add_cmake
     ln: 371 (0, 9) 			add_cmake
     ln: 372 (0, 9) 			add_cmake
@@ -499,29 +483,7 @@ in 'jsk_roseus/roseus/test/test-genmsg.sh'
     ln: 406 (0, 7) 			add_srv
     ln: 407 (0, 7) 			add_srv
     ln: 408 (0, 7) 			add_srv
-    ln: 469 (0, 13) 			${ROSEUS_EXE}
-    ln: 470 (0, 13) 			${ROSEUS_EXE}
-    ln: 471 (0, 13) 			${ROSEUS_EXE}
-    ln: 472 (0, 13) 			${ROSEUS_EXE}
-    ln: 473 (0, 13) 			${ROSEUS_EXE}
-    ln: 474 (0, 13) 			${ROSEUS_EXE}
-    ln: 477 (0, 13) 			${ROSEUS_EXE}
-    ln: 478 (0, 13) 			${ROSEUS_EXE}
-    ln: 479 (0, 13) 			${ROSEUS_EXE}
-    ln: 480 (0, 13) 			${ROSEUS_EXE}
-    ln: 481 (0, 13) 			${ROSEUS_EXE}
-    ln: 482 (0, 13) 			${ROSEUS_EXE}
-    ln: 484 (0, 14) 			${EUSLISP_EXE}
-    ln: 487 (0, 14) 			${EUSLISP_EXE}
     ln: 496 (0, 3) 			EOF
-in 'jsk_roseus/roseus/scripts/generate-all-msg-srv.sh'
-    ln: 17 (0, 45) 			err_list[${#err_list[*]}]=${pkg_list[$pkg_i]}
-    ln: 23 (0, 47) 			warn_list[${#warn_list[*]}]=${pkg_list[$pkg_i]}
-    ln: 62 (0, 39) 			pkg_list[${#pkg_list[*]}]=$fullpath_pkg
-    ln: 89 (0, 11) 			check-error
-    ln: 96 (0, 11) 			check-error
-    ln: 102 (0, 11) 			check-error
-    ln: 105 (0, 11) 			check-error
 in 'jsk_roseus/roseus_tutorials/src/openni-swipe.l'
     ln: 1 (15, 21) 			roseus
 in 'jsk_roseus/roseus_tutorials/src/checkerboard-detector.l'
@@ -650,8 +612,15 @@ Found 0 possible shebang (#!) errors.
 Checking kobuki_core
 Found 4 bash scripts.
 Found 21 files containing shebangs (#!).
-Found 0 possible bash script errors.
+Found 2 possible bash script errors.
 Found 0 possible shebang (#!) errors.
+in 'kobuki_core/kobuki_ftdi/scripts/create_udev_rules'
+    ln: 7 (0, 4) 			sudo
+    ln: 13 (0, 4) 			sudo
+    ln: 14 (0, 4) 			sudo
+in 'kobuki_core/kobuki_driver/scripts/doxygen/update_doxygen.bash'
+    ln: 37 (0, 4) 			sudo
+    ln: 38 (0, 4) 			sudo
 Checking laser_assembler
 Found 0 bash scripts.
 Found 11 files containing shebangs (#!).
@@ -715,12 +684,8 @@ Found 0 possible shebang (#!) errors.
 Checking marti_common
 Found 5 bash scripts.
 Found 28 files containing shebangs (#!).
-Found 2 possible bash script errors.
+Found 0 possible bash script errors.
 Found 0 possible shebang (#!) errors.
-in 'marti_common/swri_prefix_tools/xterm_prefix_hold'
-    ln: 5 (0, 2) 			$@
-in 'marti_common/swri_prefix_tools/xterm_prefix_normal'
-    ln: 4 (0, 2) 			$@
 Checking marti_messages
 Found 0 bash scripts.
 Found 11 files containing shebangs (#!).
@@ -734,27 +699,16 @@ Found 0 possible shebang (#!) errors.
 Checking mavlink-gbp-release
 Found 5 bash scripts.
 Found 101 files containing shebangs (#!).
-Found 5 possible bash script errors.
+Found 4 possible bash script errors.
 Found 0 possible shebang (#!) errors.
 in 'mavlink-gbp-release/pymavlink/test_generator.sh'
     ln: 15 (0, 9) 			mavgen.py
     ln: 16 (0, 9) 			mavgen.py
     ln: 18 (0, 9) 			mavgen.py
-    ln: 22 (0, 19) 			./testmav1.0_common
-    ln: 23 (0, 19) 			./testmav2.0_common
-    ln: 24 (0, 26) 			./testmav1.0_ardupilotmega
-    ln: 25 (0, 26) 			./testmav2.0_ardupilotmega
 in 'mavlink-gbp-release/scripts/format_xml.sh'
     ln: 12 (0, 9) 			show_help
     ln: 24 (0, 7) 			xmllint
-in 'mavlink-gbp-release/scripts/travis_update_generated_repos.sh'
-    ln: 38 (0, 29) 			./scripts/update_c_library.sh
-    ln: 45 (0, 29) 			./scripts/update_c_library.sh
 in 'mavlink-gbp-release/scripts/update_c_library.sh'
-    ln: 30 (0, 8) 			--output
-    ln: 31 (0, 6) 			--lang
-    ln: 32 (0, 15) 			--wire-protocol
-    ln: 33 (0, 31) 			message_definitions/v1.0/$1.xml
     ln: 62 (0, 16) 			generate_headers
     ln: 63 (0, 16) 			generate_headers
     ln: 64 (0, 16) 			generate_headers
@@ -764,13 +718,8 @@ in 'mavlink-gbp-release/scripts/update_c_library.sh'
     ln: 68 (0, 16) 			generate_headers
     ln: 69 (0, 16) 			generate_headers
 in 'mavlink-gbp-release/scripts/test.sh'
-    ln: 17 (0, 23) 			./scripts/format_xml.sh
     ln: 31 (0, 3) 			pip
-    ln: 38 (0, 44) 			protocol:${wire_protocol} language:${lang}
     ln: 42 (0, 9) 			mavgen.py
-    ln: 43 (0, 15) 			--wire-protocol
-    ln: 44 (0, 14) 			--strict-units
-    ln: 45 (0, 20) 			--output=${outdir}
     ln: 56 (0, 16) 			generate_mavlink
     ln: 61 (0, 16) 			generate_mavlink
     ln: 85 (0, 34) 			pymavlink/tests/test_quaternion.py
@@ -781,7 +730,6 @@ Found 31 files containing shebangs (#!).
 Found 1 possible bash script errors.
 Found 0 possible shebang (#!) errors.
 in 'mavros/mavros/scripts/install_geographiclib_datasets.sh'
-    ln: 22 (0, 23) 			geographiclib-get-$tool
     ln: 27 (0, 7) 			run_get
     ln: 28 (0, 7) 			run_get
     ln: 29 (0, 7) 			run_get
@@ -799,15 +747,10 @@ in 'mcl_3dl_msgs/.travis/test.sh'
     ln: 5 (0, 3) 			pip
     ln: 13 (0, 11) 			catkin_lint
     ln: 17 (0, 6) 			```
-    ln: 18 (0, 24) 			`catkin_lint $pkgs 2>&1`
     ln: 19 (0, 6) 			```
-    ln: 24 (0, 56) 			/opt/ros/${ROS_DISTRO}/share/catkin/cmake/toplevel.cmake
-    ln: 26 (0, 56) 			/opt/ros/${ROS_DISTRO}/share/catkin/cmake/toplevel.cmake
     ln: 40 (0, 6) 			```
-    ln: 41 (0, 54) 			`catkin_test_results --all | grep -v Skipping || true`
     ln: 42 (0, 6) 			```
     ln: 46 (0, 6) 			```
-    ln: 47 (0, 54) 			`catkin_test_results --all | grep -v Skipping || true`
     ln: 48 (0, 6) 			```
 Checking media_export
 Found 0 bash scripts.
@@ -867,19 +810,13 @@ Found 0 possible shebang (#!) errors.
 Checking mrpt
 Found 15 bash scripts.
 Found 139 files containing shebangs (#!).
-Found 8 possible bash script errors.
+Found 7 possible bash script errors.
 Found 0 possible shebang (#!) errors.
 in 'mrpt/scripts/prepare_release.sh'
     ln: 79 (0, 4) 			wget
     ln: 97 (0, 3) 			zip
 in 'mrpt/scripts/add_doxygen_groups_all_files.sh'
-    ln: 16 (0, 57) 			add-doxygen-grouping-headers/add-doxygen-grouping-headers
     ln: 17 (0, 7) 			fromdos
-in 'mrpt/scripts/replace_post_pre_iterators.sh'
-    ln: 6 (0, 28) 			LST1=$(find . -name '*.cpp')
-    ln: 7 (0, 28) 			LST2=$(find . -name '*.cxx')
-    ln: 8 (0, 26) 			LST3=$(find . -name '*.h')
-    ln: 9 (0, 28) 			LST4=$(find . -name '*.hpp')
 in 'mrpt/scripts/prepare_ubuntu_pkgs_for_ppa_no_SSE3.sh'
     ln: 8 (0, 9) 			/bin/bash
 in 'mrpt/scripts/recompile_mrpt_for_all_distributions.sh'
@@ -888,50 +825,69 @@ in 'mrpt/scripts/coveralls_submit.sh'
     ln: 6 (0, 4) 			lcov
     ln: 7 (0, 4) 			lcov
     ln: 8 (0, 4) 			lcov
-    ln: 11 (0, 14) 			coveralls-lcov
 in 'mrpt/scripts/prepare_ubuntu_pkgs_for_ppa.sh'
-    ln: 40 (0, 79) 			EMAIL4DEB=Jose Luis Blanco (University of Malaga) <joseluisblancoc@gmail.com>
     ln: 87 (0, 7) 			debuild
 in 'mrpt/scripts/update_copyright_note_all_files.sh'
-    ln: 6 (0, 32) 			F1=$(find ../src/ -name '*.cpp')
-    ln: 7 (0, 60) 			F2=$(find ../include/mrpt/ -name '*.h' | grep -v  otherlibs)
-    ln: 8 (0, 33) 			F3=$(find ../apps/ -name '*.cpp')
-    ln: 9 (0, 31) 			F4=$(find ../apps/ -name '*.h')
-    ln: 10 (0, 36) 			F5=$(find ../samples/ -name '*.cpp')
-    ln: 15 (0, 29) 			replace-header/replace-header
     ln: 16 (0, 8) 			dos2unix
 Checking mrpt_bridge
 Found 1 bash scripts.
 Found 14 files containing shebangs (#!).
-Found 0 possible bash script errors.
+Found 1 possible bash script errors.
 Found 0 possible shebang (#!) errors.
+in 'mrpt_bridge/.travis.sh'
+    ln: 9 (0, 4) 			sudo
+    ln: 11 (0, 4) 			sudo
+    ln: 12 (0, 4) 			sudo
+    ln: 13 (0, 4) 			sudo
+    ln: 14 (0, 4) 			sudo
 Checking mrpt_msgs
 Found 1 bash scripts.
 Found 13 files containing shebangs (#!).
-Found 0 possible bash script errors.
+Found 1 possible bash script errors.
 Found 0 possible shebang (#!) errors.
+in 'mrpt_msgs/.travis.sh'
+    ln: 9 (0, 4) 			sudo
+    ln: 11 (0, 4) 			sudo
+    ln: 12 (0, 4) 			sudo
+    ln: 13 (0, 4) 			sudo
 Checking mrpt_navigation
 Found 1 bash scripts.
 Found 19 files containing shebangs (#!).
-Found 0 possible bash script errors.
+Found 1 possible bash script errors.
 Found 0 possible shebang (#!) errors.
+in 'mrpt_navigation/.travis.sh'
+    ln: 9 (0, 4) 			sudo
+    ln: 11 (0, 4) 			sudo
+    ln: 12 (0, 4) 			sudo
+    ln: 13 (0, 4) 			sudo
+    ln: 14 (0, 4) 			sudo
 Checking mrpt_sensors
 Found 1 bash scripts.
 Found 13 files containing shebangs (#!).
-Found 0 possible bash script errors.
+Found 1 possible bash script errors.
 Found 0 possible shebang (#!) errors.
+in 'mrpt_sensors/.travis.sh'
+    ln: 9 (0, 4) 			sudo
+    ln: 11 (0, 4) 			sudo
+    ln: 12 (0, 4) 			sudo
+    ln: 13 (0, 4) 			sudo
+    ln: 14 (0, 4) 			sudo
 Checking mrpt_slam
 Found 1 bash scripts.
 Found 15 files containing shebangs (#!).
-Found 0 possible bash script errors.
+Found 1 possible bash script errors.
 Found 0 possible shebang (#!) errors.
+in 'mrpt_slam/.travis.sh'
+    ln: 9 (0, 4) 			sudo
+    ln: 11 (0, 4) 			sudo
+    ln: 12 (0, 4) 			sudo
+    ln: 13 (0, 4) 			sudo
+    ln: 14 (0, 4) 			sudo
 Checking multimaster_fkie
 Found 1 bash scripts.
 Found 41 files containing shebangs (#!).
-Found 1 possible bash script errors.
+Found 0 possible bash script errors.
 Found 0 possible shebang (#!) errors.
-in 'multimaster_fkie/node_manager_fkie/scripts/respawn'
-    ln: 13 (0, 4) 			$@
 Checking mvsim
 Found 1 bash scripts.
 Found 15 files containing shebangs (#!).
@@ -966,15 +922,10 @@ in 'neonavigation_msgs/.travis/test.sh'
     ln: 5 (0, 3) 			pip
     ln: 16 (0, 11) 			catkin_lint
     ln: 20 (0, 6) 			```
-    ln: 21 (0, 24) 			`catkin_lint $pkgs 2>&1`
     ln: 22 (0, 6) 			```
-    ln: 26 (0, 56) 			/opt/ros/${ROS_DISTRO}/share/catkin/cmake/toplevel.cmake
-    ln: 28 (0, 56) 			/opt/ros/${ROS_DISTRO}/share/catkin/cmake/toplevel.cmake
     ln: 42 (0, 6) 			```
-    ln: 43 (0, 54) 			`catkin_test_results --all | grep -v Skipping || true`
     ln: 44 (0, 6) 			```
     ln: 48 (0, 6) 			```
-    ln: 49 (0, 54) 			`catkin_test_results --all | grep -v Skipping || true`
     ln: 50 (0, 6) 			```
 Checking nerian_stereo
 Found 4 bash scripts.
@@ -1061,6 +1012,10 @@ Found 1 possible bash script errors.
 Found 0 possible shebang (#!) errors.
 in 'opencv_apps/.travis.sh'
     ln: 26 (0, 17) 			travis_time_start
+    ln: 29 (0, 4) 			sudo
+    ln: 31 (0, 4) 			sudo
+    ln: 33 (0, 4) 			sudo
+    ln: 36 (0, 4) 			sudo
     ln: 38 (0, 15) 			travis_time_end
     ln: 40 (0, 17) 			travis_time_start
     ln: 50 (0, 15) 			travis_time_end
@@ -1286,6 +1241,8 @@ in 'raspimouse_sim/raspimouse_control/scripts/gen_dev_file.sh'
     ln: 16 (0, 10) 			rtcounter0
     ln: 17 (0, 12) 			rtcounter_r0
     ln: 18 (0, 12) 			rtcounter_l0
+    ln: 22 (0, 4) 			sudo
+    ln: 23 (0, 4) 			sudo
 Checking rc_cloud_accumulator
 Found 0 bash scripts.
 Found 13 files containing shebangs (#!).
@@ -1339,15 +1296,8 @@ Found 0 possible shebang (#!) errors.
 Checking robot_localization
 Found 2 bash scripts.
 Found 13 files containing shebangs (#!).
-Found 1 possible bash script errors.
+Found 0 possible bash script errors.
 Found 0 possible shebang (#!) errors.
-in 'robot_localization/test/record_all_stats.sh'
-    ln: 2 (0, 18) 			./stat_recorder.sh
-    ln: 3 (0, 18) 			./stat_recorder.sh
-    ln: 4 (0, 18) 			./stat_recorder.sh
-    ln: 6 (0, 18) 			./stat_recorder.sh
-    ln: 7 (0, 18) 			./stat_recorder.sh
-    ln: 8 (0, 18) 			./stat_recorder.sh
 Checking robot_state_publisher
 Found 0 bash scripts.
 Found 11 files containing shebangs (#!).
@@ -1369,19 +1319,20 @@ Found 12 files containing shebangs (#!).
 Found 1 possible bash script errors.
 Found 0 possible shebang (#!) errors.
 in 'ros_canopen/socketcan_bridge/test/initialize_vcan.sh'
+    ln: 10 (0, 4) 			sudo
     ln: 13 (0, 8) 			ifconfig
+    ln: 18 (0, 4) 			sudo
+    ln: 19 (0, 4) 			sudo
     ln: 25 (0, 8) 			ifconfig
+    ln: 29 (0, 4) 			sudo
+    ln: 30 (0, 4) 			sudo
 Checking ros_comm
 Found 7 bash scripts.
 Found 225 files containing shebangs (#!).
-Found 5 possible bash script errors.
+Found 4 possible bash script errors.
 Found 0 possible shebang (#!) errors.
-in 'ros_comm/tools/topic_tools/demos/test_mux'
-    ln: 7 (0, 5) 			./mux
 in 'ros_comm/tools/topic_tools/demos/test_throttle'
     ln: 5 (0, 8) 			valgrind
-in 'ros_comm/tools/topic_tools/demos/test_relay'
-    ln: 5 (0, 7) 			./relay
 in 'ros_comm/test/test_rosbag/bag_migration_tests/scripts/generate_rules'
     ln: 48 (0, 8) 			save_msg
     ln: 100 (0, 16) 			build_generation
@@ -1391,6 +1342,11 @@ in 'ros_comm/test/test_rosbag/bag_migration_tests/scripts/generate_rules'
 in 'ros_comm/test/test_rosbag/bag_migration_tests/scripts/generate_data'
     ln: 42 (0, 16) 			build_generation
     ln: 63 (0, 16) 			build_generation
+in 'ros_comm/test/test_roscpp/test/scripts/test_udp_with_dropped_packets.sh'
+    ln: 8 (0, 4) 			sudo
+    ln: 11 (0, 4) 			sudo
+    ln: 19 (0, 4) 			sudo
+    ln: 20 (0, 4) 			sudo
 Checking ros_comm_msgs
 Found 0 bash scripts.
 Found 11 files containing shebangs (#!).
@@ -1512,7 +1468,22 @@ Found 19 files containing shebangs (#!).
 Found 1 possible bash script errors.
 Found 0 possible shebang (#!) errors.
 in 'rospilot/scripts/first_time_setup.sh'
+    ln: 2 (0, 4) 			sudo
+    ln: 3 (0, 4) 			sudo
+    ln: 8 (0, 4) 			sudo
+    ln: 9 (0, 4) 			sudo
+    ln: 15 (0, 4) 			sudo
+    ln: 16 (0, 4) 			sudo
+    ln: 31 (0, 4) 			sudo
     ln: 32 (0, 4) 			wget
+    ln: 74 (0, 4) 			sudo
+    ln: 78 (0, 4) 			sudo
+    ln: 82 (0, 4) 			sudo
+    ln: 92 (0, 4) 			sudo
+    ln: 94 (0, 4) 			sudo
+    ln: 96 (0, 4) 			sudo
+    ln: 102 (0, 4) 			sudo
+    ln: 103 (0, 4) 			sudo
 Checking rosserial
 Found 0 bash scripts.
 Found 48 files containing shebangs (#!).
@@ -1521,8 +1492,16 @@ Found 0 possible shebang (#!) errors.
 Checking rplidar_ros
 Found 2 bash scripts.
 Found 13 files containing shebangs (#!).
-Found 0 possible bash script errors.
+Found 2 possible bash script errors.
 Found 0 possible shebang (#!) errors.
+in 'rplidar_ros/scripts/create_udev_rules.sh'
+    ln: 6 (0, 4) 			sudo
+    ln: 10 (0, 4) 			sudo
+    ln: 11 (0, 4) 			sudo
+in 'rplidar_ros/scripts/delete_udev_rules.sh'
+    ln: 4 (0, 4) 			sudo
+    ln: 8 (0, 4) 			sudo
+    ln: 9 (0, 4) 			sudo
 Checking rqt
 Found 0 bash scripts.
 Found 28 files containing shebangs (#!).
@@ -1711,6 +1690,8 @@ in 'rtabmap/docker/xenial/android/setup_android_env.bash'
     ln: 21 (0, 4) 			wget
     ln: 22 (0, 5) 			unzip
 in 'rtabmap/docker/xenial/android/install_deps_host.bash'
+    ln: 7 (0, 4) 			sudo
+    ln: 8 (0, 4) 			sudo
     ln: 17 (0, 4) 			wget
     ln: 20 (0, 4) 			wget
     ln: 21 (0, 4) 			wget
@@ -1735,8 +1716,6 @@ in 'rtabmap/docker/xenial/android/install_deps.bash'
     ln: 54 (0, 5) 			unzip
     ln: 73 (0, 4) 			wget
     ln: 106 (0, 4) 			wget
-    ln: 116 (0, 39) 			$pwd/cmake-3.7.2-Linux-x86_64/bin/cmake
-    ln: 120 (0, 39) 			$pwd/cmake-3.7.2-Linux-x86_64/bin/cmake
     ln: 131 (0, 4) 			wget
 Checking rtabmap_ros
 Found 2 bash scripts.
@@ -1795,13 +1774,8 @@ Found 0 possible shebang (#!) errors.
 Checking stage-release
 Found 5 bash scripts.
 Found 25 files containing shebangs (#!).
-Found 1 possible bash script errors.
+Found 0 possible bash script errors.
 Found 0 possible shebang (#!) errors.
-in 'stage-release/docsrc/sourcedocs.sh'
-    ln: 3 (0, 13) 			./Markdown.pl
-    ln: 7 (0, 13) 			./Markdown.pl
-    ln: 11 (0, 13) 			./Markdown.pl
-    ln: 15 (0, 13) 			./Markdown.pl
 Checking stage_ros
 Found 1 bash scripts.
 Found 14 files containing shebangs (#!).
@@ -1860,27 +1834,10 @@ Found 0 possible shebang (#!) errors.
 Checking towr
 Found 3 bash scripts.
 Found 17 files containing shebangs (#!).
-Found 2 possible bash script errors.
+Found 1 possible bash script errors.
 Found 0 possible shebang (#!) errors.
 in 'towr/towr_ros/bash/play_all.sh'
-    ln: 16 (0, 7) 			--quiet
-    ln: 17 (0, 8) 			--topics
     ln: 18 (0, 10) 			xpp/params
-    ln: 23 (0, 8) 			--topics
-    ln: 24 (0, 2) 			-r
-in 'towr/towr_ros/bash/playbag.sh'
-    ln: 18 (0, 7) 			--quiet
-    ln: 19 (0, 8) 			--topics
-    ln: 20 (0, 17) 			iter1:=/xpp/state
-    ln: 22 (0, 2) 			-r
-    ln: 25 (0, 8) 			--topics
-    ln: 26 (0, 2) 			-d
-    ln: 27 (0, 18) 			iter10:=/xpp/state
-    ln: 28 (0, 2) 			-r
-    ln: 31 (0, 8) 			--topics
-    ln: 32 (0, 2) 			-d
-    ln: 33 (0, 18) 			iter20:=/xpp/state
-    ln: 34 (0, 2) 			-r
 Checking trac_ik
 Found 0 bash scripts.
 Found 16 files containing shebangs (#!).
@@ -1959,14 +1916,8 @@ Found 0 possible shebang (#!) errors.
 Checking urdf_parser_py
 Found 3 bash scripts.
 Found 16 files containing shebangs (#!).
-Found 3 possible bash script errors.
+Found 0 possible bash script errors.
 Found 0 possible shebang (#!) errors.
-in 'urdf_parser_py/test/calvin/test.sh'
-    ln: 10 (0, 21) 			$scripts/display_urdf
-in 'urdf_parser_py/test/romeo/test_bad.sh'
-    ln: 10 (0, 21) 			$scripts/display_urdf
-in 'urdf_parser_py/test/romeo/test.sh'
-    ln: 10 (0, 21) 			$scripts/display_urdf
 Checking urdf_sim_tutorial
 Found 0 bash scripts.
 Found 11 files containing shebangs (#!).
@@ -2024,6 +1975,10 @@ Found 1 possible bash script errors.
 Found 0 possible shebang (#!) errors.
 in 'vision_opencv/.travis.sh'
     ln: 26 (0, 17) 			travis_time_start
+    ln: 30 (0, 4) 			sudo
+    ln: 32 (0, 4) 			sudo
+    ln: 34 (0, 4) 			sudo
+    ln: 37 (0, 4) 			sudo
     ln: 39 (0, 15) 			travis_time_end
     ln: 41 (0, 17) 			travis_time_start
     ln: 49 (0, 15) 			travis_time_end

@@ -1,0 +1,1131 @@
+Checking DynamixelSDK
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking PlotJuggler
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking abseil-cpp
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ackermann_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking actionlib
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking adi_driver
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking agni_tf_tools
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking angles
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking app_manager
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ar_track_alvar
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking arbotix_ros
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking astuff_sensor_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking async_comm
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking audio_common
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking automotive_autonomy_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking bond_core
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking cartesian_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking catch_ros
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking catkin
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking catkin_grpc
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking catkin_virtualenv
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking class_loader
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking cmake_modules
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking code_coverage
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking collada_urdf
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking common_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking control_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking control_toolbox
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking costmap_converter
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking diagnostics
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking dynamic_reconfigure
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking dynamixel-workbench
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking dynamixel-workbench-msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ecl_core
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ecl_lite
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ecl_manipulation
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ecl_navigation
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking eigen_stl_containers
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ethercat_grant
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking ethzasl_xsens_driver
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking executive_smach
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking fawkes_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking fetch_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking fetch_open_auto_dock
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking fetch_tools
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking filters
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking find-object
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking fmi_adapter
+Found 2 bash scripts.
+Found 0 possible bash script errors.
+Checking four_wheel_steering_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking franka_ros
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking gazebo_ros_pkgs
+Found 7 bash scripts.
+Found 4 possible bash script errors.
+in 'gazebo_ros_pkgs/gazebo_ros/scripts/gdbrun'
+		EOF
+		gdb
+in 'gazebo_ros_pkgs/gazebo_ros/scripts/gzserver'
+		gzserver
+in 'gazebo_ros_pkgs/gazebo_ros/scripts/gazebo'
+		gzserver
+in 'gazebo_ros_pkgs/gazebo_ros/scripts/gzclient'
+		gzclient
+Checking gencpp
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking generic_control_toolbox
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking geneus
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking genlisp
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking genmsg
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking gennodejs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking genpy
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking geographic_info
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking geometric_shapes
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking geometry
+Found 2 bash scripts.
+Found 0 possible bash script errors.
+Checking geometry2
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking geometry_tutorials
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking gl_dependency
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking gps_umd
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking graph_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking grasping_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking hls_lfcd_lds_driver
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ibeo_core
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ibeo_lux
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ifopt
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking image_common
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking image_pipeline
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking image_transport_plugins
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking imagezero_transport
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking imu_tools
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking interactive_markers
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking joint_state_publisher
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking joystick_drivers
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking jsk_roseus
+Found 5 bash scripts.
+Found 0 possible bash script errors.
+Checking kdl_parser
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking kobuki_core
+Found 5 bash scripts.
+Found 2 possible bash script errors.
+in 'kobuki_core/kobuki_ftdi/debian/postinst'
+		db_stop
+in 'kobuki_core/kobuki_ftdi/scripts/create_udev_rules'
+		sudo
+		sudo
+		sudo
+Checking laser_assembler
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking laser_filtering
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking laser_filters
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking laser_geometry
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking laser_pipeline
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking laser_proc
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking leap_motion
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking libuvc
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking libuvc_ros
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking map-merge
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking mapviz
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking marker_rviz_plugin
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking marti_common
+Found 5 bash scripts.
+Found 0 possible bash script errors.
+Checking marti_messages
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking mav_comm
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking mavlink-gbp-release
+Found 7 bash scripts.
+Found 1 possible bash script errors.
+in 'mavlink-gbp-release/pymavlink/test_generator.sh'
+		mavgen.py
+		mavgen.py
+		mavgen.py
+Checking mavros
+Found 2 bash scripts.
+Found 0 possible bash script errors.
+Checking mcl_3dl
+Found 4 bash scripts.
+Found 0 possible bash script errors.
+Checking mcl_3dl_msgs
+Found 1 bash scripts.
+Found 1 possible bash script errors.
+in 'mcl_3dl_msgs/.travis/test.sh'
+		pip
+Checking media_export
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking message_generation
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking message_runtime
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking metapackages
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking move_base_flex
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking moveit
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking moveit_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking moveit_python
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking moveit_resources
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking moveit_sim_controller
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking moveit_visual_tools
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking mrpt
+Found 17 bash scripts.
+Found 3 possible bash script errors.
+in 'mrpt/scripts/prepare_release.sh'
+		zip
+in 'mrpt/scripts/coveralls_submit.sh'
+		lcov
+		lcov
+		lcov
+		coveralls-lcov
+in 'mrpt/doc/design_of_images/graph_mrpt_libs_build.sh'
+		dot
+		dot
+		dot
+Checking mrpt_bridge
+Found 1 bash scripts.
+Found 1 possible bash script errors.
+in 'mrpt_bridge/.travis.sh'
+		sudo
+		sudo
+		sudo
+		sudo
+		sudo
+Checking mrpt_msgs
+Found 1 bash scripts.
+Found 1 possible bash script errors.
+in 'mrpt_msgs/.travis.sh'
+		sudo
+		sudo
+		sudo
+		sudo
+Checking mrpt_navigation
+Found 1 bash scripts.
+Found 1 possible bash script errors.
+in 'mrpt_navigation/.travis.sh'
+		sudo
+		sudo
+		sudo
+		sudo
+		sudo
+Checking mrpt_sensors
+Found 1 bash scripts.
+Found 1 possible bash script errors.
+in 'mrpt_sensors/.travis.sh'
+		sudo
+		sudo
+		sudo
+		sudo
+		sudo
+Checking mrpt_slam
+Found 1 bash scripts.
+Found 1 possible bash script errors.
+in 'mrpt_slam/.travis.sh'
+		sudo
+		sudo
+		sudo
+		sudo
+		sudo
+Checking multimaster_fkie
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking mvsim
+Found 1 bash scripts.
+Found 1 possible bash script errors.
+in 'mvsim/.travis.sh'
+		sudo
+		sudo
+		sudo
+		sudo
+		sudo
+Checking navigation
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking navigation_experimental
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking navigation_layers
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking navigation_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking neonavigation_msgs
+Found 1 bash scripts.
+Found 1 possible bash script errors.
+in 'neonavigation_msgs/.travis/test.sh'
+		pip
+Checking nerian_stereo
+Found 4 bash scripts.
+Found 4 possible bash script errors.
+in 'nerian_stereo/scripts/config_device_passthru.sh'
+		curl
+in 'nerian_stereo/scripts/config_device_stereo.sh'
+		curl
+in 'nerian_stereo/scripts/config_device_rectify.sh'
+		curl
+in 'nerian_stereo/scripts/download_calibration.sh'
+		curl
+Checking network_interface
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking nmea_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking nmea_navsat_driver
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking nodelet_core
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking novatel_gps_driver
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking novatel_span_driver
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking object_recognition_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking octomap
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking octomap_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking octomap_ros
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking odva_ethernetip
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking open_karto
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking opencv_apps
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking openni2_camera
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking openni_camera
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking orb_slam_2_ros
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking orocos_kinematics_dynamics
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking p2os
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking pacmod3
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking pacmod_game_control
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking panda_moveit_config
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking parrot_arsdk
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking pcl_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking people
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking pepperl_fuchs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking perception_pcl
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking phidgets_drivers
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking pid
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking pilz_industrial_motion
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking pilz_robots
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking pluginlib
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking pointcloud_to_laserscan
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking pose_cov_ops
+Found 1 bash scripts.
+Found 1 possible bash script errors.
+in 'pose_cov_ops/.travis.sh'
+		sudo
+		sudo
+		sudo
+		sudo
+		sudo
+Checking pr2_kinematics
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking prbt_grippers
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking py_trees
+Found 2 bash scripts.
+Found 2 possible bash script errors.
+in 'py_trees/virtualenv.bash'
+		pip
+		pip
+in 'py_trees/virtualenv3.bash'
+		pip
+		pip
+Checking py_trees_ros
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking python_qt_binding
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking qbchain-ros
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking qbdevice-ros
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking qbhand-ros
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking qbmove-ros
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking qt_gui_core
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking qwt_dependency
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rail_manipulation_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking random_numbers
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking raspimouse_sim
+Found 3 bash scripts.
+Found 0 possible bash script errors.
+Checking rc_cloud_accumulator
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rc_dynamics_api
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rc_genicam_api
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking rc_visard_ros
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking realtime_tools
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking resource_retriever
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rgbd_launch
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking robot_activity
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking robot_calibration
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking robot_controllers
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking robot_localization
+Found 2 bash scripts.
+Found 0 possible bash script errors.
+Checking robot_state_publisher
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking robot_upstart
+Found 3 bash scripts.
+Found 0 possible bash script errors.
+Checking ros
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking ros_canopen
+Found 1 bash scripts.
+Found 1 possible bash script errors.
+in 'ros_canopen/socketcan_bridge/test/initialize_vcan.sh'
+		ifconfig
+		ifconfig
+Checking ros_comm
+Found 7 bash scripts.
+Found 5 possible bash script errors.
+in 'ros_comm/tools/topic_tools/demos/test_drop'
+		xterm
+		xterm
+in 'ros_comm/tools/topic_tools/demos/test_mux'
+		xterm
+		xterm
+		xterm
+in 'ros_comm/tools/topic_tools/demos/test_throttle'
+		xterm
+		xterm
+		valgrind
+in 'ros_comm/tools/topic_tools/demos/test_relay'
+		xterm
+		xterm
+in 'ros_comm/test/test_roscpp/test/scripts/test_udp_with_dropped_packets.sh'
+		sudo
+		sudo
+		sudo
+		sudo
+Checking ros_comm_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ros_control
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ros_control_boilerplate
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ros_controllers
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ros_driver
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ros_emacs_utils
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ros_environment
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ros_pytest
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ros_tutorials
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking ros_type_introspection
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rosauth
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rosbridge_suite
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking roscompile
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rosconsole
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rosconsole_bridge
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking roscpp_core
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rosdoc_lite
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking roslint
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking roslisp
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking roslisp_common
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rosmon
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rospack
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rosparam_shortcuts
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rospilot
+Found 2 bash scripts.
+Found 2 possible bash script errors.
+in 'rospilot/scripts/get_mapnik_shapefiles.sh'
+		curl
+		curl
+		unzip
+		curl
+		unzip
+		curl
+		unzip
+		curl
+		unzip
+		ogr2ogr
+		shapeindex
+in 'rospilot/scripts/first_time_setup.sh'
+		sudo
+		sudo
+		sudo
+		sudo
+		sudo
+		sudo
+		sudo
+		wget
+Checking rosserial
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rplidar_ros
+Found 2 bash scripts.
+Found 2 possible bash script errors.
+in 'rplidar_ros/scripts/create_udev_rules.sh'
+		sudo
+		sudo
+		sudo
+in 'rplidar_ros/scripts/delete_udev_rules.sh'
+		sudo
+		sudo
+		sudo
+Checking rqt
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_action
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_bag
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_common_plugins
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_console
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_dep
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_graph
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_image_view
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_launch
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_logger_level
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_moveit
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_msg
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_nav_view
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_plot
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_pose_view
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_publisher
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_py_console
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_py_trees
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_reconfigure
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_robot_dashboard
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_robot_monitor
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_robot_plugins
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_robot_steering
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_runtime_monitor
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_rviz
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_service_caller
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_shell
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_srv
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_tf_tree
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_top
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_topic
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rqt_web
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking rtabmap
+Found 12 bash scripts.
+Found 12 possible bash script errors.
+in 'rtabmap/docker/bionic/hooks/post_push'
+		docker
+in 'rtabmap/docker/bionic/hooks/build'
+		docker
+in 'rtabmap/docker/artful/hooks/post_push'
+		docker
+in 'rtabmap/docker/artful/hooks/build'
+		docker
+in 'rtabmap/docker/zesty/hooks/post_push'
+		docker
+in 'rtabmap/docker/zesty/hooks/build'
+		docker
+in 'rtabmap/docker/xenial/hooks/post_push'
+		docker
+		docker
+in 'rtabmap/docker/xenial/hooks/build'
+		docker
+in 'rtabmap/docker/xenial/android/setup_android_env.bash'
+		wget
+		unzip
+		wget
+		unzip
+in 'rtabmap/docker/xenial/android/install_deps_host.bash'
+		sudo
+		sudo
+		wget
+		wget
+		wget
+		wget
+		wget
+		unzip
+		wget
+		wget
+in 'rtabmap/docker/xenial/android/tango/build.bash'
+		wget
+		unzip
+		wget
+		unzip
+		wget
+in 'rtabmap/docker/xenial/android/install_deps.bash'
+		wget
+		wget
+		wget
+		wget
+		wget
+		wget
+		unzip
+		wget
+		wget
+		wget
+Checking rtabmap_ros
+Found 2 bash scripts.
+Found 2 possible bash script errors.
+in 'rtabmap_ros/eclipse-launch.sh'
+		~/eclipse/eclipse
+in 'rtabmap_ros/eclipse-launch/eclipse-launch.sh'
+		/usr/bin/eclipse
+Checking rviz
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking rviz_visual_tools
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking sbg_ros_driver
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking schunk_modular_robotics
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking sick_tim
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking simple_grasping
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking slam_karto
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking sparse_bundle_adjustment
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking srdfdom
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking stage-release
+Found 5 bash scripts.
+Found 0 possible bash script errors.
+Checking stage_ros
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking static_tf
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking std_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking swri_console
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking teb_local_planner
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking teb_local_planner_tutorials
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking teleop_tools
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking teleop_twist_keyboard
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking teleop_twist_keyboard_cpp
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking tensorflow_ros_cpp
+Found 1 bash scripts.
+Found 1 possible bash script errors.
+in 'tensorflow_ros_cpp/.travis/upgrade_pip.sh'
+		curl
+Checking tf2_web_republisher
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking towr
+Found 3 bash scripts.
+Found 0 possible bash script errors.
+Checking trac_ik
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking tracetools
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking turtlebot3_applications_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking turtlebot3_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking turtlebot3_simulations
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking tuw_control
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking tuw_geometry
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking tuw_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking tuw_multi_robot
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking tuw_rviz
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking twist_mux
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking twist_mux_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking unique_identifier
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking urdf
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking urdf_geometry_parser
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking urdf_parser_py
+Found 3 bash scripts.
+Found 0 possible bash script errors.
+Checking urdf_sim_tutorial
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking urdf_tutorial
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking urg_c
+Found 3 bash scripts.
+Found 0 possible bash script errors.
+Checking urg_node
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking urg_stamped
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking usb_cam
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking velodyne
+Found 1 bash scripts.
+Found 1 possible bash script errors.
+in 'velodyne/velodyne_driver/src/vdump'
+		sudo
+Checking velodyne_simulator
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking video_stream_opencv
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking vision_msgs
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking vision_opencv
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking visualization_tutorials
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking vrpn
+Found 8 bash scripts.
+Found 0 possible bash script errors.
+Checking vrpn_client_ros
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking warehouse_ros
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking webkit_dependency
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking willow_maps
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking wu_ros_tools
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking xacro
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking xpp
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking xv_11_laser_driver
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking yp-spur
+Found 1 bash scripts.
+Found 0 possible bash script errors.
+Checking ypspur_ros
+Found 5 bash scripts.
+Found 1 possible bash script errors.
+in 'ypspur_ros/.travis/test.sh'
+		pip
+		gh-pr-comment

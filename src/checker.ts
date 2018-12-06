@@ -66,7 +66,6 @@ const validate = (scripts: string[], deps: Set<string>) => {
           (f) => f.type === 'Function' && f.name.text === c.name.text,
         );
       if (!isError) return undefined;
-      console.log(ast);
       return new MissingDependency(c);
     });
     return errors.filter((e) => e !== undefined);

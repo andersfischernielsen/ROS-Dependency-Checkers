@@ -61,8 +61,12 @@ const validate = (scripts: string[], deps: Set<string>) => {
         c.name.text &&
         !c.name.text.includes('./') &&
         !c.name.text.includes('$') &&
-        !deps.has(c.name.text);
+        !deps.has(c.name.text) &&
+        !ast.commands.some(
+          (f) => f.type === 'Function' && f.name.text === c.name.text,
+        );
       if (!isError) return undefined;
+      console.log(ast);
       return new MissingDependency(c);
     });
     return errors.filter((e) => e !== undefined);
@@ -98,9 +102,7 @@ const print_result = (result) => {
   result.forEach((r) => {
     if (!r.result) return;
     console.log(`in '${r.script}'`);
-    r.result.forEach((res) =>
-      console.log(`\t\t${res.dependency}\t\t${res.line}`),
-    );
+    r.result.forEach((res) => console.log(`\t\t${res.dependency}`));
   });
 };
 

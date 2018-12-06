@@ -17,7 +17,7 @@ export class MissingDependency {
 }
 
 const setup = (path: string) => {
-  const grep_scripts = `grep -rl ${path} -e "#\\(\\!\\)\\{0,1\\}/bin/\\(bash\\|sh\\)"`;
+  const grep_scripts = `grep -rl --exclude-dir=.git ${path} -e "#\\(\\!\\)\\{0,1\\}/bin/\\(bash\\|sh\\)"`;
   const packages_pattern = `find ${path} -type f -name "package.xml"`;
   try {
     const scripts = shellSync(grep_scripts).stdout.split('\n');

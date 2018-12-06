@@ -8,8 +8,11 @@ import { shellSync } from 'execa';
 
 export class MissingDependency {
   dependency: string;
-  constructor(dependency: string) {
+  line: string;
+  constructor(dependency: string, line: string) {
     this.dependency = dependency;
+    const l = ` ${line}`;
+    this.line = l.length > 40 ? `${l.substring(0, 40)}...` : l;
   }
 }
 
@@ -17,7 +20,6 @@ const setup = (path: string) => {
   const grep_scripts = `grep -rl ${path} -e "#\\(\\!\\)\\{0,1\\}/bin/\\(bash\\|sh\\)"`;
   const packages_pattern = `find ${path} -type f -name "package.xml"`;
   const scripts = shellSync(grep_scripts).stdout.split('\n');
-  console.log(`Found ${scripts.length} bash scripts.`);
   const packages_files = shellSync(packages_pattern).stdout;
   const xmls = packages_files.split('\n').filter((l) => l !== '');
   let deps = new Set<string>();
@@ -41,15 +43,16 @@ const validate = (scripts: string[], deps: Set<string>) => {
     try {
       if (
         !contents ||
-        (!contents.includes('bin/bash') && !contents.includes('bin/sh'))
+        (!contents.split('\n')[0].includes('bin/bash') &&
+          !contents.split('\n')[0].includes('bin/sh'))
       ) {
-        return undefined;
+        return { script, result: undefined };
       }
 
       const result = validate(contents);
       return { script, result };
     } catch (e) {
-      return undefined;
+      return { script, result: [] };
     }
   };
 
@@ -80,28 +83,36 @@ const validate = (scripts: string[], deps: Set<string>) => {
           !text.includes('./') &&
           !text.includes('$')
         ) {
-          errors.push(new MissingDependency(text));
+          if (c.suffix) {
+            errors.push(
+              new MissingDependency(
+                text,
+                c.suffix.map((s) => s.text).join(' '),
+              ),
+            );
+          } else errors.push(new MissingDependency(text, ''));
         }
       }
     });
     return errors;
   };
 
-  const bash_missing = scripts
-    .map((s) => validate_script(s))
-    .filter((o) => o && o.result.length);
-  return bash_missing;
+  const validated = scripts.map((s) => validate_script(s));
+  const actualScripts = validated.filter((s) => s.result !== undefined);
+  console.log(`Found ${actualScripts.length} bash scripts.`);
+  const errors = validated.filter((o) => o && o.result && o.result.length);
+  return errors;
 };
 
 const print_result = (result) => {
-  if (result) {
-    result.forEach((r) => {
-      console.log(`in '${r.script}`);
-      if (r.result) {
-        r.result.forEach((res) => console.log(`\t\t ${res.dependency}`));
-      }
-    });
-  }
+  if (!result) return;
+  result.forEach((r) => {
+    if (!r.result) return;
+    console.log(`in '${r.script}'`);
+    r.result.forEach((res) =>
+      console.log(`\t\t\x1b[4m${res.dependency}\x1b[0m${res.line}`),
+    );
+  });
 };
 
 if (process.argv.length < 2) {

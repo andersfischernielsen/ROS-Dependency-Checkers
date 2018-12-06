@@ -38,7 +38,7 @@ const setup = (path: string) => {
     return { scripts, deps: all_deps };
   } catch (error) {
     if (error.code !== 1) throw error;
-    return { scripts: [], deps: new Set() };
+    return { scripts: [] as string[], deps: new Set() };
   }
 };
 

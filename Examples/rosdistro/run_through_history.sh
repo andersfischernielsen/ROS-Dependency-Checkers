@@ -1,7 +1,11 @@
 #!/usr/bin/env bash
 
-git checkout HEAD~
-while [ $? -ne 128 ]; do
-    git checkout HEAD~
-    ./checker.js .
+for D in `find . -type d`
+do
+	cd $D
+	git checkout HEAD~
+	while [ "$?" -eq 0 ]; do
+    	./../checker.js .
+    	git checkout HEAD~
+	done
 done

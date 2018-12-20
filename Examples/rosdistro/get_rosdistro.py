@@ -7,7 +7,7 @@ import urllib.request
 
 def fetch_repo(url, branch):
     print(f'getting {url} on branch {branch}...')
-    git = f'git clone --depth 1 --single-branch -b {branch} {url}'
+    git = f'git clone --single-branch -b {branch} {url}'
     os.system(git)
 
 

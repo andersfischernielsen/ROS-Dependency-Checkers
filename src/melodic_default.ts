@@ -1,4 +1,5 @@
 export const defaults = [
+  'EOF',
   'egrep',
   'fgrep',
   'grep',

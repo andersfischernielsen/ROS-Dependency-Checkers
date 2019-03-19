@@ -9,19 +9,13 @@ The code can in theory also be used to check non-ROS shell scripts with modifica
 
 ## Run
 
-- Install `bashlex` and `untangle` before running `checker.py`.
-- Run `checker.py` with a path to a ROS package source contain its `package.xml` file.
+- Install dependencies using either `yarn install` or `npm install`.
+- Run `node dist/checker.js` with a path to a ROS package source contain its `package.xml` file.
 
 ### Example
 
 ```bash
-./checker.py my_cool_package_source
-```
-
-or
-
-```
-python3 checker.py my_cool_package_source
+node dist/checker.js Examples/MWE
 ```
 
 ---

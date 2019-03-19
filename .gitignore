@@ -1,8 +1,7 @@
-Examples/rosdistro
-.vscode
+bash/Examples/rosdistro
+*.vscode
 .DS_Store
 *.DS_Store
-
 
 
 # Created by https://www.gitignore.io/api/node

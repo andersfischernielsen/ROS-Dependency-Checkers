@@ -1,4 +1,4 @@
-bash/Examples/rosdistro
+bash-checker/Examples/rosdistro
 *.vscode
 .DS_Store
 *.DS_Store

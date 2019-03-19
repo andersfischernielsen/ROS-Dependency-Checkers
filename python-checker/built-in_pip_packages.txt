@@ -1,4 +1,3 @@
-# Running "pip freeze" on a fresh minimal ROS installation. 
 actionlib==1.11.13
 asn1crypto==0.24.0
 bondpy==1.8.3

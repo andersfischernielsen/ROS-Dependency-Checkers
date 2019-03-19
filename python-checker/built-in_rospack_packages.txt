@@ -1,4 +1,3 @@
-# Running "rospack list-names" on a fresh minimal ROS installation. 
 actionlib
 actionlib_msgs
 bond

@@ -1,0 +1,9 @@
+<package>
+  <name>MWE</name>
+  <version>0.1.1</version>
+  <description>This is a MWE.</description>
+  <license>MIT</license>
+  <url type="website">http://example.com</url>
+  <maintainer email="blank@blank.dk">Blank</maintainer>
+  <author email="blank@blank.dk">Blank</author>
+</package>

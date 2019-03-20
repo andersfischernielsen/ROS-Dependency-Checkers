@@ -1,0 +1,24 @@
+<package>
+  <name>cob_command_gui</name>
+  <version>0.5.1</version>
+  <description>This package provides a simple GUI for operating Care-O-bot.</description>
+  <!-- <maintainer>Florian Weisshardt</maintainer> -->
+
+  <license>LGPL</license>
+
+  <url type="website">http://www.ros.org/wiki/cob_command_gui</url>
+  <!-- <url type="bugtracker"></url> -->
+
+  <maintainer email="fmw@ipa.fhg.de">Florian Weisshardt</maintainer>
+  <author email="fmw@ipa.fhg.de">Florian Weisshardt</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>cob_script_server</run_depend>
+  <run_depend>cob_relayboard</run_depend>
+  <run_depend>python-pygraphviz</run_depend>
+
+  <export>
+
+  </export>
+</package>

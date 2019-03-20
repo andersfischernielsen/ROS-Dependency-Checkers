@@ -8,4 +8,9 @@ The checker generates a Python `requirements.txt` file using the built-in ROS to
 ## Run
 
 - Run `checker.sh` with a path to a valid ROS package containing a `package.xml`. 
-  - Example: `checker.sh Examples/FULL/cob_command_gui`
+
+Example: 
+
+```bash
+./checker.sh Examples/FULL/cob_command_gui
+```

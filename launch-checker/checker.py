@@ -3,7 +3,7 @@
 from catkin.find_in_workspaces import find_in_workspaces
 import os
 import sys
-import xml.etree.ElementTree as ET
+from lxml import etree
 import re
 import rospkg
 
@@ -24,14 +24,13 @@ def find_launch_dependencies(path):
             f"find {package_path} -type f -name '*.launch'").readlines()
 
         for p in paths:
-            file = open(p.strip(), 'r')
-            tree = ET.fromstring(file.read())
-            includes = tree.findall('*/include')
+            tree = etree.parse(p.strip())
+            includes = tree.xpath('//include/@file')
             for include in includes:
                 regex = re.compile(r'(\$\(find )(.*)\)', re.IGNORECASE)
-                package = regex.match(include.attrib['file']).groups()[1]
-                if (not exists_in_workspace(package, package_path) and package not in pip and package not in rospack):
-                    error_packages.append(package)
+                match = regex.match(include)
+                if (len(match.regs) is 3 and not exists_in_workspace(package, package_path) and package not in pip and package not in rospack):
+                    error_packages.append(match[2])
 
     return error_packages
 
@@ -52,6 +51,10 @@ def exists_in_workspace(package, package_path):
 def _get_rospack():
     return rospkg.RosPack()
 
+
+if sys.gettrace() is not None:
+    print('Running in DEBUG')
+    errors = find_launch_dependencies('Examples/MWE/')
 
 if (len(sys.argv) > 1):
     print(f"Checking {sys.argv[1]}")

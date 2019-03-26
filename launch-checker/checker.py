@@ -15,7 +15,7 @@ rospack = list(map(lambda package: package.strip(), open(
 
 
 def find_launch_dependencies(path):
-    error_packages = []
+    error_packages = set()
     packages = os.popen(
         f'find {path} -type f -name "package.xml"').readlines()
     for package in packages:
@@ -27,11 +27,15 @@ def find_launch_dependencies(path):
             tree = etree.parse(p.strip())
             includes = tree.xpath('//include/@file')
             for include in includes:
-                regex = re.compile(r'(\$\(find )(.*)\)', re.IGNORECASE)
+                regex = re.compile(r'(\$\(find )(\w*)\)', re.IGNORECASE)
                 match = regex.match(include)
-                if (len(match.regs) is 3 and not exists_in_workspace(package, package_path) and package not in pip and package not in rospack):
-                    error_packages.append(match[2])
+                if not match or len(match.regs) is not 3:
+                    continue
+                dependency = match[2]
+                if (not exists_in_workspace(dependency, package_path) and dependency not in pip and dependency not in rospack):
+                    error_packages.add(match[2])
 
+    error_packages = list(error_packages)
     return error_packages
 
 
@@ -39,11 +43,11 @@ def exists_in_workspace(package, package_path):
     rp = _get_rospack()
     rospack_path = None
     try:
-        rospack_path = rp.get_path(package)
+        rospack_path = rp.get_path(package_path)
         return rospack_path
     except:
         source_paths = find_in_workspaces(
-            ['libexec'], project=package, first_matching_workspace_only=True,
+            ['libexec'], project=package_path, first_matching_workspace_only=True,
             source_path_to_packages=package_path)
         return rospack_path or source_paths
 
@@ -52,13 +56,20 @@ def _get_rospack():
     return rospkg.RosPack()
 
 
+def print_errors(errors):
+    print("Errors found:")
+    for error in errors:
+        print(f"\t{error}")
+
+
 if sys.gettrace() is not None:
-    print('Running in DEBUG')
-    errors = find_launch_dependencies('Examples/MWE/')
+    print('Running in DEBUG mode.')
+    path = 'Examples/FULL/universal_robot/'
+    print(f"Checking {path}")
+    errors = find_launch_dependencies(path)
+    print_errors(errors)
 
 if (len(sys.argv) > 1):
     print(f"Checking {sys.argv[1]}")
     errors = find_launch_dependencies(sys.argv[1])
-    print("Errors found:")
-    for error in errors:
-        print(f"\t{error}")
+    print_errors(errors)

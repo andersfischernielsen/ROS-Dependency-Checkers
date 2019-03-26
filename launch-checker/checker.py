@@ -32,14 +32,18 @@ def find_launch_dependencies(path):
                 if not match or len(match.regs) is not 3:
                     continue
                 dependency = match[2]
-                if (not exists_in_workspace(dependency, package_path) and dependency not in pip and dependency not in rospack):
+                if (not exists_in_workspace(dependency, package_path, packages) and dependency not in pip and dependency not in rospack):
                     error_packages.add(match[2])
 
     error_packages = list(error_packages)
     return error_packages
 
 
-def exists_in_workspace(package, package_path):
+def exists_in_workspace(package, package_path, packages):
+    metapackage_dependencies = parse_metapackage(packages)
+    if package in metapackage_dependencies:
+        return True
+
     rp = _get_rospack()
     rospack_path = None
     try:
@@ -50,6 +54,16 @@ def exists_in_workspace(package, package_path):
             ['libexec'], project=package_path, first_matching_workspace_only=True,
             source_path_to_packages=package_path)
         return rospack_path or source_paths
+
+
+def parse_metapackage(packages):
+    for package in packages:
+        tree = etree.parse(package.strip())
+        metapackage = tree.xpath('//metapackage')
+        if metapackage:
+            run_depends = tree.xpath('//run_depend')
+            run_depends = list(map(lambda dep: dep.text, run_depends))
+            return run_depends
 
 
 def _get_rospack():

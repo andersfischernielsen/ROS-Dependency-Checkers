@@ -10,7 +10,12 @@ checker_location=$(pwd)
 cd $1
 
 find . -type f -iname "package.xml" -print0 | while IFS= read -r -d $'\0' line; do
-    ggrep -o -P '(?<=<run_depend>).*(?=</run_depend>)' $line > requirements.txt
+    if [ "$(uname)" == "Darwin" ]; then    
+        ggrep -o -P '(?<=<run_depend>).*(?=</run_depend>)' $line > requirements.txt
+    else 
+        grep -o -P '(?<=<run_depend>).*(?=</run_depend>)' $line > requirements.txt
+    fi
+    
     cat $checker_location/built-in_rospack_packages.txt >> requirements.txt
     cat $checker_location/built-in_pip_packages.txt >> requirements.txt
 

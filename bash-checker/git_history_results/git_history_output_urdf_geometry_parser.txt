@@ -1,0 +1,40 @@
+43221f267a416a1e954207d4ba7d767bdbd20128
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+a10afed1a084d5d6f462864061157e4a1a94ac90
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+4ea573c8536e36f91061daad1ae96ce804dd7853
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+01ea425ed577ce98306dec681c385bf8489911eb
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+07ccf8273ffb1a098e0b8cc9790bf254533f0146
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+97c42cc5f3414725681a97af5bfa23e148a241f6
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+e94828d6110cf6f4acbee5ccc289ac9ff13e5811
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+4c09945020009bff3b0c350a7cb94c3622c1e8b3
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+3e37790ec3cca775ce2ad569729c1bd03fd21cdd
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+11d98be3953c9f207e107683d80e0126b3d67812
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+45aaead20bdc6f075eb0410d74f4aadc1aa29863
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+374b1a536c602a88a4850b3aa49fca74bed77a36
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+374b1a536c602a88a4850b3aa49fca74bed77a36
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking urdf_geometry_parser...

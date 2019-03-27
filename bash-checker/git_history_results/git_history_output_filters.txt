@@ -1,0 +1,148 @@
+395380b0d361480891b00d8c27a23fbd76ee1230
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+c63a57d2b20e28181d5e0c2590e4a46922fb12aa
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+cd731e826a2783ee9feebe8403dca8f6c4859d89
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+b656d9fb32a52ec8cd00453d987c20e20dcf1c34
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+c557a338a9e650895226dd20d728cfc6dda5612e
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+7664befa1319f306e3e2330e82fb99d817c727cd
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+a7a96ec0e9f9cd4f0d14abf309e3512bf1dd8ded
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+a7d2f206d63d60c12dd4f482ec2535f8051a1f06
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+443ec68147f161a6e646e24f1e4b3414510e404a
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+1c3dc48e88651db50dfd81dcf73941b40e07a96c
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+f2e2e7f57a0776e5015f99eae80182782b2753e5
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+1a6d97a281e57fbf3ad6fb62c8804104828c89fe
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+43200f88c158bb43b78474d95745bbcf31b17a79
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+2e5265f52a6de0c3850353302a73927c5a016de6
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+b32aa7cd4b1c121469c837ec9ad507527763f9fa
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+a2f9543860dd767136478e02780c082f72eaf7bd
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+52db1e304af1ed913898a35536cca175e0c99c24
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+3954d1a326f89c8e9c519ae51a1bba4d72394840
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+69361adffe944fac76f9ec47099058a26c43116f
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+6530c2d4ace45cee14994abe730dadf9dba77a44
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+c4e4265924b181e617fc45a33d4dc64a1667ecfb
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+ea5d01f41f4bb542b2bfbcddd1fa149cc6637d6e
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+96b0082ffc64e26f9bb2ab3e7be3a30c9014f04f
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+cb2ebb93143fa625921ba7036d1c7f5400ae9604
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+4a8bcba5a435a89f9ad2dc47bfdea5df4b669f8c
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+7e989abe0f076b69d6db5940f36d73f6cfebc7e2
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+d511977fd794eb1016d3f4d99721a883bfdcc96c
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+5af876996b3fd4a8405d3a843f478438a7c5719a
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+25776eb3281bc2ba8acc7229a9d60a265703f1ae
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+b0aaa3b374d4aeca3bcf9c028488e6ebc2832946
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+c65c41d62a00cf3202236b45b9e89c0330e13b51
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+f7a402c3a145b1320eb86c7e3ee3995c3c41f4a4
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+75d59038671e57238072e573eb2697055ae33cbe
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+2c8a16840b8ebed0afd61c0b63914520eebbbc7c
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+4df77e68604509824eadeb1300444ca8838cf890
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+a51bd440f41588ad5af2a0204db3974b1f9aeef8
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+e3c79add7937f2aa163945400aacb9d03ed34a0a
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+f51346d0116846059d36bc8da652faf609964af0
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+eda6eeb324c107d431e02e128ae110d79aafd2d5
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+48e60701d0817123cc57f84835678c14e9d0a24b
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+8e4317e98b9ac8e0fa7b9fa2545927df0f5f3f0b
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+e00a646549e582467a4e215562b41fbeeac474e6
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+972a2ab48beee50853a7b79a19919b9a93f729b0
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+fd723665039c67bf15b237d9799d8d6926c004ec
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+5ec8d34ea3a47c4415e3a3a831f25288a33ca9c4
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+3a13fcf53255c964f1297ada33323243e638545d
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+ed4c648c16e35a4e91662d60385bb59a9e275c4d
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+903399b4c05094ae5c3b3c31dd965b319142b4d7
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+903399b4c05094ae5c3b3c31dd965b319142b4d7
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking filters...

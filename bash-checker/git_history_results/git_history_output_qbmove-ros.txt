@@ -1,0 +1,34 @@
+794078a9ef3eeac3b1d8bc8ad860b5f00bc900a5
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+dab88e4fd48facdf82237c217b53ad8032b295aa
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+15e7ef9697bc8f85bb7f7bbb5de4a7018150a81e
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+b46107b37d92102fff947a24751f7b198c144de0
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+7e2270703c255c112d5d827966cc601219952d95
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+f6361fb0de93e355e4940c600e34140d7908b278
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+43e97f190847e80c132303164c48b902ed220469
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+955ad2ad40309b44f86b7d318136eb49e6587f30
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+daab23f493fdf8b892b384524e2f97fb7a6ffb85
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+605e567cf584ceae49e3ae491593aef2b5d797b6
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+605e567cf584ceae49e3ae491593aef2b5d797b6
+Found 0 bash scripts.
+Found 0 possible bash script errors.
+Checking qbmove-ros...

@@ -24,16 +24,19 @@ def find_launch_dependencies(path):
             f"find {package_path} -type f -name '*.launch'").readlines()
 
         for p in paths:
-            tree = etree.parse(p.strip())
-            includes = tree.xpath('//include/@file')
-            for include in includes:
-                regex = re.compile(r'(\$\(find )(\w*)\)', re.IGNORECASE)
-                match = regex.match(include)
-                if not match or len(match.regs) is not 3:
-                    continue
-                dependency = match[2]
-                if (not exists_in_workspace(dependency, package_path, packages) and dependency not in pip and dependency not in rospack):
-                    error_packages.add(match[2])
+            try:
+                tree = etree.parse(p.strip())
+                includes = tree.xpath('//include/@file')
+                for include in includes:
+                    regex = re.compile(r'(\$\(find )(\w*)\)', re.IGNORECASE)
+                    match = regex.match(include)
+                    if not match or len(match.regs) is not 3:
+                        continue
+                    dependency = match[2]
+                    if (not exists_in_workspace(dependency, package_path, packages) and dependency not in pip and dependency not in rospack):
+                        error_packages.add(match[2])
+            except:
+                continue
 
     error_packages = list(error_packages)
     return error_packages
@@ -63,6 +66,12 @@ def parse_metapackage(packages):
         if metapackage:
             run_depends = tree.xpath('//run_depend')
             run_depends = list(map(lambda dep: dep.text, run_depends))
+            depends = tree.xpath('//depend')
+            depends = list(map(lambda dep: dep.text, depends))
+            exec_depends = tree.xpath('//exec_depend')
+            exec_depends = list(map(lambda dep: dep.text, exec_depends))
+            run_depends.append(depends)
+            run_depends.append(exec_depends)
             return run_depends
 
 
@@ -71,9 +80,12 @@ def _get_rospack():
 
 
 def print_errors(errors):
-    print("Errors found:")
-    for error in errors:
-        print(f"\t{error}")
+    if (errors):
+        print("Errors found:")
+        for error in errors:
+            print(f"\t{error}")
+    else:
+        print("No errors found.")
 
 
 if sys.gettrace() is not None:

@@ -21,13 +21,17 @@ repos = data_loaded['repositories']
 for repo in repos:
     url = None
     branch = None
-    if 'source' in repos[repo].keys():
-        url = repos[repo]['source']['url']
-        branch = repos[repo]['source']['version']
-    if not url or not branch:
-        continue
     try:
-        fetch_repo(url, branch)
+        if 'source' in repos[repo].keys():
+            url = repos[repo]['source']['url']
+            branch = repos[repo]['source']['version']
+        if not url or not branch:
+            continue
+        try:
+            fetch_repo(url, branch)
+        except Exception as e:
+            print("Couldn't fetch %s" % url)
+            print("%s" % e)
     except Exception as e:
         print("Couldn't fetch %s" % url)
         print("%s" % e)

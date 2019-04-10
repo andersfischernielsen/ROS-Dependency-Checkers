@@ -16,8 +16,7 @@ rospack = list(map(lambda package: package.strip(), open(
 
 def find_launch_dependencies(path):
     error_packages = set()
-    packages = os.popen(
-        f'find {path} -type f -name "package.xml"').readlines()
+    packages = os.popen(f'find {path} -type f -name "package.xml"').readlines()
     for package in packages:
         package_path = package.replace('package.xml', '').strip()
         paths = os.popen(
@@ -33,8 +32,10 @@ def find_launch_dependencies(path):
                     if not match or len(match.regs) is not 3:
                         continue
                     dependency = match[2]
-                    if (not exists_in_workspace(dependency, package_path, packages) and dependency not in pip and dependency not in rospack):
-                        error_packages.add(match[2])
+                    package_dependencies = parse_package(package)
+                    if (not exists_in_workspace(dependency, packages) and dependency not in package_dependencies and dependency not in pip and dependency not in rospack):
+                        error_packages.add(
+                            (dependency, p.strip(), package.strip()))
             except:
                 continue
 
@@ -42,21 +43,11 @@ def find_launch_dependencies(path):
     return error_packages
 
 
-def exists_in_workspace(package, package_path, packages):
+def exists_in_workspace(package, packages):
     metapackage_dependencies = parse_metapackage(packages)
     if package in metapackage_dependencies:
         return True
-
-    rp = _get_rospack()
-    rospack_path = None
-    try:
-        rospack_path = rp.get_path(package_path)
-        return rospack_path
-    except:
-        source_paths = find_in_workspaces(
-            ['libexec'], project=package_path, first_matching_workspace_only=True,
-            source_path_to_packages=package_path)
-        return rospack_path or source_paths
+    return False
 
 
 def parse_metapackage(packages):
@@ -64,15 +55,32 @@ def parse_metapackage(packages):
         tree = etree.parse(package.strip())
         metapackage = tree.xpath('//metapackage')
         if metapackage:
-            run_depends = tree.xpath('//run_depend')
-            run_depends = list(map(lambda dep: dep.text, run_depends))
-            depends = tree.xpath('//depend')
-            depends = list(map(lambda dep: dep.text, depends))
-            exec_depends = tree.xpath('//exec_depend')
-            exec_depends = list(map(lambda dep: dep.text, exec_depends))
-            run_depends.append(depends)
-            run_depends.append(exec_depends)
-            return run_depends
+            return parse_depends(tree)
+
+
+def parse_package(package):
+    tree = etree.parse(package.strip())
+    metapackage = tree.xpath('//metapackage')
+    if metapackage:
+        return None
+    depends = parse_depends(tree)
+    name = tree.xpath('//name')
+    depends.append(name[0].text)
+    return depends
+
+
+def parse_depends(tree):
+    run_depends = tree.xpath('//run_depend')
+    run_depends = list(map(lambda dep: dep.text, run_depends))
+    depends = tree.xpath('//depend')
+    depends = list(map(lambda dep: dep.text, depends))
+    if depends:
+        run_depends.extend(depends)
+    exec_depends = tree.xpath('//exec_depend')
+    exec_depends = list(map(lambda dep: dep.text, exec_depends))
+    if exec_depends:
+        run_depends.extend(exec_depends)
+    return run_depends
 
 
 def _get_rospack():
@@ -82,15 +90,16 @@ def _get_rospack():
 def print_errors(errors):
     if (errors):
         print("Errors found:")
-        for error in errors:
-            print(f"\t{error}")
+        for (error, launch_file, package) in errors:
+            print(
+                f"\t'{error}' found in '{launch_file}' \n\tis missing in '{package}'\n")
     else:
         print("No errors found.")
 
 
 if sys.gettrace() is not None:
     print('Running in DEBUG mode.')
-    path = 'Examples/FULL/universal_robot/'
+    path = 'Examples/rosdistro/velodyne_simulator/'
     print(f"Checking {path}")
     errors = find_launch_dependencies(path)
     print_errors(errors)

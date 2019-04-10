@@ -1,0 +1,1016 @@
+Checking Examples/rosdistro/BehaviorTree.CPP/
+No errors found.
+Checking Examples/rosdistro/DynamixelSDK/
+No errors found.
+Checking Examples/rosdistro/PlotJuggler/
+No errors found.
+Checking Examples/rosdistro/abseil-cpp/
+No errors found.
+Checking Examples/rosdistro/acado/
+No errors found.
+Checking Examples/rosdistro/ackermann_msgs/
+No errors found.
+Checking Examples/rosdistro/actionlib/
+No errors found.
+Checking Examples/rosdistro/adi_driver/
+No errors found.
+Checking Examples/rosdistro/agni_tf_tools/
+No errors found.
+Checking Examples/rosdistro/angles/
+No errors found.
+Checking Examples/rosdistro/app_manager/
+No errors found.
+Checking Examples/rosdistro/ar_track_alvar/
+No errors found.
+Checking Examples/rosdistro/arbotix_ros/
+No errors found.
+Checking Examples/rosdistro/astuff_sensor_msgs/
+No errors found.
+Checking Examples/rosdistro/async_comm/
+No errors found.
+Checking Examples/rosdistro/audio_common/
+No errors found.
+Checking Examples/rosdistro/automotive_autonomy_msgs/
+No errors found.
+Checking Examples/rosdistro/bond_core/
+No errors found.
+Checking Examples/rosdistro/brics_actuator/
+No errors found.
+Checking Examples/rosdistro/calibration/
+No errors found.
+Checking Examples/rosdistro/capabilities/
+No errors found.
+Checking Examples/rosdistro/cartesian_msgs/
+No errors found.
+Checking Examples/rosdistro/catch_ros/
+No errors found.
+Checking Examples/rosdistro/catkin/
+No errors found.
+Checking Examples/rosdistro/catkin_grpc/
+No errors found.
+Checking Examples/rosdistro/catkin_virtualenv/
+No errors found.
+Checking Examples/rosdistro/class_loader/
+No errors found.
+Checking Examples/rosdistro/cloudwatch-common/
+No errors found.
+Checking Examples/rosdistro/cloudwatchlogs-ros1/
+No errors found.
+Checking Examples/rosdistro/cloudwatchmetrics-ros1/
+No errors found.
+Checking Examples/rosdistro/cmake_modules/
+No errors found.
+Checking Examples/rosdistro/cob_common/
+No errors found.
+Checking Examples/rosdistro/code_coverage/
+No errors found.
+Checking Examples/rosdistro/codec_image_transport/
+No errors found.
+Checking Examples/rosdistro/collada_urdf/
+No errors found.
+Checking Examples/rosdistro/common_msgs/
+No errors found.
+Checking Examples/rosdistro/control_msgs/
+No errors found.
+Checking Examples/rosdistro/control_toolbox/
+No errors found.
+Checking Examples/rosdistro/costmap_converter/
+No errors found.
+Checking Examples/rosdistro/dataspeed_ulc_ros/
+No errors found.
+Checking Examples/rosdistro/depthcloud_encoder/
+No errors found.
+Checking Examples/rosdistro/diagnostics/
+No errors found.
+Checking Examples/rosdistro/dynamic_reconfigure/
+No errors found.
+Checking Examples/rosdistro/dynamic_robot_state_publisher/
+No errors found.
+Checking Examples/rosdistro/dynamixel-workbench-msgs/
+No errors found.
+Checking Examples/rosdistro/dynamixel-workbench/
+No errors found.
+Checking Examples/rosdistro/ecl_core/
+No errors found.
+Checking Examples/rosdistro/ecl_lite/
+No errors found.
+Checking Examples/rosdistro/ecl_manipulation/
+No errors found.
+Checking Examples/rosdistro/ecl_navigation/
+No errors found.
+Checking Examples/rosdistro/eigen_stl_containers/
+No errors found.
+Checking Examples/rosdistro/ethercat_grant/
+No errors found.
+Checking Examples/rosdistro/ethzasl_xsens_driver/
+No errors found.
+Checking Examples/rosdistro/executive_smach/
+No errors found.
+Checking Examples/rosdistro/exotica/
+No errors found.
+Checking Examples/rosdistro/fawkes_msgs/
+No errors found.
+Checking Examples/rosdistro/fetch_gazebo/
+No errors found.
+Checking Examples/rosdistro/fetch_msgs/
+No errors found.
+Checking Examples/rosdistro/fetch_open_auto_dock/
+No errors found.
+Checking Examples/rosdistro/fetch_robots/
+No errors found.
+Checking Examples/rosdistro/fetch_ros/
+No errors found.
+Checking Examples/rosdistro/fetch_tools/
+No errors found.
+Checking Examples/rosdistro/filters/
+No errors found.
+Checking Examples/rosdistro/find-object/
+No errors found.
+Checking Examples/rosdistro/flexbe_app/
+No errors found.
+Checking Examples/rosdistro/flexbe_behavior_engine/
+No errors found.
+Checking Examples/rosdistro/flir_boson_usb/
+No errors found.
+Checking Examples/rosdistro/fmi_adapter/
+No errors found.
+Checking Examples/rosdistro/four_wheel_steering_msgs/
+No errors found.
+Checking Examples/rosdistro/franka_ros/
+No errors found.
+Checking Examples/rosdistro/gazebo_ros_pkgs/
+No errors found.
+Checking Examples/rosdistro/gencpp/
+No errors found.
+Checking Examples/rosdistro/generic_control_toolbox/
+No errors found.
+Checking Examples/rosdistro/geneus/
+No errors found.
+Checking Examples/rosdistro/genlisp/
+No errors found.
+Checking Examples/rosdistro/genmsg/
+No errors found.
+Checking Examples/rosdistro/gennodejs/
+No errors found.
+Checking Examples/rosdistro/genpy/
+No errors found.
+Checking Examples/rosdistro/geographic_info/
+No errors found.
+Checking Examples/rosdistro/geometric_shapes/
+No errors found.
+Checking Examples/rosdistro/geometry/
+No errors found.
+Checking Examples/rosdistro/geometry2/
+No errors found.
+Checking Examples/rosdistro/geometry_tutorials/
+No errors found.
+Checking Examples/rosdistro/gl_dependency/
+No errors found.
+Checking Examples/rosdistro/gps_umd/
+No errors found.
+Checking Examples/rosdistro/graph_msgs/
+No errors found.
+Checking Examples/rosdistro/grasping_msgs/
+No errors found.
+Checking Examples/rosdistro/grid_map/
+No errors found.
+Checking Examples/rosdistro/health-metrics-collector-ros1/
+No errors found.
+Checking Examples/rosdistro/hebi_cpp_api_ros/
+No errors found.
+Checking Examples/rosdistro/hls_lfcd_lds_driver/
+No errors found.
+Checking Examples/rosdistro/hpp-fcl/
+No errors found.
+Checking Examples/rosdistro/ibeo_core/
+No errors found.
+Checking Examples/rosdistro/ibeo_lux/
+No errors found.
+Checking Examples/rosdistro/ifopt/
+No errors found.
+Checking Examples/rosdistro/iirob_filters/
+No errors found.
+Checking Examples/rosdistro/image_common/
+No errors found.
+Checking Examples/rosdistro/image_pipeline/
+No errors found.
+Checking Examples/rosdistro/image_transport_plugins/
+No errors found.
+Checking Examples/rosdistro/imagezero_transport/
+No errors found.
+Checking Examples/rosdistro/imu_pipeline/
+No errors found.
+Checking Examples/rosdistro/imu_tools/
+No errors found.
+Checking Examples/rosdistro/industrial_core/
+No errors found.
+Checking Examples/rosdistro/interactive_marker_proxy/
+No errors found.
+Checking Examples/rosdistro/interactive_markers/
+No errors found.
+Checking Examples/rosdistro/ipr_extern/
+No errors found.
+Checking Examples/rosdistro/joint_state_publisher/
+No errors found.
+Checking Examples/rosdistro/joystick_drivers/
+No errors found.
+Checking Examples/rosdistro/jsk_recognition/
+Errors found:
+	'jsk_footstep_controller' found in 'Examples/rosdistro/jsk_recognition//jsk_pcl_ros//launch/pr2_tilt_laser_multi_plane_segmentation.launch' 
+	is missing in 'Examples/rosdistro/jsk_recognition//jsk_pcl_ros/package.xml'
+
+	'jsk_footstep_controller' found in 'Examples/rosdistro/jsk_recognition//jsk_pcl_ros//launch/organized_multi_plane_segmentation.launch' 
+	is missing in 'Examples/rosdistro/jsk_recognition//jsk_pcl_ros/package.xml'
+
+	'rosbridge_server' found in 'Examples/rosdistro/jsk_recognition//jsk_pcl_ros//launch/tower_detect/tower_web.launch' 
+	is missing in 'Examples/rosdistro/jsk_recognition//jsk_pcl_ros/package.xml'
+
+	'jsk_tilt_laser' found in 'Examples/rosdistro/jsk_recognition//jsk_pcl_ros//launch/laserscan_registration.launch' 
+	is missing in 'Examples/rosdistro/jsk_recognition//jsk_pcl_ros/package.xml'
+
+	'multilayer_object_tracking' found in 'Examples/rosdistro/jsk_recognition//jsk_pcl_ros//launch/target_adaptive_tracking.launch' 
+	is missing in 'Examples/rosdistro/jsk_recognition//jsk_pcl_ros/package.xml'
+
+Checking Examples/rosdistro/jsk_roseus/
+Errors found:
+	'jsk_pcl_ros' found in 'Examples/rosdistro/jsk_roseus//roseus_tutorials//launch/hsi_color_filter.launch' 
+	is missing in 'Examples/rosdistro/jsk_roseus//roseus_tutorials/package.xml'
+
+	'openni_launch' found in 'Examples/rosdistro/jsk_roseus//roseus_tutorials//launch/kinect.launch' 
+	is missing in 'Examples/rosdistro/jsk_roseus//roseus_tutorials/package.xml'
+
+Checking Examples/rosdistro/json_transport/
+No errors found.
+Checking Examples/rosdistro/kdl_parser/
+No errors found.
+Checking Examples/rosdistro/kinesisvideo-common/
+No errors found.
+Checking Examples/rosdistro/kinesisvideo-encoder-common/
+No errors found.
+Checking Examples/rosdistro/kinesisvideo-encoder-ros1/
+No errors found.
+Checking Examples/rosdistro/kinesisvideo-ros1/
+No errors found.
+Checking Examples/rosdistro/kobuki/
+No errors found.
+Checking Examples/rosdistro/kobuki_core/
+No errors found.
+Checking Examples/rosdistro/kobuki_desktop/
+No errors found.
+Checking Examples/rosdistro/laser_assembler/
+No errors found.
+Checking Examples/rosdistro/laser_filtering/
+No errors found.
+Checking Examples/rosdistro/laser_filters/
+No errors found.
+Checking Examples/rosdistro/laser_geometry/
+No errors found.
+Checking Examples/rosdistro/laser_pipeline/
+No errors found.
+Checking Examples/rosdistro/laser_proc/
+No errors found.
+Checking Examples/rosdistro/leap_motion/
+No errors found.
+Checking Examples/rosdistro/lex-ros1/
+No errors found.
+Checking Examples/rosdistro/lgsvl_msgs/
+No errors found.
+Checking Examples/rosdistro/libuvc/
+No errors found.
+Checking Examples/rosdistro/libuvc_ros/
+No errors found.
+Checking Examples/rosdistro/linux_networking/
+No errors found.
+Checking Examples/rosdistro/map-merge/
+No errors found.
+Checking Examples/rosdistro/mapviz/
+No errors found.
+Checking Examples/rosdistro/marker_rviz_plugin/
+No errors found.
+Checking Examples/rosdistro/marti_common/
+No errors found.
+Checking Examples/rosdistro/marti_messages/
+No errors found.
+Checking Examples/rosdistro/mav_comm/
+No errors found.
+Checking Examples/rosdistro/mavlink-gbp-release/
+No errors found.
+Checking Examples/rosdistro/mavros/
+No errors found.
+Checking Examples/rosdistro/mcl_3dl/
+No errors found.
+Checking Examples/rosdistro/mcl_3dl_msgs/
+No errors found.
+Checking Examples/rosdistro/md49_base_controller/
+No errors found.
+Checking Examples/rosdistro/media_export/
+No errors found.
+Checking Examples/rosdistro/message_filters/
+No errors found.
+Checking Examples/rosdistro/message_generation/
+No errors found.
+Checking Examples/rosdistro/message_runtime/
+No errors found.
+Checking Examples/rosdistro/metapackages/
+No errors found.
+Checking Examples/rosdistro/mir_robot/
+No errors found.
+Checking Examples/rosdistro/ml_classifiers/
+No errors found.
+Checking Examples/rosdistro/mongodb_store/
+No errors found.
+Checking Examples/rosdistro/monitoringmessages-ros1/
+No errors found.
+Checking Examples/rosdistro/move_base_flex/
+No errors found.
+Checking Examples/rosdistro/moveit/
+Errors found:
+	'panda_moveit_config' found in 'Examples/rosdistro/moveit//moveit_ros/benchmarks//examples/demo_panda_all_planners.launch' 
+	is missing in 'Examples/rosdistro/moveit//moveit_ros/benchmarks/package.xml'
+
+	'panda_moveit_config' found in 'Examples/rosdistro/moveit//moveit_ros/benchmarks//examples/demo_panda.launch' 
+	is missing in 'Examples/rosdistro/moveit//moveit_ros/benchmarks/package.xml'
+
+	'moveit_resources' found in 'Examples/rosdistro/moveit//moveit_ros/benchmarks//examples/demo_fanuc.launch' 
+	is missing in 'Examples/rosdistro/moveit//moveit_ros/benchmarks/package.xml'
+
+	'gazebo_ros' found in 'Examples/rosdistro/moveit//moveit_setup_assistant//templates/moveit_config_pkg_template/launch/gazebo.launch' 
+	is missing in 'Examples/rosdistro/moveit//moveit_setup_assistant/package.xml'
+
+	'panda_moveit_config' found in 'Examples/rosdistro/moveit//moveit_ros/benchmarks//examples/demo_panda_all_planners_obstacles.launch' 
+	is missing in 'Examples/rosdistro/moveit//moveit_ros/benchmarks/package.xml'
+
+Checking Examples/rosdistro/moveit_msgs/
+No errors found.
+Checking Examples/rosdistro/moveit_python/
+No errors found.
+Checking Examples/rosdistro/moveit_resources/
+No errors found.
+Checking Examples/rosdistro/moveit_sim_controller/
+No errors found.
+Checking Examples/rosdistro/moveit_visual_tools/
+No errors found.
+Checking Examples/rosdistro/movie_publisher/
+No errors found.
+Checking Examples/rosdistro/mrpt/
+No errors found.
+Checking Examples/rosdistro/mrpt_bridge/
+No errors found.
+Checking Examples/rosdistro/mrpt_msgs/
+No errors found.
+Checking Examples/rosdistro/mrpt_navigation/
+Errors found:
+	'mvsim' found in 'Examples/rosdistro/mrpt_navigation//mrpt_local_obstacles//launch/demo_with_mvsim.launch' 
+	is missing in 'Examples/rosdistro/mrpt_navigation//mrpt_local_obstacles/package.xml'
+
+Checking Examples/rosdistro/mrpt_sensors/
+No errors found.
+Checking Examples/rosdistro/mrpt_slam/
+Errors found:
+	'csl_common' found in 'Examples/rosdistro/mrpt_slam//mrpt_graphslam_2d//launch/setup_robot_for_mr_demo.launch' 
+	is missing in 'Examples/rosdistro/mrpt_slam//mrpt_graphslam_2d/package.xml'
+
+Checking Examples/rosdistro/multimaster_fkie/
+No errors found.
+Checking Examples/rosdistro/mvsim/
+No errors found.
+Checking Examples/rosdistro/navigation/
+No errors found.
+Checking Examples/rosdistro/navigation_2d/
+No errors found.
+Checking Examples/rosdistro/navigation_experimental/
+No errors found.
+Checking Examples/rosdistro/navigation_layers/
+No errors found.
+Checking Examples/rosdistro/navigation_msgs/
+No errors found.
+Checking Examples/rosdistro/neonavigation_msgs/
+No errors found.
+Checking Examples/rosdistro/neonavigation_rviz_plugins/
+No errors found.
+Checking Examples/rosdistro/nerian_stereo/
+No errors found.
+Checking Examples/rosdistro/network_interface/
+No errors found.
+Checking Examples/rosdistro/nmea_msgs/
+No errors found.
+Checking Examples/rosdistro/nmea_navsat_driver/
+No errors found.
+Checking Examples/rosdistro/nodelet_core/
+No errors found.
+Checking Examples/rosdistro/novatel_gps_driver/
+No errors found.
+Checking Examples/rosdistro/novatel_span_driver/
+No errors found.
+Checking Examples/rosdistro/object_recognition_msgs/
+No errors found.
+Checking Examples/rosdistro/octomap/
+No errors found.
+Checking Examples/rosdistro/octomap_mapping/
+No errors found.
+Checking Examples/rosdistro/octomap_msgs/
+No errors found.
+Checking Examples/rosdistro/octomap_ros/
+No errors found.
+Checking Examples/rosdistro/odva_ethernetip/
+No errors found.
+Checking Examples/rosdistro/open_karto/
+No errors found.
+Checking Examples/rosdistro/open_manipulator/
+No errors found.
+Checking Examples/rosdistro/open_manipulator_msgs/
+No errors found.
+Checking Examples/rosdistro/open_manipulator_simulations/
+No errors found.
+Checking Examples/rosdistro/open_manipulator_with_tb3_simulations/
+No errors found.
+Checking Examples/rosdistro/opencv_apps/
+No errors found.
+Checking Examples/rosdistro/openni2_camera/
+No errors found.
+Checking Examples/rosdistro/openni_camera/
+No errors found.
+Checking Examples/rosdistro/optpp_catkin/
+No errors found.
+Checking Examples/rosdistro/orb_slam_2_ros/
+No errors found.
+Checking Examples/rosdistro/orocos_kinematics_dynamics/
+No errors found.
+Checking Examples/rosdistro/ouster/
+No errors found.
+Checking Examples/rosdistro/p2os/
+No errors found.
+Checking Examples/rosdistro/pacmod3/
+No errors found.
+Checking Examples/rosdistro/pacmod_game_control/
+No errors found.
+Checking Examples/rosdistro/panda_moveit_config/
+No errors found.
+Checking Examples/rosdistro/parrot_arsdk/
+No errors found.
+Checking Examples/rosdistro/pcl_msgs/
+No errors found.
+Checking Examples/rosdistro/people/
+No errors found.
+Checking Examples/rosdistro/pepperl_fuchs/
+No errors found.
+Checking Examples/rosdistro/perception_pcl/
+No errors found.
+Checking Examples/rosdistro/pheeno_ros_description/
+No errors found.
+Checking Examples/rosdistro/phidgets_drivers/
+No errors found.
+Checking Examples/rosdistro/photo/
+No errors found.
+Checking Examples/rosdistro/pid/
+No errors found.
+Checking Examples/rosdistro/pilz_industrial_motion/
+Errors found:
+	'abb_irb2400_moveit_config' found in 'Examples/rosdistro/pilz_industrial_motion//pilz_trajectory_generation//test/test_robots/abb_irb2400/launch/run_abb_irb2400.launch' 
+	is missing in 'Examples/rosdistro/pilz_industrial_motion//pilz_trajectory_generation/package.xml'
+
+	'abb_irb2400_moveit_config' found in 'Examples/rosdistro/pilz_industrial_motion//pilz_trajectory_generation//test/test_robots/abb_irb2400/launch/move_group.launch' 
+	is missing in 'Examples/rosdistro/pilz_industrial_motion//pilz_trajectory_generation/package.xml'
+
+	'panda_moveit_config' found in 'Examples/rosdistro/pilz_industrial_motion//pilz_trajectory_generation//test/test_robots/frankaemika_panda/launch/move_group.launch' 
+	is missing in 'Examples/rosdistro/pilz_industrial_motion//pilz_trajectory_generation/package.xml'
+
+	'panda_moveit_config' found in 'Examples/rosdistro/pilz_industrial_motion//pilz_trajectory_generation//test/test_robots/frankaemika_panda/launch/moveit_planning_execution.launch' 
+	is missing in 'Examples/rosdistro/pilz_industrial_motion//pilz_trajectory_generation/package.xml'
+
+Checking Examples/rosdistro/pilz_robots/
+No errors found.
+Checking Examples/rosdistro/pinocchio/
+No errors found.
+Checking Examples/rosdistro/pluginlib/
+No errors found.
+Checking Examples/rosdistro/pointcloud_to_laserscan/
+No errors found.
+Checking Examples/rosdistro/pose_cov_ops/
+No errors found.
+Checking Examples/rosdistro/potree_rviz_plugin/
+No errors found.
+Checking Examples/rosdistro/power_msgs/
+No errors found.
+Checking Examples/rosdistro/pr2_ethercat_drivers/
+No errors found.
+Checking Examples/rosdistro/pr2_kinematics/
+No errors found.
+Checking Examples/rosdistro/prbt_grippers/
+No errors found.
+Checking Examples/rosdistro/py_trees/
+No errors found.
+Checking Examples/rosdistro/py_trees_ros/
+No errors found.
+Checking Examples/rosdistro/pybind11_catkin/
+No errors found.
+Checking Examples/rosdistro/python_qt_binding/
+No errors found.
+Checking Examples/rosdistro/qbchain-ros/
+Errors found:
+	'qb_device_driver' found in 'Examples/rosdistro/qbchain-ros//qb_chain_control//launch/4dof_chain_control.launch' 
+	is missing in 'Examples/rosdistro/qbchain-ros//qb_chain_control/package.xml'
+
+	'qb_device_driver' found in 'Examples/rosdistro/qbchain-ros//qb_chain_control//launch/5dof_chain_hand_control.launch' 
+	is missing in 'Examples/rosdistro/qbchain-ros//qb_chain_control/package.xml'
+
+	'qb_device_bringup' found in 'Examples/rosdistro/qbchain-ros//qb_chain_control//launch/5dof_chain_hand_control.launch' 
+	is missing in 'Examples/rosdistro/qbchain-ros//qb_chain_control/package.xml'
+
+	'qb_device_bringup' found in 'Examples/rosdistro/qbchain-ros//qb_chain_control//launch/6dof_chain_control.launch' 
+	is missing in 'Examples/rosdistro/qbchain-ros//qb_chain_control/package.xml'
+
+	'qb_device_bringup' found in 'Examples/rosdistro/qbchain-ros//qb_chain_description//launch/display.launch' 
+	is missing in 'Examples/rosdistro/qbchain-ros//qb_chain_description/package.xml'
+
+	'qb_device_bringup' found in 'Examples/rosdistro/qbchain-ros//qb_chain_control//launch/4dof_chain_control.launch' 
+	is missing in 'Examples/rosdistro/qbchain-ros//qb_chain_control/package.xml'
+
+	'qb_device_driver' found in 'Examples/rosdistro/qbchain-ros//qb_chain_control//launch/2dof_chain_control.launch' 
+	is missing in 'Examples/rosdistro/qbchain-ros//qb_chain_control/package.xml'
+
+	'qb_move_control' found in 'Examples/rosdistro/qbchain-ros//qb_chain_control//launch/6dof_chain_async_control.launch' 
+	is missing in 'Examples/rosdistro/qbchain-ros//qb_chain_control/package.xml'
+
+	'qb_device_bringup' found in 'Examples/rosdistro/qbchain-ros//qb_chain_control//launch/2dof_chain_control.launch' 
+	is missing in 'Examples/rosdistro/qbchain-ros//qb_chain_control/package.xml'
+
+	'qb_device_driver' found in 'Examples/rosdistro/qbchain-ros//qb_chain_control//launch/6dof_chain_control.launch' 
+	is missing in 'Examples/rosdistro/qbchain-ros//qb_chain_control/package.xml'
+
+Checking Examples/rosdistro/qbdevice-ros/
+No errors found.
+Checking Examples/rosdistro/qbhand-ros/
+Errors found:
+	'qb_device_bringup' found in 'Examples/rosdistro/qbhand-ros//qb_hand_control//launch/control.launch' 
+	is missing in 'Examples/rosdistro/qbhand-ros//qb_hand_control/package.xml'
+
+	'qb_device_driver' found in 'Examples/rosdistro/qbhand-ros//qb_hand_control//launch/control.launch' 
+	is missing in 'Examples/rosdistro/qbhand-ros//qb_hand_control/package.xml'
+
+	'qb_device_bringup' found in 'Examples/rosdistro/qbhand-ros//qb_hand_description//launch/display.launch' 
+	is missing in 'Examples/rosdistro/qbhand-ros//qb_hand_description/package.xml'
+
+Checking Examples/rosdistro/qbmove-ros/
+Errors found:
+	'qb_device_driver' found in 'Examples/rosdistro/qbmove-ros//qb_move_control//launch/control.launch' 
+	is missing in 'Examples/rosdistro/qbmove-ros//qb_move_control/package.xml'
+
+	'qb_device_bringup' found in 'Examples/rosdistro/qbmove-ros//qb_move_description//launch/display.launch' 
+	is missing in 'Examples/rosdistro/qbmove-ros//qb_move_description/package.xml'
+
+	'qb_device_bringup' found in 'Examples/rosdistro/qbmove-ros//qb_move_control//launch/control.launch' 
+	is missing in 'Examples/rosdistro/qbmove-ros//qb_move_control/package.xml'
+
+Checking Examples/rosdistro/qt_gui_core/
+No errors found.
+Checking Examples/rosdistro/qwt_dependency/
+No errors found.
+Checking Examples/rosdistro/rail_manipulation_msgs/
+No errors found.
+Checking Examples/rosdistro/random_numbers/
+No errors found.
+Checking Examples/rosdistro/raspimouse_sim/
+No errors found.
+Checking Examples/rosdistro/rc_cloud_accumulator/
+No errors found.
+Checking Examples/rosdistro/rc_dynamics_api/
+No errors found.
+Checking Examples/rosdistro/rc_genicam_api/
+No errors found.
+Checking Examples/rosdistro/rc_visard_ros/
+No errors found.
+Checking Examples/rosdistro/realtime_tools/
+No errors found.
+Checking Examples/rosdistro/resource_retriever/
+No errors found.
+Checking Examples/rosdistro/rgbd_launch/
+No errors found.
+Checking Examples/rosdistro/robosense/
+No errors found.
+Checking Examples/rosdistro/robot_activity/
+No errors found.
+Checking Examples/rosdistro/robot_calibration/
+No errors found.
+Checking Examples/rosdistro/robot_controllers/
+No errors found.
+Checking Examples/rosdistro/robot_localization/
+No errors found.
+Checking Examples/rosdistro/robot_navigation/
+No errors found.
+Checking Examples/rosdistro/robot_state_publisher/
+No errors found.
+Checking Examples/rosdistro/robot_upstart/
+No errors found.
+Checking Examples/rosdistro/robotis_manipulator/
+No errors found.
+Checking Examples/rosdistro/ros/
+No errors found.
+Checking Examples/rosdistro/ros_canopen/
+No errors found.
+Checking Examples/rosdistro/ros_comm/
+No errors found.
+Checking Examples/rosdistro/ros_comm_msgs/
+No errors found.
+Checking Examples/rosdistro/ros_control/
+No errors found.
+Checking Examples/rosdistro/ros_control_boilerplate/
+No errors found.
+Checking Examples/rosdistro/ros_controllers/
+Errors found:
+	'gazebo_worlds' found in 'Examples/rosdistro/ros_controllers//diff_drive_controller//test/view_diffbot.launch' 
+	is missing in 'Examples/rosdistro/ros_controllers//diff_drive_controller/package.xml'
+
+	'gazebo_worlds' found in 'Examples/rosdistro/ros_controllers//diff_drive_controller//test/view_skidsteerbot.launch' 
+	is missing in 'Examples/rosdistro/ros_controllers//diff_drive_controller/package.xml'
+
+	'gazebo_ros' found in 'Examples/rosdistro/ros_controllers//ackermann_steering_controller//test/common/launch/view_ackermann_steering_bot.launch' 
+	is missing in 'Examples/rosdistro/ros_controllers//ackermann_steering_controller/package.xml'
+
+Checking Examples/rosdistro/ros_driver/
+No errors found.
+Checking Examples/rosdistro/ros_emacs_utils/
+No errors found.
+Checking Examples/rosdistro/ros_environment/
+No errors found.
+Checking Examples/rosdistro/ros_pytest/
+No errors found.
+Checking Examples/rosdistro/ros_realtime/
+No errors found.
+Checking Examples/rosdistro/ros_tutorials/
+No errors found.
+Checking Examples/rosdistro/ros_type_introspection/
+No errors found.
+Checking Examples/rosdistro/rosauth/
+No errors found.
+Checking Examples/rosdistro/rosbash_params/
+No errors found.
+Checking Examples/rosdistro/rosbridge_suite/
+No errors found.
+Checking Examples/rosdistro/roscompile/
+No errors found.
+Checking Examples/rosdistro/rosconsole/
+No errors found.
+Checking Examples/rosdistro/rosconsole_bridge/
+No errors found.
+Checking Examples/rosdistro/roscpp_core/
+No errors found.
+Checking Examples/rosdistro/rosdoc_lite/
+No errors found.
+Checking Examples/rosdistro/rosfmt/
+No errors found.
+Checking Examples/rosdistro/roslint/
+No errors found.
+Checking Examples/rosdistro/roslisp/
+No errors found.
+Checking Examples/rosdistro/roslisp_common/
+No errors found.
+Checking Examples/rosdistro/rosmon/
+No errors found.
+Checking Examples/rosdistro/rospack/
+No errors found.
+Checking Examples/rosdistro/rosparam_shortcuts/
+No errors found.
+Checking Examples/rosdistro/rospilot/
+No errors found.
+Checking Examples/rosdistro/rospy_message_converter/
+No errors found.
+Checking Examples/rosdistro/rosserial/
+No errors found.
+Checking Examples/rosdistro/roswww/
+No errors found.
+Checking Examples/rosdistro/rotors_simulator/
+Errors found:
+	'gazebo_ros' found in 'Examples/rosdistro/rotors_simulator//rotors_gazebo//launch/fixed_wing_hil.launch' 
+	is missing in 'Examples/rosdistro/rotors_simulator//rotors_gazebo/package.xml'
+
+	'gazebo_ros' found in 'Examples/rosdistro/rotors_simulator//rotors_gazebo//launch/vi_sensor.launch' 
+	is missing in 'Examples/rosdistro/rotors_simulator//rotors_gazebo/package.xml'
+
+	'gazebo_ros' found in 'Examples/rosdistro/rotors_simulator//rotors_gazebo//launch/mav_with_joy.launch' 
+	is missing in 'Examples/rosdistro/rotors_simulator//rotors_gazebo/package.xml'
+
+	'gazebo_ros' found in 'Examples/rosdistro/rotors_simulator//rotors_gazebo//launch/three_multicopters_hovering_example.launch' 
+	is missing in 'Examples/rosdistro/rotors_simulator//rotors_gazebo/package.xml'
+
+	'gazebo_ros' found in 'Examples/rosdistro/rotors_simulator//rotors_gazebo//launch/mav_with_keyboard.launch' 
+	is missing in 'Examples/rosdistro/rotors_simulator//rotors_gazebo/package.xml'
+
+	'gazebo_ros' found in 'Examples/rosdistro/rotors_simulator//rotors_gazebo//launch/mav_powerplant_with_waypoint_publisher.launch' 
+	is missing in 'Examples/rosdistro/rotors_simulator//rotors_gazebo/package.xml'
+
+	'gazebo_ros' found in 'Examples/rosdistro/rotors_simulator//rotors_gazebo//launch/mav_with_waypoint_publisher.launch' 
+	is missing in 'Examples/rosdistro/rotors_simulator//rotors_gazebo/package.xml'
+
+	'gazebo_ros' found in 'Examples/rosdistro/rotors_simulator//rotors_gazebo//launch/mav_hovering_example_with_vi_sensor.launch' 
+	is missing in 'Examples/rosdistro/rotors_simulator//rotors_gazebo/package.xml'
+
+	'gazebo_ros' found in 'Examples/rosdistro/rotors_simulator//rotors_gazebo//launch/firefly_swarm_hovering_example.launch' 
+	is missing in 'Examples/rosdistro/rotors_simulator//rotors_gazebo/package.xml'
+
+	'gazebo_ros' found in 'Examples/rosdistro/rotors_simulator//rotors_gazebo//launch/mav_with_wind_gust.launch' 
+	is missing in 'Examples/rosdistro/rotors_simulator//rotors_gazebo/package.xml'
+
+	'gazebo_ros' found in 'Examples/rosdistro/rotors_simulator//rotors_gazebo//launch/fixed_wing_with_joy.launch' 
+	is missing in 'Examples/rosdistro/rotors_simulator//rotors_gazebo/package.xml'
+
+	'gazebo_ros' found in 'Examples/rosdistro/rotors_simulator//rotors_gazebo//launch/fixed_wing.launch' 
+	is missing in 'Examples/rosdistro/rotors_simulator//rotors_gazebo/package.xml'
+
+	'gazebo_ros' found in 'Examples/rosdistro/rotors_simulator//rotors_gazebo//launch/mav_hovering_example.launch' 
+	is missing in 'Examples/rosdistro/rotors_simulator//rotors_gazebo/package.xml'
+
+	'gazebo_ros' found in 'Examples/rosdistro/rotors_simulator//rotors_gazebo//launch/mav.launch' 
+	is missing in 'Examples/rosdistro/rotors_simulator//rotors_gazebo/package.xml'
+
+Checking Examples/rosdistro/rplidar_ros/
+No errors found.
+Checking Examples/rosdistro/rqt/
+No errors found.
+Checking Examples/rosdistro/rqt_action/
+No errors found.
+Checking Examples/rosdistro/rqt_bag/
+No errors found.
+Checking Examples/rosdistro/rqt_common_plugins/
+No errors found.
+Checking Examples/rosdistro/rqt_console/
+No errors found.
+Checking Examples/rosdistro/rqt_dep/
+No errors found.
+Checking Examples/rosdistro/rqt_graph/
+No errors found.
+Checking Examples/rosdistro/rqt_image_view/
+No errors found.
+Checking Examples/rosdistro/rqt_launch/
+No errors found.
+Checking Examples/rosdistro/rqt_logger_level/
+No errors found.
+Checking Examples/rosdistro/rqt_moveit/
+No errors found.
+Checking Examples/rosdistro/rqt_msg/
+No errors found.
+Checking Examples/rosdistro/rqt_multiplot_plugin/
+No errors found.
+Checking Examples/rosdistro/rqt_nav_view/
+No errors found.
+Checking Examples/rosdistro/rqt_plot/
+No errors found.
+Checking Examples/rosdistro/rqt_pose_view/
+No errors found.
+Checking Examples/rosdistro/rqt_publisher/
+No errors found.
+Checking Examples/rosdistro/rqt_py_console/
+No errors found.
+Checking Examples/rosdistro/rqt_py_trees/
+No errors found.
+Checking Examples/rosdistro/rqt_reconfigure/
+No errors found.
+Checking Examples/rosdistro/rqt_robot_dashboard/
+No errors found.
+Checking Examples/rosdistro/rqt_robot_monitor/
+No errors found.
+Checking Examples/rosdistro/rqt_robot_plugins/
+No errors found.
+Checking Examples/rosdistro/rqt_robot_steering/
+No errors found.
+Checking Examples/rosdistro/rqt_runtime_monitor/
+No errors found.
+Checking Examples/rosdistro/rqt_rviz/
+No errors found.
+Checking Examples/rosdistro/rqt_service_caller/
+No errors found.
+Checking Examples/rosdistro/rqt_shell/
+No errors found.
+Checking Examples/rosdistro/rqt_srv/
+No errors found.
+Checking Examples/rosdistro/rqt_tf_tree/
+No errors found.
+Checking Examples/rosdistro/rqt_top/
+No errors found.
+Checking Examples/rosdistro/rqt_topic/
+No errors found.
+Checking Examples/rosdistro/rqt_web/
+No errors found.
+Checking Examples/rosdistro/rtabmap/
+No errors found.
+Checking Examples/rosdistro/rtabmap_ros/
+No errors found.
+Checking Examples/rosdistro/rviz/
+No errors found.
+Checking Examples/rosdistro/rviz_visual_tools/
+No errors found.
+Checking Examples/rosdistro/sbg_ros_driver/
+No errors found.
+Checking Examples/rosdistro/schunk_modular_robotics/
+No errors found.
+Checking Examples/rosdistro/serial/
+No errors found.
+Checking Examples/rosdistro/sick_safetyscanners/
+No errors found.
+Checking Examples/rosdistro/sick_tim/
+No errors found.
+Checking Examples/rosdistro/simple_grasping/
+No errors found.
+Checking Examples/rosdistro/slam_karto/
+No errors found.
+Checking Examples/rosdistro/soem/
+No errors found.
+Checking Examples/rosdistro/sparse_bundle_adjustment/
+No errors found.
+Checking Examples/rosdistro/srdfdom/
+No errors found.
+Checking Examples/rosdistro/stage-release/
+No errors found.
+Checking Examples/rosdistro/stage_ros/
+No errors found.
+Checking Examples/rosdistro/static_tf/
+No errors found.
+Checking Examples/rosdistro/static_transform_mux/
+No errors found.
+Checking Examples/rosdistro/std_capabilities/
+No errors found.
+Checking Examples/rosdistro/std_msgs/
+No errors found.
+Checking Examples/rosdistro/swri_console/
+No errors found.
+Checking Examples/rosdistro/teb_local_planner/
+No errors found.
+Checking Examples/rosdistro/teb_local_planner_tutorials/
+No errors found.
+Checking Examples/rosdistro/teleop_keyboard_omni3/
+No errors found.
+Checking Examples/rosdistro/teleop_tools/
+No errors found.
+Checking Examples/rosdistro/teleop_twist_joy/
+No errors found.
+Checking Examples/rosdistro/teleop_twist_keyboard/
+No errors found.
+Checking Examples/rosdistro/teleop_twist_keyboard_cpp/
+No errors found.
+Checking Examples/rosdistro/tensorflow_ros_cpp/
+No errors found.
+Checking Examples/rosdistro/tf2_web_republisher/
+No errors found.
+Checking Examples/rosdistro/tf_remapper_cpp/
+No errors found.
+Checking Examples/rosdistro/towr/
+No errors found.
+Checking Examples/rosdistro/trac_ik/
+No errors found.
+Checking Examples/rosdistro/tracetools/
+No errors found.
+Checking Examples/rosdistro/tts-ros1/
+No errors found.
+Checking Examples/rosdistro/turtlebot3/
+Errors found:
+	'realsense_camera' found in 'Examples/rosdistro/turtlebot3//turtlebot3_bringup//launch/turtlebot3_realsense.launch' 
+	is missing in 'Examples/rosdistro/turtlebot3//turtlebot3_bringup/package.xml'
+
+Checking Examples/rosdistro/turtlebot3_applications/
+No errors found.
+Checking Examples/rosdistro/turtlebot3_applications_msgs/
+No errors found.
+Checking Examples/rosdistro/turtlebot3_autorace/
+Errors found:
+	'turtlebot3_navigation' found in 'Examples/rosdistro/turtlebot3_autorace//turtlebot3_autorace_control//launch/turtlebot3_autorace_control_tunnel.launch' 
+	is missing in 'Examples/rosdistro/turtlebot3_autorace//turtlebot3_autorace_control/package.xml'
+
+	'turtlebot3_bringup' found in 'Examples/rosdistro/turtlebot3_autorace//turtlebot3_autorace_control//launch/turtlebot3_autorace_control_tunnel.launch' 
+	is missing in 'Examples/rosdistro/turtlebot3_autorace//turtlebot3_autorace_control/package.xml'
+
+Checking Examples/rosdistro/turtlebot3_msgs/
+No errors found.
+Checking Examples/rosdistro/turtlebot3_simulations/
+Errors found:
+	'turtlebot3_bringup' found in 'Examples/rosdistro/turtlebot3_simulations//turtlebot3_gazebo//launch/turtlebot3_gazebo_rviz.launch' 
+	is missing in 'Examples/rosdistro/turtlebot3_simulations//turtlebot3_gazebo/package.xml'
+
+	'turtlebot3_bringup' found in 'Examples/rosdistro/turtlebot3_simulations//turtlebot3_fake//launch/turtlebot3_fake.launch' 
+	is missing in 'Examples/rosdistro/turtlebot3_simulations//turtlebot3_fake/package.xml'
+
+Checking Examples/rosdistro/tuw_control/
+No errors found.
+Checking Examples/rosdistro/tuw_geometry/
+No errors found.
+Checking Examples/rosdistro/tuw_marker_detection/
+Errors found:
+	'tuw_uvc' found in 'Examples/rosdistro/tuw_marker_detection//tuw_ellipses//launch/demo_live.launch' 
+	is missing in 'Examples/rosdistro/tuw_marker_detection//tuw_ellipses/package.xml'
+
+	'tuw_uvc' found in 'Examples/rosdistro/tuw_marker_detection//tuw_aruco//launch/demo_single_marker_live.launch' 
+	is missing in 'Examples/rosdistro/tuw_marker_detection//tuw_aruco/package.xml'
+
+Checking Examples/rosdistro/tuw_msgs/
+No errors found.
+Checking Examples/rosdistro/tuw_multi_robot/
+No errors found.
+Checking Examples/rosdistro/tuw_rviz/
+No errors found.
+Checking Examples/rosdistro/twist_mux/
+No errors found.
+Checking Examples/rosdistro/twist_mux_msgs/
+No errors found.
+Checking Examples/rosdistro/um7/
+No errors found.
+Checking Examples/rosdistro/unique_identifier/
+No errors found.
+Checking Examples/rosdistro/urdf/
+No errors found.
+Checking Examples/rosdistro/urdf_geometry_parser/
+No errors found.
+Checking Examples/rosdistro/urdf_parser_py/
+No errors found.
+Checking Examples/rosdistro/urdf_sim_tutorial/
+No errors found.
+Checking Examples/rosdistro/urdf_tutorial/
+No errors found.
+Checking Examples/rosdistro/urg_c/
+No errors found.
+Checking Examples/rosdistro/urg_node/
+No errors found.
+Checking Examples/rosdistro/urg_stamped/
+No errors found.
+Checking Examples/rosdistro/usb_cam/
+No errors found.
+Checking Examples/rosdistro/usb_cam_hardware/
+No errors found.
+Checking Examples/rosdistro/utils-common/
+No errors found.
+Checking Examples/rosdistro/utils-ros1/
+No errors found.
+Checking Examples/rosdistro/uuv_simulator/
+Errors found:
+	'oberon7_control' found in 'Examples/rosdistro/uuv_simulator//uuv_gazebo//launch/rexrov_demos/rexrov_oberon_demo.launch' 
+	is missing in 'Examples/rosdistro/uuv_simulator//uuv_gazebo/package.xml'
+
+	'oberon4_control' found in 'Examples/rosdistro/uuv_simulator//uuv_gazebo//launch/rexrov_demos/rexrov_oberon_arms_demo.launch' 
+	is missing in 'Examples/rosdistro/uuv_simulator//uuv_gazebo/package.xml'
+
+	'oberon4_control' found in 'Examples/rosdistro/uuv_simulator//uuv_gazebo//launch/rexrov_demos/rexrov_oberon4_demo.launch' 
+	is missing in 'Examples/rosdistro/uuv_simulator//uuv_gazebo/package.xml'
+
+	'oberon7_control' found in 'Examples/rosdistro/uuv_simulator//uuv_gazebo//launch/rexrov_demos/rexrov_oberon_arms_demo.launch' 
+	is missing in 'Examples/rosdistro/uuv_simulator//uuv_gazebo/package.xml'
+
+Checking Examples/rosdistro/vapor_master/
+No errors found.
+Checking Examples/rosdistro/velodyne/
+No errors found.
+Checking Examples/rosdistro/velodyne_simulator/
+Errors found:
+	'gazebo_ros' found in 'Examples/rosdistro/velodyne_simulator//velodyne_description//launch/example.launch' 
+	is missing in 'Examples/rosdistro/velodyne_simulator//velodyne_description/package.xml'
+
+Checking Examples/rosdistro/video_stream_opencv/
+No errors found.
+Checking Examples/rosdistro/vision_msgs/
+No errors found.
+Checking Examples/rosdistro/vision_opencv/
+No errors found.
+Checking Examples/rosdistro/visualization_tutorials/
+No errors found.
+Checking Examples/rosdistro/vrpn/
+No errors found.
+Checking Examples/rosdistro/vrpn_client_ros/
+No errors found.
+Checking Examples/rosdistro/warehouse_ros/
+No errors found.
+Checking Examples/rosdistro/web_video_server/
+No errors found.
+Checking Examples/rosdistro/webkit_dependency/
+No errors found.
+Checking Examples/rosdistro/webrtc_ros/
+No errors found.
+Checking Examples/rosdistro/willow_maps/
+No errors found.
+Checking Examples/rosdistro/wu_ros_tools/
+No errors found.
+Checking Examples/rosdistro/xacro/
+No errors found.
+Checking Examples/rosdistro/xpp/
+No errors found.
+Checking Examples/rosdistro/xv_11_laser_driver/
+No errors found.
+Checking Examples/rosdistro/yp-spur/
+No errors found.
+Checking Examples/rosdistro/ypspur_ros/
+No errors found.
+Checking Examples/rosdistro/yujin_ocs/
+Errors found:
+	'yocs_ar_pair_tracking' found in 'Examples/rosdistro/yujin_ocs//yocs_ar_pair_approach//launch/machinery.launch' 
+	is missing in 'Examples/rosdistro/yujin_ocs//yocs_ar_pair_approach/package.xml'
+
+	'openni_launch' found in 'Examples/rosdistro/yujin_ocs//yocs_ar_marker_tracking//launch/tests/testies-3dsensor-depth.launch' 
+	is missing in 'Examples/rosdistro/yujin_ocs//yocs_ar_marker_tracking/package.xml'
+
+	'openni_launch' found in 'Examples/rosdistro/yujin_ocs//yocs_ar_marker_tracking//launch/tests/testies-3dsensor.launch' 
+	is missing in 'Examples/rosdistro/yujin_ocs//yocs_ar_marker_tracking/package.xml'
+
+	'yocs_ar_marker_tracking' found in 'Examples/rosdistro/yujin_ocs//yocs_ar_pair_approach//launch/machinery.launch' 
+	is missing in 'Examples/rosdistro/yujin_ocs//yocs_ar_pair_approach/package.xml'
+
+	'kobuki_node' found in 'Examples/rosdistro/yujin_ocs//yocs_diff_drive_pose_controller//launch/kobuki_pose_control.launch' 
+	is missing in 'Examples/rosdistro/yujin_ocs//yocs_diff_drive_pose_controller/package.xml'
+
+Checking Examples/rosdistro/zeroconf_msgs/
+No errors found.

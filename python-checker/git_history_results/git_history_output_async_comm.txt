@@ -1,0 +1,58 @@
+848ca03629545a76095ff5b2f2b65cd4c74d42bd
+./ros_prerelease_tests.py:10:1: I900 'termcolor' not listed as a requirement
+dddb9d1816ec3874ba9b89a0bd274e6b88f83459
+./ros_prerelease_tests.py:10:1: I900 'termcolor' not listed as a requirement
+98c6fe892f366d8275eac9d86e4230217afaf759
+./ros_prerelease_tests.py:10:1: I900 'termcolor' not listed as a requirement
+ca53aca19aafe59ed720bde593fcc727c24cf525
+./ros_prerelease_tests.py:10:1: I900 'termcolor' not listed as a requirement
+4f1d0eee0a1143eda7bad68bc176962a9dd3ad91
+./ros_prerelease_tests.py:10:1: I900 'termcolor' not listed as a requirement
+db066bf2aa1f39b78f6516cf3af9a1d6539dcec6
+./ros_prerelease_tests.py:10:1: I900 'termcolor' not listed as a requirement
+32a702d9bdc03db28e3551ba041b85541bf2a9b0
+./ros_prerelease_tests.py:10:1: I900 'termcolor' not listed as a requirement
+3f9d84c7b7913fb454f922a406e34a1becfb5900
+./ros_prerelease_tests.py:10:1: I900 'termcolor' not listed as a requirement
+40c9a978f6713621f1d4fa6246f3c6b48a98799f
+./ros_prerelease_tests.py:10:1: I900 'termcolor' not listed as a requirement
+8d656ce2402bec7456dc36a467892e6bc46985b1
+./ros_prerelease_tests.py:10:1: I900 'termcolor' not listed as a requirement
+7953b69b4717b6bfdda1c8fbf796cf4be846ab59
+./ros_prerelease_tests.py:10:1: I900 'termcolor' not listed as a requirement
+fdd2751c82d1795949b3ebbf530e0240e966177b
+./ros_prerelease_tests.py:10:1: I900 'termcolor' not listed as a requirement
+abbf53e5b5f941054ae0e3157316018500f8f946
+./ros_prerelease_tests.py:10:1: I900 'termcolor' not listed as a requirement
+ce7b4bdecc4fb885ca6b029e700095e9ad786089
+./ros_prerelease_tests.py:10:1: I900 'termcolor' not listed as a requirement
+9d59c862d2e62f364b99fdb2f8adae0c13d34cc2
+./ros_prerelease_tests.py:10:1: I900 'termcolor' not listed as a requirement
+39d0c562222296f3d8582a1dcb68e993b15a0b67
+0fae5ba90ca7f4c91b997fbe67510727ab00bcca
+b518695e7cdf2b3bd688a34e43b5a24a8732d320
+36770dbf1a934ebc423d0fa74494a97d884db41f
+58ffe9a33f41a793ab85a1948b453bd30deac7cc
+681bb72f0687956b358f6f3320ccd286531006ba
+60777fea3e9c65daaf63971cdea0883018d0f6c9
+a965e9d7c7434c6d264e5bc8af2075e8755d1c3f
+d0f323914e29ba7825a04467ad487b90ea4f8bfa
+f0447d404041d4092c2df5436d35ae639574862a
+c2c7f640f4b37a9cf546aaf14f155c372971f8e2
+15bf606e6dd97d599fc9b7614438d15cd287bd60
+79d88e9af9559365a71c1e62b75f9b1ad6d013aa
+cbef6dc927860e2f09501959477bd005e4d9f406
+74f8c9d157eb8bccbc0e09b53ffa6d6259a06dcd
+22c73682d0ea0d9e51285d398a4e4da69d0ac13e
+c6e7702ed5c705918e84991ec625b42b1850ced5
+d88279825c705b092f71117c21f19dadf71178d0
+4e86407608fd6ddf80623ddfeb116d21cbcffa81
+1bfb5e81fa9598e9e51bba713d49dc77d81a2ba6
+d10d053cefca47b7a9874538dd776224c54df043
+e617a727226d26d5b0dfc574c61809f8dde12bc4
+13463527fe5a24f4192362cf43d95d2cd78e649d
+d00be8d949a9352601c6c7c6447000ddb1762911
+0da53d0993e1ab75b5dacdec1c06c136c85349ca
+68624d674d67459a465269e34ca6cac2166c18ab
+68624d674d67459a465269e34ca6cac2166c18ab
+Checking async_comm...

@@ -1,2 +1,959 @@
+64e1782178b7e237e0c1b2b203a6168e5f0c0a57
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+074a4e4ad19de9fef35e97b6c1052460204fd577
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+9d25ad090f8e316b22701fcb75d5ccc0e795820c
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+43c7cc26f3e4996b43aa6e9541ad988c117b3f5d
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+11dc6e78f13e6540b1690d426ca98eda69ffef81
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+efc24197c0ea7e6f96c7cb3643111d8ed75a2d1e
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+11581c867d9e0263b429dc146805e9cd7c90c10a
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+5a4d74d7c5064e6bc23b0b0a291b7b14e33fd3ce
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+9f616a5c5c7098f55960545b795a1038e693a528
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+0d05752c46918519def199019d946b83d32a6a5a
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+f64dc6c3eac47103151fec113f093387f7c1f670
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+ded165562e0b5e7a240b78e7fabdacc78a0704d3
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+07ad710a40ee05523150d406970763b77112c0c7
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+489b1a42ab9eb7e9f4d56aa69214c00bd347a475
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+d5745caff83e999baaf877feb2e8270ae64b6d27
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+d1088c830c89f925ebe7f0389543fb6a7e325b7e
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+f85402e459943c242e66ac6653aa510257104f2a
+e95ba50e6c80da138ae716c0fd3ae17149369d2c
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+caafa3c35a7b1a90e5421e5e095338584a01e7c5
+3e35af01279f0fd563e5b4bd45deb7609435cdf7
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+a7c3b9337eabe4a6b4a56ec4a61d9af094635541
+ff6848a89c6e8ccb2883cc9b855d446778834f6d
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+771838fb206bdf9fa5dade9180431e94098a8a70
+611269f306f584319bf9222799347b4fef58d3e0
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+94ef47bbfc673212c091107fd35733bce995d31e
+07b60af29fd12679faedb949a2d55ba9688d86c6
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+ec2a2d34f2a69420bc338afff52a49adc8b90fa2
+dd790a616f99880b278e85edc0e0e427c0f75694
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+a30c1c0f0dc9a9911c3d950517d9328914d8632a
+4762efd3561a6e7d590e8f7b5c84fadb5d738097
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+1eb0a4a9fe5e4a03e92ad78d1c96e612abb7e450
+1e84e938299bef99494154db84af6c6307d0bd04
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+71d3bfebedd103a96b317872d13d6d033747cfc3
+0d9f5d861886df5add201e5704a42a7a39c36344
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+29ee9e9b391e3304638079b66186bc90477bd60e
+43f44e9f49deee1f6a6d2af7e53020bfaf3980f2
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+85189666e5bbe5c7c33e560739b5679850dac45a
+162640cf370ba64ffb39ca8da5cb30fe700072bd
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+3e3a7d907469ba42514e993524a4c0471bc3a79e
+ab9e43529386106b4b2ecfd132ea34aa022d10f0
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+6c559e819d1f12b2c471a58fa098c2f89eb3bd02
+0f0192a6ce3acf520704b14b731f27e8feb12439
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+c7f25a555e607292a76da96d3cdb7b7cae2cc016
+817a0bf9b55a4346570df80fc17ff3ef055a075d
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+187e6b2b635d0968cb588148f84c7e3f5e04ad35
+6358149988c22f762677ac0c4ea1cfa3808bfd15
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+272bf14933442e576d3f374fde60eea455e777d1
+a3ca3cace1bef584059dd7c50919ad60ef19128b
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+9232e690e3f53ba24faba252eb196183c3d3e160
+2efd0fdf5ccaabd003a3c42775bcfb855711df16
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+c50cfa1a7e01456fdd72fe41d60b268b4f37d58b
+04d6084b5275be1a6846ed35fc96987e42a01fab
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+371ef9d2ca9ac9e579b24dfe487fcf6cd8d123d4
+20083ee8ff9a2df9b32883647a3c104ced3dd8f3
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+4b4cf389a193740791d1294cfb81a9145b89fec5
+aff9c32ee7f48d4fbc3b2dbe76c67c26aaa5c369
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+418d6bb1cbab44d035d25b13e1a0c83801724000
+a5f8b07adf9a68658c85777b2580c5268f371910
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+9e3259244ee3b168d882ce9790c9fda44a34f1f2
+95742c6b80aa41c21c8338bf36d1dfd42bb4dff1
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+ca381bb83e38e045585d868e31079d19ffdb72f0
+16521faf7195fe8dea21f5dcf718b41e70eb53f4
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+92be653ca312e5a5d1de2802afab5018fe229f27
+2d3bb32a13f8910f0284cdaf4a6d546b7ffeea2a
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+b28f9b7a4b350b85d84b85ac990207d0f4226403
+f4c34ea3fc7bf2db6f3dda01b12c276060e42520
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+43533f269dfaab17559a51913cc36877010102e1
+4d9d8e10beb5ac80f9d4b545890a2cb0366b239e
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+eda936c9bdbe851ac8d8bf6a8daa74def9df37cc
+5a0e4920b83667f9120633b31483e54858efcf67
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+8df78dfb0ef2f22c3e3aa3df51d7b5fdb408c973
+4c4b9a24118be53eff6d65dc6762fbbff8a2daa1
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+352dd29127b13eeb1a55a00e5224810c3a0bc103
+fe0af7c413d42ddaac25c976f69999a1bafc3aae
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+c4ec6d6f1f2cb370344827df533159e9d0379f5e
+c05b55ddb5e2b0975f4a693d0c2c8a6aebfa32fd
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+f4c6142d7f6af818a44f96bdc8859cbb9c04380f
+0c644cc3fb29dfede570e7a846123da0bd20c15e
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+0ec24e591976664cef85d7549e335214c46b2603
+2d202b2f47243efaa85d6446cf8ed03fc9302856
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+a62f4a172c9124b1cf801c1d544b43cf15f65237
+7342dc1aa0f6f17975c050f2a01f67bb70578640
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+9e4571084260a7c60b953f10ae57d9cc81604afd
+3a6ee5ece1f20a6ff9a8fffd89b69ce2d8cbb7e1
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+686036141746200864c35cae626748abe1b78093
+8c7bc2230c9ba3b79509d1461d6606ee02ca1eba
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+8476b3cd61987c1b31c1873a67ccc50a05d970a6
+ff4ca2a89b0e157a808eacb09320593e72e86367
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+e3eca63cfc465f15ebecabecff9b6ad79e3eb513
+c92f6a2abf23358609ee7a82154148e8ef5e7d3c
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+50b4b8cf4f8fde6af7fd36eb9e0a9ff40fffb332
+e0a3f7899a44e282fe52a7b8d418f056f268152c
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+296a2caffd502c06ee807014fe89c3e496441a28
+8fd3abe7501946d6a9f41efc3fff217b63e1ec56
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+3d8aecede3970e499f697e70a51b9361d9952094
+b2ff1e69bcf7dd441b61a93f62ff4dffcc4ea1c6
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+c4fed3467b4c7b0144e2e7d7e8b68298d71e7d5e
+a01a82c001ab21f448f9561c53e89aa214b278e5
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+20e5640b327a8d9daec19d8793c2399f4f42f1e7
+eba396d5c22ab5f6b14d057d0f0389beafae58bb
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+5e11898b32eac034a72c4bbce09e1bfa622b12ea
+60bf6a84023dcb180ae5d6a8c4000284f05cc342
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+7dd4b074f18e1d73d535d2ec1ed380c00dc6cebf
+588786d1e501d41641ed9f4b807cb06be36d2a11
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+5b05c94706a815f067853d31135f31e4ec9793a2
+5f1b10d86c6db20bdd19329a65d64fcec3b4db1f
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+6f9c10d8ac8e7065d761f39be85cd0843f7a5e99
+8058434125bf2ee4b7cf7bfe03c2e6d8b007c136
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+7090106e6ddbc07f45945afd83561f0ac41ad031
+b1eb835ec1b309f74d933ef9286dff81ebc1a6c5
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+3c8e95dbb2a7b72f7f9c39f0d2d142b4c610a96f
+7835158b54d0fd6efaeca9b97dd04307ef4f337e
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+373aee8d386a45358e87dbf0550a9d38f2117464
+a82f169c6fd0351b1d74889d2ff5645c476ad369
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+0e7708a1214937a8708a94e25e752ce4aa2ec983
+aa6d714424a7f6be1f1093dbd91934ab442e9c02
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+324e0459f01cb10b8238952e5f22094378595f5e
+af4f0999b3b10eb879a6a994846c271c8e40caec
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+30d8fbf161bfbc6d75092000cc120296d83c93eb
+ec30200b3bdc7a84eef32f9595337334ccf4b81a
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+4637e375d059207bfb6339c448bb339f22da0145
+3ea80cd2fc946787aac9322ba8880edf424f7575
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+261c2c30456f36f85ff674495480586e300f0ca6
+ca94b5c67bf896fdf3f1bf82e7214b18bc85843f
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+fef06a7120a19419e31db26b0852a3949c3aad01
+87b6b6785dfb3ea579fbc9c0a6ef6912a96e25f4
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+3411307c7df4281306d2e32a582b094a5b394abc
+9e9c832bee7848cc3600a77a569ad716aed7e447
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+a66660fb694e861edd0d32c96c22a7a390bd6e53
+4c2fa3c99d4b2562e9231fd69a0a123abc731ef2
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+8b84e404f3c4a432a46adc7da4babee3d2ff8a80
+f6a0016746e60c031cfbe187167b473639c4e6b0
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+03f4f8765e139c7bfb7ef78a4cdbd5d6a23a5d11
+2c530a53799f17ac387aad39e8b89f4624b2c67c
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+3a20f41cb025c59d0b0d068e973324746cd1dc23
+b7ed305cf6dce4c2425b28a17ca5341649f6fcb8
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+d697c8236e044efa016c1b9eec168c6a7b917687
+b17335e13c3c44a1bd61611893631382da24c7e9
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+f162c36e93c70a40716009fc3c0e83481bd5034a
+b38422f98b888acdf9fc5ee278d707a735fa1dff
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+84322dde7b1d4fb1e94c88fdae8795c9840c9952
+fb8086f38d6c3cafa18bbd33d2b4ec863e0f2eee
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+c9cda6f0f9480e1d56a440cda497b57cba7861a5
+f83403bf75d7468befe714d644ceae15f4852c0f
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+f45a06189b5e83624c64a1042d2459fadba07dde
+f5d9bde09cb216f934de20733a69ad21546a91bb
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+35884fcd81bdbb641040f6483321aa0884c1c3fe
+0baf42d5f9c1e9086f067b2f23100ddc8904e123
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+e4475c125e776957c68e92a3ec971d3a2df941a4
+80858452acdf18b0210c3d0b54fc71aee7348119
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+00220b12b5efe309fe5e7cd8415ab22fde5a0dd0
+5d04b18da02e4ef0e529aab334b5238368e6d670
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+2451a45796ed0253013b9e083f1aff34761407c3
+2bf408bba53aaa4f03aba63d88581a14ff087e6d
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+1027a35fdd4bd36193c418be576a153c424fc455
+9574e38d36a6eca454ac1ccdd0b64df19e87fc24
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+cd975dd99980023591e04e0d2945f15c610eac9a
+39c533202c7306f584407d0042707f7a9b1d952e
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+d5ca2da3cb062926077ff1468ca0c3ffe9570cd2
+9e2aac8900e459ae32159c6033cb280819301dca
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+d1d83500526b95f7ac7ca7c51e8533d90bb20ad4
+19cbb4cb6bcb59a4ac68f0b7f01fa9f55910dc8d
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+3fd5708c0c16af6bb2e7dee46739bd418c09a4cb
+aa945247fe64c2d2ec2ed58c37ed00a3120a5c0c
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+3dcd21bb5c1b5aadb23dac0ae03eaefe399680d4
+bfaff4764cc0dda73460037527b7bf26c203dcf6
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+c48fd71063fb1771aaeae3eacdae2ea9a245bdb2
+7003e0f99d2631eae469c6ad262506951e80a2b2
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+fdbfa83720327e6692618f82489426802cfa4da4
+b41cf72b010be1b537f39012e2123b82fdc88dbf
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+2e7191e8b1ffdc54b8844d99c19efaf195cd50c1
+e1f84345ce221b5d0205c0747c94f1cca9529a15
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+cdd5ad0b96919f9fd2a6fdbf4e34d41ee93d4ab6
+8308b0c3c45d61b677c2a65656592fc84e120114
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+669bcf8bf83012cac0bc6c0b414fa163d0fa338d
+4f9f1744d20e2137189a958d41e72403ebc6637e
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+cb685b4af593d1feeaa270779a9a9b309de363b1
+bb9b6ec63b6f50a34f2eb286918cb18d585b417f
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+659c5761c2257a3452d6caadc427638818b37b88
+2e86d72d2edf14cdc68234fd946073fba325b179
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+2434a544d91ddf3924ba3af89edbbdac2ad5e041
+385c5cfcef1391abe6b6d6dd75a427b99e68059a
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+0b545e80e795d3729e19f0b54bb86317b00a913b
+409188902c31c9365f72fb4ad5dfa0b8b5be865c
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+5eb8d20b2401c367cb091db115eb2e5f274ebef6
+dda6f49a8db101ae948a98142cf9958f18266e03
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+c5c0063649bc80fa3b12cc718835b92c4b687eba
+9722d4b5803b9eee816c55699124c9b0c4ebc885
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+c019f1b1c4be69c3feafaf5ff40d30aca9c5aa0a
+9e7bb060a53ed1eabacb5cd5f43d1f565a128a44
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+82d7c34ec33494ad06ecee865144f4c8f38c938c
+71755bebb96af2af1da94d89faec5431d3e57755
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+ebf90f01bc7ac71dc74a5f7684182827d2505c3e
+a18fdf8909c92cf27383487f48218a36a15f2500
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+7b2414103585183897e42c3d1c1075ee303f4fb0
+e108c81313cdd6d8bed84ab66f8b1fb381c701f6
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+7c48ee7a8272a1c106c6da8eb19c5b7de03c861a
+809d815a578ac72ec87c3003aa73262dcd567885
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+0a79092ade6f0b71e390b6d4bff38c029f7680ee
+43148a1e23347d189610b5fa4ca543c344c22bb4
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+786b9826ca3f4a474642c4851531bbbbe2c8344d
+72ed438c205d69f1699af8ad0b9b71621a2232fa
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+b4a4c72151763f4c081a29094c1c9420ee429804
+71226045d2dea887d2fdd6dc8c8bd7cc368d89ea
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+7856c2f21ce3060d41e1012ade6202d27dbbcc4b
+c0fe31710ea9e403d72a5a1953301409a4a87bde
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+0330282b9595d6bae42d6dec0cd57fecd6906f41
+27f551068a662eb6e45859addbab8dd512e607db
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+6d6423e494ced4de93cffe6b8c495ff66c3208b5
+c7df5995384a995debeb8f6e3ba5e82f6a59943f
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+c662f37796f83bb12156e406a72709e1ab1ece07
+65d76d10e6282da1ced3d134b1a946d3995f8380
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+86a675e8b351a2211a7dcec184b8a35f12f81cb3
+5944208e89e53f7df27b192b3ac150d7c6d1513c
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+d214e3cacf0a4c0b990e7864863d1348f99ae827
+21908e39e52e71653da1c06a3db52776eed52336
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+4da70aa9b6ba68025f5ece145fe224b7209bd98a
+a9f77992491c03a9e8b22aa5c78178b1827719ec
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+fab50bdf3e2f7f039b808820944115c83f36ef43
+326beb6faf7b9fe9bdc3a8639c1cd8e6f38fe850
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+d04492a1dd0c7876bdf980f08c07383096705b4d
+a41a08c0be8f78b8e7ee6a04d20c71c5ee5d4fb5
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+536c2565e3f98dfa2b98def51dfebb8de33c5595
+c4313f750673cce1dcaa6d40ab954115fa53e176
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+376b1256b4e30aec34bcb62932ae235b01496927
+a95be63a6cc6025fb694b1eb542617147f1250b3
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+f6139f5709fbe1f8fa851e3f9abd8b0997f9598a
+e23dc3cf5e87a8f0c2026cd4292350fbbf713e3e
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+932dbebaf747e41d2b0d28ac6e9103ad200bf504
+a5869aae58140f0466a8d8b0573d24527640c32b
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+c43e37293a757a04dbbddb9733ebfe2dc0ec9625
+2016683847a046b6295a8f54089d68bb481dd502
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+9ba04b4f30579c02d8ede9fa158f1d32dcbc1dec
+6d22d8ff67b92bec3f1cc49d8daab6a0bf2fae09
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+da6b469a875510852dbc3752ce1c74e850ef968a
+b8bd6b629fb965d4c56691a33ac391b4d40d2782
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+2b423aab6daf454ad0e66598b8a681f94b931b6d
+48b06a1cf82892e103d2830fddb584634d4423f8
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+7a76da155e7ec6f1bf03308e1f197fa1ee76b74d
+f20c3ef066dccc61e8cd6a660044bb982403c0db
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+7aaf48be73f20e4f193df68fd679ddb236e81cef
+7198868e26cc6fa585566eb0b2e8a5482d09cf7b
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+247e0f8c5897c97b962cc72760ff8d425c84af3a
+657914fb8d2e4de9599e7fafb5f6a0738e27efc0
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+f8a3866aae3bbea3e100db26c5f93cd1bdaec726
+59df382b7d641db5b192eb63e8236f07338d048f
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+c80c4e0463af7f7ee0c87d559c59c04a7203408c
+8784cf2a67163d92c3d41aaa10e2484209b91d31
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+19688ea43c38f9eeef14de40c3a31682012cfec7
+07d75111141e7e05d41e751d260e8d9fc7e183ba
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+25c1106b6a522f430ccd2c2e78690a7b679ee1dd
+ebb5ff521c5b00f95b8496cf99749c66a2d2704c
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+4d22b0acc0082e354982eba7bf0b851bbd258526
+e5ef862de74d0d6fa31facdb71111ecc3d0c7fa4
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+b002ab1e74fdecdc0d179a638293c7525ee42e2f
+5a96ec99d157b23c502bea29d09ef73727a20f17
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+33d6328de7846d1d028ce2e7fc21d09ec9778ae1
+dbb8ce6f474b6a1c8dde746554bf444a1c65bc82
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+8ea48b0778a8a372dfb821bb1a90dc55ecb51775
+bd1bcd16d0a079d4ca95ba9bf95eb1784358e803
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+02bc2152d25f488e257ab72c9876136ee83867b2
+e2ea096d0dac1938de80a2750429c3f8cabd8941
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+d82e0476e1a2ec20ebf302a471cc6f8a5edce431
+ec772e57aa29b59d4e2c164b1171f0ed1b21b73f
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+de8ed9743d919f9160f34217616a62e6d1badeea
+1c75ff0a9d18fd26eb111214f4c8114a13bf06bf
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+bd5e7653d8ef2309702ec81e7673ae103f447317
+0b0d0523cf2b18f0b823fab5719cbb29bde4dee7
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+140cde84ff14a34292a212529d201cf8da40b093
+87299e4f1df705de729776971e289df94c9912a3
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+e06a4ec7a1a540fcefcfb481b48a96ccec9f89f5
+843d99781fcb7b690904c43e92fa4f7325d84767
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+4eb680affe02c5e454d21cd7a3d1123a3360de4f
+e79dce7c32348e812371792bf2c388e08bba4c03
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+6b14322c31569c53b0b379309643258198ff824d
+770dbc79b90e75fef41bc8126be9b51b6658aa20
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+64c4fe740668bc6683e1d0a851003bcdf0639939
+bb92c9b27c5df37bbebbdafd3aa68491863841eb
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+502706aadd33196516ecc1eebe7c2dad73a9b28c
+822f54d48ad8181dacd65309e704110eb9047e4e
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+48a881fddfffa5057bafd50e013b5e234f3df8ba
+d2c1da03ba791c73af9b7d92e18ffab936925bfa
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+73255c559275e6406cbee6e8429a1680df66f1e8
+1ee453bc2de830c45fc927030f8b3ed4ea4720e4
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+1f50d0058a19abdcda2be26d4b794e95abb115e1
+5c224b5334a36f73b6068422b1f24c0597178751
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+e0f61c0e295e6b3f637d4753165eea130d24af80
+f09323c6f3b3d14b64ebf0a79e4d3d1fe2715f25
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+27912cc220e76eac9307f2bb14996674682ffdb8
+1c5dcb1bd6d388eedfea9dcbeac42128ef07528b
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+68d2a8f659f5f26a0c040b83636f1573ec3985e4
+bf070c1aae27032e6845d01258310ff996d26155
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+9267835eb61888fb9adbf7b30d9f547a23dfd337
+05c9a82bdab2837e4082d52ffdcdedddeb27b6f1
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+3881d9471012b1506e2b6eee3ef6ab63553b15b3
+9670c85b15a7378ae24088c52ca2a2243176719e
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+78107a471dca1621bc5bf8fcbe584a54b7501899
+a48bcc1f456a6c0f14355927b225f4a84775b034
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+e99b115c5ca91800edbf0c306e3a97fa12a8d4e1
+52e74ac9e275c4a01bc5484e1b7a01f01eb2289a
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+31664f2a3d3ee776fe6447a3570f86c5559f05ee
+7444af297d3b9cb220a73bd37bbab483f284a75e
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+007fa65db5508ae6c6f3ab928ff1916ed451128f
+6353aa09914bda6749778c844474f77d02a7ae7e
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+c58b292a3a4d6abab9765d9ede8d22d9f6c728d8
+b1418f55a75e56c141f30a6d7fb26233a0110cf5
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+f18f33e269dd70717f13aa779f1141306e75348f
+b905f86d213011a18b5fec737df17bee86a5b9f6
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+c4d3f8cb0a53839c9fea290b681e786d896ab915
+6ffeea382af9b6978f4b63247c9dc68de5337539
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+63d3b91c5412aec803d43ed69dab5d0ff7825f87
+cbce0ee7878b186b05d68068a99ab3918d497533
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+7280788fd912c3ec022c0c5dfdd8f23dd1d36329
+d57c8517a25576436f287b6d25e71c5b1d1117a4
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+ec74f203f40359db476bfb85c9d826c14eff3102
+270ae48e692a7811dd0da6cbcd377d6bd2859f9c
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+5bdbd2a0747c2124978f3bdf323e039d63e19b6c
+5b7176914cba9bbc9b43176a0ef8795608e8927b
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+7e97a0ecccd5690ff3bcaae71267c0c6e5ac5b92
+25e5fa896183b90b1d649264b516f91fd29d3293
+./mavgenerate.py:33:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:34:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+./mavgenerate.py:45:1: I900 'mavparse' not listed as a requirement
+205db3468ba518522d5b630bd4c1141b2b645a3a
+dea6606c6b7f1b43064636463321a85ba8efa08d
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+6fa7ea17c61510f1e8c00676488754073d01f93b
+162a3cb35c12c10217e6de1d93fbcb4057aa332b
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+0b4c3c13725cad55d5365dd3e4d17309b8d45542
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+3c88757ffdad49ea168c1ac16a67877c6aa6c87c
+25c8ea8b35e63443c146f2a9672f30f0365c86ec
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+99c75cd8cba0d95380a1e52f23a0adeffdecd342
+f4a18b6429bcfaccf7f18422ac2498f666a4f769
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+65cb429a433ced1044ded4c81997521eb6aa80be
+37315baa9916b53ce8e40b990716a35b5674bfba
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+43664f6ccf0ff3366ae8c14ce452bd268367a314
+7e4bd1eb3250f2baf4caf081afadd858531b333a
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+4a4f26ca2d0c7b172bf4abf8b7e300368c14784a
+efc0a159d877274793f8a6174c0cd7965e5235c3
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+f3ca1c3fc8449b4fecc8ff0ecdbf9c5d33fb1fad
+8dd32d99a6ec3bf9ee1553cb61ec394c39a3f011
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+feb7a07a47dfa9b8e35cc4d8a3f55add24daee6c
+70206edc5c73796a9eb61bf7c6895ba9a4c2a38e
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+04b6b310d267c181c0d6f44d890aa9d0fc9f3fa2
+5655314e7f7e52062ecd9e63ff945a9ce48cead3
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+b25b97ad97734a6c9cf689e9a0fcde65a9ff5a83
+ce0ca4833b012cd82b6f92b113656edf34aa6cbd
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+37674ef22aa87ccbca6430775956724f42e11607
+96e56e659329fdc3c0da3b24ddecda99322b99ba
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+29731fa1ef3720c0e6f076145042fb50ac82b789
+a2490d6a98b198db15b5b7aedc69927327a8a7a0
+./mavgenerate.py:34:5: I900 'Tkinter' not listed as a requirement
+./mavgenerate.py:35:5: I900 'tkFileDialog' not listed as a requirement
+./mavgenerate.py:36:5: I900 'tkMessageBox' not listed as a requirement
+./mavgenerate.py:44:1: I900 'mavgen' not listed as a requirement
+f76b19eab13967a1b03d1ab568f923223fac3d81
+650c767c60180ab95af1b148ec69627b68e08502
 650c767c60180ab95af1b148ec69627b68e08502
 Checking mavlink-gbp-release...

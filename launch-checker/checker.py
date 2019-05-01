@@ -26,21 +26,42 @@ def find_launch_dependencies(path):
             try:
                 tree = etree.parse(p.strip())
                 includes = tree.xpath('//include/@file')
-                for include in includes:
-                    regex = re.compile(r'(\$\(find )(\w*)\)', re.IGNORECASE)
-                    match = regex.match(include)
-                    if not match or len(match.regs) is not 3:
-                        continue
-                    dependency = match[2]
-                    package_dependencies = parse_package(package)
-                    if (not exists_in_workspace(dependency, packages) and dependency not in package_dependencies and dependency not in pip and dependency not in rospack):
-                        error_packages.add(
-                            (dependency, p.strip(), package.strip()))
+                rosparams = tree.xpath('//rosparam/@file')
+                include_errors = check_finds(includes, package, packages, p)
+                rosparam_errors = check_finds(rosparams, package, packages, p)
+                error_packages = error_packages | include_errors | rosparam_errors
             except:
                 continue
 
     error_packages = list(error_packages)
     return error_packages
+
+
+def check_finds(elements, package, packages, path):
+    errors = set()
+    for element in elements:
+        regex = re.compile(r'(\$\(find )(\w*)\)', re.IGNORECASE)
+        match = regex.match(element)
+        if not match or len(match.regs) is not 3:
+            continue
+        dependency = match[2]
+        package_dependencies = parse_package(package)
+        if (not exists_in_workspace(dependency, packages) and dependency not in package_dependencies and dependency not in pip and dependency not in rospack):
+            errors.add(
+                (dependency, path.strip(), package.strip()))
+
+    return errors
+
+
+def parse_package(package):
+    tree = etree.parse(package.strip())
+    metapackage = tree.xpath('//metapackage')
+    if metapackage:
+        return None
+    depends = parse_depends(tree)
+    name = tree.xpath('//name')
+    depends.append(name[0].text)
+    return depends
 
 
 def exists_in_workspace(package, packages):
@@ -58,17 +79,6 @@ def parse_metapackage(packages):
             return parse_depends(tree)
 
 
-def parse_package(package):
-    tree = etree.parse(package.strip())
-    metapackage = tree.xpath('//metapackage')
-    if metapackage:
-        return None
-    depends = parse_depends(tree)
-    name = tree.xpath('//name')
-    depends.append(name[0].text)
-    return depends
-
-
 def parse_depends(tree):
     run_depends = tree.xpath('//run_depend')
     run_depends = list(map(lambda dep: dep.text, run_depends))
@@ -83,13 +93,9 @@ def parse_depends(tree):
     return run_depends
 
 
-def _get_rospack():
-    return rospkg.RosPack()
-
-
 def print_errors(errors):
     if (errors):
-        print("Errors found:")
+        print("\nMissing dependencies:")
         for (error, launch_file, package) in errors:
             print(
                 f"\t'{error}' found in '{launch_file}' \n\tis missing in '{package}'\n")
@@ -97,14 +103,11 @@ def print_errors(errors):
         print("No errors found.")
 
 
-if sys.gettrace() is not None:
-    print('Running in DEBUG mode.')
-    path = 'Examples/rosdistro/velodyne_simulator/'
-    print(f"Checking {path}")
-    errors = find_launch_dependencies(path)
-    print_errors(errors)
+if len(sys.argv) < 1:
+    print("No package path given. Please supply a valid package path as a parameter.")
 
-if (len(sys.argv) > 1):
-    print(f"Checking {sys.argv[1]}")
+if __name__ == "__main__":
+    path = sys.argv[1]
+    print(f"Checking .launch files in {path} for undeclared dependencies...")
     errors = find_launch_dependencies(sys.argv[1])
     print_errors(errors)

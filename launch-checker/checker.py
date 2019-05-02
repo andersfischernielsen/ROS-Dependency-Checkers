@@ -25,11 +25,9 @@ def find_launch_dependencies(path):
         for p in paths:
             try:
                 tree = etree.parse(p.strip())
-                includes = tree.xpath('//include/@file')
-                rosparams = tree.xpath('//rosparam/@file')
-                include_errors = check_finds(includes, package, packages, p)
-                rosparam_errors = check_finds(rosparams, package, packages, p)
-                error_packages = error_packages | include_errors | rosparam_errors
+                finds = tree.xpath('//@file')
+                errors = check_finds(finds, package, packages, p)
+                error_packages = error_packages | errors
             except:
                 continue
 

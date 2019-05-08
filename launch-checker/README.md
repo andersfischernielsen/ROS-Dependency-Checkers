@@ -1,6 +1,6 @@
 # `.launch` Dependency Checker
 
-This checker validates imported dependencies in ROS `.launch` files using the built-in ROS tools (`catkin`, `rospack`) and checks if any `$(find)`s in the `.launch` markup are undeclared in `package.xml`.
+This checker validates that all `$(find <package-name>)` substitutions in all ROS `.launch` files of a package are declared in `package.xml`.
 
 ## Run
 

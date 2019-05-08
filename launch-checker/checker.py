@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
 
-from catkin.find_in_workspaces import find_in_workspaces
 import os
 import sys
 from lxml import etree
 import re
-import rospkg
 
 
 pip = list(map(lambda package: package.strip(), open(

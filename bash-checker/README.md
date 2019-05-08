@@ -20,7 +20,7 @@ node dist/checker.js Examples/MWE
 
 ---
 
-## Notes on ROS
+## Notes on usage outside of ROS
 
 This checker can in theory check any given folder with shell scripts. Certain assumptions about folder structure have been made since this has been developed with ROS in mind.
 

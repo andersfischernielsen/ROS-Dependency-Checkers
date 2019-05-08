@@ -4,7 +4,7 @@ This checker validates that all `$(find <package-name>)` substitutions in all RO
 
 ## Run
 
-- Install dependencies using `pip/pip3 install -r requirements.txt`
+- Install dependencies using `pip3 install -r requirements.txt`
 - Run `checker.py` with a path to a valid ROS package containing a `package.xml`.
 
 Example:

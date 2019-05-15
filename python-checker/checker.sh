@@ -8,10 +8,17 @@ checker_location=$(pwd)
 cd $1
 
 find . -type f -iname "package.xml" -print0 | while IFS= read -r -d $'\0' line; do
+    dir=${line%"package.xml"}
+    cd $dir
+
     if [ "$(uname)" == "Darwin" ]; then    
-        ggrep -o -P '(?<=<run_depend>).*(?=</run_depend>)' $line > requirements.txt
+        ggrep -o -P '(?<=<run_depend>).*(?=</run_depend>)' package.xml > requirements.txt
+        ggrep -o -P '(?<=<exec_depend>).*(?=</exec_depend>)' package.xml > requirements.txt
+        ggrep -o -P '(?<=<name>).*(?=</name>)' package.xml > requirements.txt
     else 
-        grep -o -P '(?<=<run_depend>).*(?=</run_depend>)' $line > requirements.txt
+        grep -o -P '(?<=<run_depend>).*(?=</run_depend>)' package.xml > requirements.txt
+        grep -o -P '(?<=<exec_depend>).*(?=</exec_depend>)' package.xml > requirements.txt
+        grep -o -P '(?<=<name>).*(?=</name>)' package.xml > requirements.txt
     fi
     
     cat $checker_location/built-in_rospack_packages.txt >> requirements.txt
@@ -32,6 +39,8 @@ find . -type f -iname "package.xml" -print0 | while IFS= read -r -d $'\0' line; 
             flake8 --select=I900 | ggrep -v 'msg'
         fi
     fi
+    
+    rm requirements.txt
+    cd ..
 
-	rm requirements.txt     
 done
